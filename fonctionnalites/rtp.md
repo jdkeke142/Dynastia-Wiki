@@ -1,6 +1,6 @@
 # 🎲 Téléportation aléatoire
 
-La téléportation aléatoire te permet d'être téléporté dans une zone totalement aléatoire dans un type de monde spécifié. Cela te permet de découvrir des nouvelles zones bien souvent inexplorées.
+La téléportation aléatoire te permet d'être téléporté dans une zone totalement aléatoire dans un type de monde spécifié. Cela te permet de découvrir des nouvelles zones, bien souvent inexplorées.
 
 ## <mark style="color:yellow;">Les types de monde</mark> <a href="#types" id="types"></a>
 
