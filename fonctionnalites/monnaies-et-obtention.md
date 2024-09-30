@@ -33,5 +33,5 @@ Le crédit est une monnaie non échangeable.
 
 Le crédit s'obtient en réalisant toute action qui soutient le référencement du serveur. Actuellement le crédit s'obtient des manières suivantes :
 
-* En votant.
+* En votant pour le serveur.
 * En restant dans la [zone AFK](zone-afk.md).
