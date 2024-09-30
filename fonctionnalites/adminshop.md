@@ -26,7 +26,11 @@ La vente rapide est accessible depuis n'importe où sur le serveur via la comman
 
 ## <mark style="color:yellow;">Le SellHopper</mark> <a href="#sellhopper" id="sellhopper"></a>
 
-Le SellHopper est un bloc prenant la forme d'un entonnoir. Il te permet d'automatiser la vente de tes fermes à l'AdminShop.  Il est achetable pour <mark style="color:red;">25,000$</mark> via la commande <mark style="color:yellow;">`/shopper`</mark> .
+Le SellHopper est un bloc prenant la forme d'un entonnoir. Il te permet d'automatiser la vente de tes fermes à l'AdminShop. Il est achetable via la commande <mark style="color:yellow;">`/shopper`</mark> .
+
+{% hint style="danger" %}
+Un SellHopper coûte 25,000$ à l'achat.
+{% endhint %}
 
 En entrée, il agit comme un entonnoir régulier. C'est à dire tu peux directement lier un conteneur quelconque au SellHopper. Tu peux également jeter les items sur le SellHopper, c'est d'ailleurs la manière la plus rapide de vendre, car elle n'est pas limitée par la vitesse de transit des items à travers les conteneurs.&#x20;
 
@@ -36,7 +40,11 @@ Lorsque l'item entre dans le SellHopper, si les conditions suivantes sont rempli
 * Tu n'as pas atteint ta limite journalière pour l'item en question.
 * Tu n'as pas atteint la limite d'argent stockée dans le SellHopper de <mark style="color:red;">150,000$</mark>.
 
-Alors la vente à l'AdminShop sera effectuée, avec une <mark style="color:red;">taxe de 10%</mark>. L'argent obtenu sera stocké dans le SellHopper et pourra être récupéré dans le menu de celui-ci. Une entrée de log concernant la vente sera également ajoutée dans ce même menu.
+Alors la vente à l'AdminShop sera effectuée. L'argent obtenu sera stocké dans le SellHopper et pourra être récupéré dans le menu de celui-ci. Une entrée de log concernant la vente sera également ajoutée dans ce même menu.
+
+{% hint style="warning" %}
+Le SellHopper déduit une taxe de 10% à chaque vente réalisée via celui-ci.
+{% endhint %}
 
 Si au moins l'une des conditions ci-dessus n'est pas remplie, alors l'item sera éjecté sous la forme d'un drop en dessous du SellHopper. Une entrée de log concernant l'échec de la vente sera également ajoutée dans le menu du SellHopper. \
 \

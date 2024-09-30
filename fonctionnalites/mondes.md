@@ -5,9 +5,9 @@ Le serveur propose deux grands types de monde, qui offrent différentes caracté
 * Les mondes survie.
 * Le monde construction.
 
-## <mark style="color:yellow;">Les mondes survie</mark>
+## <mark style="color:yellow;">Les mondes survie</mark> <a href="#survie" id="survie"></a>
 
-### <mark style="color:yellow;">C'est quoi ?</mark>
+### <mark style="color:yellow;">C'est quoi ?</mark> <a href="#explication" id="explication"></a>
 
 Les mondes survie sont des mondes dans lesquels tu peux construire et farmer sans restrictions spécifiques.&#x20;
 
@@ -22,11 +22,13 @@ Actuellement le serveur compte 8 mondes survie, qui partagent tous les caractér
 
 ### <mark style="color:yellow;">Accessibilité</mark>
 
-Le moyen le plus simple d'accéder à ces mondes est d'utiliser la téléportation aléatoire, via la commande <mark style="color:yellow;">`/rtp survie`</mark>. Tu seras alors envoyé sur le monde survie avec les meilleurs performances moyennes.&#x20;
+Le moyen le plus simple d'accéder à ces mondes est d'utiliser la téléportation aléatoire, via la commande <mark style="color:yellow;">`/rtp survie`</mark>. Tu seras alors envoyé sur le monde survie avec les meilleures performances moyennes.&#x20;
 
-## <mark style="color:yellow;">Le monde construction</mark>
+## <mark style="color:yellow;">Le monde construction</mark> <a href="#construction" id="construction"></a>
 
-### <mark style="color:yellow;">C'est quoi ?</mark>
+### <mark style="color:yellow;">C'est quoi ?</mark> <a href="#explication" id="explication"></a>
+
+<figure><img src="../.gitbook/assets/2024-01-20_04.30.39.png" alt=""><figcaption><p>Une aperçu du monde construction.</p></figcaption></figure>
 
 Le monde construction est un monde à génération modifiée qui permet de construire, mais pas de farmer. Il repose sur des conditions d'accès et de construction plus exigeantes que les mondes survie.&#x20;
 
@@ -40,7 +42,7 @@ Ci-dessous un résumé des caractéristiques de ce monde :
 * Les monstres ne spawnent pas.
 * Il n'a pas d'Ender et de Nether attitré.
 
-### <mark style="color:yellow;">Accessibilité et restrictions</mark>
+### <mark style="color:yellow;">Accessibilité et restrictions</mark> <a href="#accessibilite" id="accessibilite"></a>
 
 Le moyen le plus simple d'accéder à ce monde est d'utiliser la téléportation aléatoire, via la commande <mark style="color:yellow;">`/rtp construction`</mark>.&#x20;
 
@@ -48,9 +50,13 @@ Cependant, le monde construction étant nettement plus petit que les mondes surv
 
 * La construction n'est possible <mark style="color:red;">que dans les claims</mark>.&#x20;
 * La création de claims n'est possible <mark style="color:red;">qu'à partir du prestige Expert ou grade VIP</mark>.
-* La téléportation aléatoire n'est possible <mark style="color:red;">qu'à partir du prestige Expert ou grade VIP</mark>.  Cependant, il reste <mark style="color:green;">accessible à tout le monde</mark> via les autres moyens de téléportation.
+* La téléportation aléatoire n'est possible <mark style="color:red;">qu'à partir du prestige Expert ou grade VIP</mark>.&#x20;
 * Le farming sous toutes ses formes et <mark style="color:red;">interdit</mark>.
 * La création de fermes AFK est <mark style="color:red;">interdite</mark>.
+
+{% hint style="info" %}
+Bien que la téléportation aléatoire soit restreinte à certains grades, le monde reste <mark style="color:green;">accessible à tout le monde</mark> via les autres moyens de téléportation.
+{% endhint %}
 
 \
 

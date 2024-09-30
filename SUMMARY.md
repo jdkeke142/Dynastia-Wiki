@@ -14,4 +14,5 @@
 * [🛒 AdminShop](fonctionnalites/adminshop.md)
 * [🏨 Hôtel des Ventes](fonctionnalites/hdv.md)
 * [🌎 Mondes](fonctionnalites/mondes.md)
+* [🎲 Téléportation aléatoire](fonctionnalites/rtp.md)
 * [⌨️ Zone AFK](fonctionnalites/zone-afk.md)

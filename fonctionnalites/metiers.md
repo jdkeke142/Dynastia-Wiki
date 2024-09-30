@@ -27,9 +27,13 @@ Obtiens une rémunération en récoltant les différents types de plantations.
 
 ## <mark style="color:yellow;">Le système de niveaux</mark> <a href="#niveaux" id="niveaux"></a>
 
-Pour chaque métier, ton niveau augmentera au fur et à mesure que tu réaliseras des actions liées à ce métier. La difficulté de passage des niveaux est exponentielle, comprends que plus ton niveau pour un métier est haut, plus il est compliqué de passer au niveau suivant. Quitter un métier <mark style="color:red;">réinitialise tes niveaux</mark> pour celui-ci.
+Pour chaque métier, ton niveau augmentera au fur et à mesure que tu réaliseras des actions liées à ce métier. La difficulté de passage des niveaux est exponentielle, comprends que plus ton niveau pour un métier est haut, plus il est compliqué de passer au niveau suivant.&#x20;
 
 Passer les niveaux pour un métier permet d'obtenir une rémunération plus élevée par action, et augmente ta limite journalière pour celui-ci.
+
+{% hint style="danger" %}
+Quitter un métier réinitialise tes niveaux pour celui-ci.
+{% endhint %}
 
 ## <mark style="color:yellow;">Le système de rémunération</mark> <a href="#remuneration" id="remuneration"></a>
 
