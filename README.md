@@ -24,7 +24,7 @@ Dynastia est un serveur Survie 1.21 avec une économie et des tendances Semi-RP.
 \
 Le serveur a la spécificité d'offrir une expérience très proche du Vanilla, grâce à une infrastructure poussée et spécifique. Dans cet objectif :&#x20;
 
-* Les mondes survies sont très grands, en plus d'être nombreux, ce qui a pour avantage de laisser la place nécessaire à chacun pour vivre sa propre aventure.
+* Les [mondes survies](fonctionnalites/mondes.md#survie) sont très grands, en plus d'être nombreux, ce qui a pour avantage de laisser la place nécessaire à chacun pour vivre sa propre aventure.
 * Les fermes, dans des proportions relativement larges, sont autorisées et même encouragées. Cela ne veut pas pour autant dire que tout est autorisé sans la moindre limitation, tu peux consulter la section spécifique aux fermes pour en savoir plus.
 * Le serveur est réellement dans la dernière version du jeu. Nous veillons toujours à proposer les dernières fonctionnalités du jeu.
 * À chaque nouvelle version du jeu, les chunks inutilisés sont réinitialisés, afin de garder la plus grande partie des mondes à jour sur la nouvelle génération.&#x20;
