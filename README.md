@@ -35,11 +35,6 @@ Le serveur a la spécificité d'offrir une expérience très proche du Vanilla, 
 
 Le fil principal du serveur est d'atteindre le dernier prestige. Dans ce but tu devras gagner de l'argent via les différents moyens d'en générer proposés par le serveur.&#x20;
 
-Cependant, l'expérience du serveur étant Vanilla, tu es encouragé à te fixer tes propres objectifs. Le fil principal du serveur est présent uniquement pour fixer un objectif principal mais n'a pas vocation à dicter l'ensemble de ton expérience de jeu.
-
-
-
-
-
-
-
+{% hint style="info" %}
+Le fil principal du serveur est présent uniquement pour fixer un objectif principal mais n'a pas vocation à dicter l'ensemble de ton expérience de jeu, fixe toi tes propres objectifs !
+{% endhint %}

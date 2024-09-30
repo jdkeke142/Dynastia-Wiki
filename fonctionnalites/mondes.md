@@ -57,9 +57,3 @@ Cependant, le monde construction étant nettement plus petit que les mondes surv
 {% hint style="info" %}
 Bien que la téléportation aléatoire soit restreinte à certains grades, le monde reste <mark style="color:green;">accessible à tout le monde</mark> via les autres moyens de téléportation.
 {% endhint %}
-
-\
-
-
-
-
