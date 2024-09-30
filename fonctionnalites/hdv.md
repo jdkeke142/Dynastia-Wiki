@@ -1,10 +1,18 @@
 # 🏨 Hôtel des Ventes
 
-L'Hôtel des Ventes est accessible via la commande <mark style="color:yellow;">`/hdv`</mark>. Il te permet mettre à la vente n'importe quel item à un prix défini. Un joueur sera ensuite libre d'acheter celui-ci, auquel cas l'argent arrivera dans ta banque de l'Hôtel des Ventes, déduit d'une <mark style="color:red;">taxe de 10%</mark>.
+L'Hôtel des Ventes est accessible via la commande <mark style="color:yellow;">`/hdv`</mark>. Il te permet mettre à la vente n'importe quel item à un prix défini. Un joueur sera ensuite libre d'acheter celui-ci, auquel cas l'argent arrivera dans ta banque de l'Hôtel des Ventes.
+
+{% hint style="warning" %}
+Pour toute vente réalisée via l'Hôtel des Ventes, une taxe de 10% est déduite.
+{% endhint %}
 
 Au même titre, il te permet d'acheter les items vendus par les autres joueurs. La récupération de tes items achetés se fait dans le menu de l'Hôtel des Ventes. Depuis le menu principal, il te suffit de cliquer sur ta tête, en bas du menu.
 
-Dans ce même sous-menu, tu peux également retirer un item de la vente, ou récupérer un item expiré. Un item expire si il n'est acheté par aucun joueur <mark style="color:red;">sous 14 jours</mark> après sa vente. Si tu ne récupères par ton item <mark style="color:red;">sous 30 jours</mark> après son expiration, alors il sera <mark style="color:red;">définitivement supprimé</mark>.
+Dans ce même menu, tu peux également retirer un item de la vente, ou récupérer un item expiré. Un item expire si il n'est acheté par aucun joueur <mark style="color:red;">sous 14 jours</mark> après sa vente.&#x20;
+
+{% hint style="danger" %}
+Si tu ne récupères par ton item sous 30 jours après son expiration, alors il sera définitivement supprimé.
+{% endhint %}
 
 ## <mark style="color:yellow;">Commandes</mark>
 
