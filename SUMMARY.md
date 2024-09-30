@@ -13,4 +13,5 @@
 * [⛏️ Métiers](fonctionnalites/metiers.md)
 * [🛒 AdminShop](fonctionnalites/adminshop.md)
 * [🏨 Hôtel des Ventes](fonctionnalites/hdv.md)
+* [🌎 Mondes](fonctionnalites/mondes.md)
 * [⌨️ Zone AFK](fonctionnalites/zone-afk.md)
