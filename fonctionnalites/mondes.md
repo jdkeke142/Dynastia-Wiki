@@ -22,7 +22,7 @@ Actuellement le serveur compte 8 mondes survie, qui partagent tous les caractér
 
 ### <mark style="color:yellow;">Accessibilité</mark>
 
-Le moyen le plus simple d'accéder à ces mondes est d'utiliser la téléportation aléatoire, via la commande <mark style="color:yellow;">`/rtp survie`</mark>. Tu seras alors envoyé sur le monde survie avec les meilleures performances moyennes.&#x20;
+Le moyen le plus simple d'accéder à ces mondes est d'utiliser la [téléportation aléatoire](rtp.md), via la commande <mark style="color:yellow;">`/rtp survie`</mark>.
 
 ## <mark style="color:yellow;">Le monde construction</mark> <a href="#construction" id="construction"></a>
 
@@ -44,14 +44,14 @@ Ci-dessous un résumé des caractéristiques de ce monde :
 
 ### <mark style="color:yellow;">Accessibilité et restrictions</mark> <a href="#accessibilite" id="accessibilite"></a>
 
-Le moyen le plus simple d'accéder à ce monde est d'utiliser la téléportation aléatoire, via la commande <mark style="color:yellow;">`/rtp construction`</mark>.&#x20;
+Le moyen le plus simple d'accéder à ce monde est d'utiliser la [téléportation aléatoire](rtp.md), via la commande <mark style="color:yellow;">`/rtp construction`</mark>.&#x20;
 
-Cependant, le monde construction étant nettement plus petit que les mondes survie, il se doit d'avoir certaines restrictions, afin qu'il reste dans un état convenable à terme. Ces conditions sont les suivantes :
+Cependant, le monde construction étant nettement plus petit que les mondes survie, il se doit d'avoir certaines restrictions, afin qu'il reste dans un état convenable à terme. Ces restrictions sont les suivantes :
 
 * La construction n'est possible <mark style="color:red;">que dans les claims</mark>.&#x20;
 * La création de claims n'est possible <mark style="color:red;">qu'à partir du prestige Expert ou grade VIP</mark>.
 * La téléportation aléatoire n'est possible <mark style="color:red;">qu'à partir du prestige Expert ou grade VIP</mark>.&#x20;
-* Le farming sous toutes ses formes et <mark style="color:red;">interdit</mark>.
+* Le farming sous toutes ses formes est <mark style="color:red;">interdit</mark>.
 * La création de fermes AFK est <mark style="color:red;">interdite</mark>.
 
 {% hint style="info" %}
