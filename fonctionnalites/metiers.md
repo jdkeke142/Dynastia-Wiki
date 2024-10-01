@@ -2,7 +2,7 @@
 
 Les métiers, accessibles via la commande <mark style="color:yellow;">`/jobs`</mark> , constituent un moyen principal de se faire de l'argent sur le serveur.
 
-Ils sont basés sur des actions simplistes et non automatisables, et se présentent comme une alternative à l'[AdminShop](adminshop.md) (et donc aux fermes AFK).&#x20;
+Ils sont basés sur des actions simplistes et non automatisables, et se présentent comme une alternative à l'[AdminShop](adminshop.md) (et donc aux [fermes](fermes.md)).&#x20;
 
 Bien que certaines autres commandes soient disponibles, l'ensemble du système de métier est accessible à partir du menu principal. Depuis ce menu, tu pourras :
 
@@ -58,6 +58,3 @@ Il y a un <mark style="color:red;">nombre maximum de métiers</mark> simultanés
 <mark style="color:yellow;">`/jobs leave <métier>`</mark> : Quitter un métier directement, sans passer par le menu.\
 <mark style="color:yellow;">`/jobs objectives <métier>`</mark> : Consulter la rémunération pour les différents objectifs d'un métier, sans nécessairement pratiquer le métier.\
 <mark style="color:yellow;">`/jobs help`</mark> : Afficher la liste des commandes.
-
-
-

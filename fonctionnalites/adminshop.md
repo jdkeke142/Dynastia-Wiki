@@ -2,7 +2,11 @@
 
 L'AdminShop est un moyen principal de se faire de l'argent sur le serveur. Tu peux y vendre tes ressources, mais pas en acheter.
 
-Il est étroitement lié aux fermes automatiques, car seulement les items considérés comme renouvelables de manière entièrement automatique (fermes AFK) y sont proposés.&#x20;
+Il est étroitement lié aux [fermes automatiques](fermes.md), car seulement les items considérés comme renouvelables de manière entièrement automatique y sont proposés.&#x20;
+
+{% hint style="info" %}
+Par item "renouvelable de manière automatique", nous entendons tout item provenant d'une [ferme](fermes.md) qui produit cet item de manière passive.
+{% endhint %}
 
 Chaque item présent dans celui-ci a une limite journalière par joueur, afin d'obliger à la diversification.
 
@@ -49,6 +53,3 @@ Le SellHopper déduit une taxe de 10% à chaque vente réalisée via celui-ci.
 Si au moins l'une des conditions ci-dessus n'est pas remplie, alors l'item sera éjecté sous la forme d'un drop en dessous du SellHopper. Une entrée de log concernant l'échec de la vente sera également ajoutée dans le menu du SellHopper. \
 \
 Contrairement à l'entonnoir lambda, le SellHopper éjecte les items sous la forme de drops. Il est donc inutile de lier un conteneur directement sous le SellHopper, tu devras laisser au moins 1 bloc d'espacement sous le SellHopper et poser un entonnoir pour récupérer automatiquement les items éjectés.
-
-
-
