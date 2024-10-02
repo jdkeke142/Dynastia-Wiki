@@ -17,7 +17,7 @@ Actuellement le serveur compte 8 mondes survie, qui partagent tous les caractér
 
 * Ils possèdent une dimension de 200k x 200k blocs.
 * Ils offrent une génération Vanilla, à jour sur la dernière version du jeu.
-* Chaque monde survie a un Ender et un Nether attitré.
+* Chaque monde survie a un [Ender](ender.md) et un Nether attitré.
 * Les monstres spawnent, le serveur est en difficulté normale.
 
 ### <mark style="color:yellow;">Accessibilité</mark>

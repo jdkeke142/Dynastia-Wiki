@@ -17,3 +17,4 @@
 * [🌎 Mondes](fonctionnalites/mondes.md)
 * [🎲 Téléportation aléatoire](fonctionnalites/rtp.md)
 * [⌨️ Zone AFK](fonctionnalites/zone-afk.md)
+* [🌌 Ender](fonctionnalites/ender.md)
