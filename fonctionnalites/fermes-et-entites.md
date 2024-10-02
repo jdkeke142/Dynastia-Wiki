@@ -22,12 +22,12 @@ Elle n'affecte pas uniquement le comportement des entités, mais également les 
 
 ## <mark style="color:yellow;">Distances de spawn</mark> <a href="#distance-spawn" id="distance-spawn"></a>
 
-| Type de configuration               | Valeur                                           |
-| ----------------------------------- | ------------------------------------------------ |
-| Rayon de spawn des entités          | 5 chunks                                         |
-| Rayon de despawn des entités (soft) | 32 blocs                                         |
-| Rayon de despawn des entités (hard) | 128  blocs pour les monstres et 80 pour le reste |
-| Rayon d'activation des entités      | 32 blocs                                         |
+| Type de configuration               | Valeur                                          |
+| ----------------------------------- | ----------------------------------------------- |
+| Rayon de spawn des entités          | 5 chunks                                        |
+| Rayon de despawn des entités (soft) | 32 blocs                                        |
+| Rayon de despawn des entités (hard) | 128 blocs pour les monstres et 80 pour le reste |
+| Rayon d'activation des entités      | 32 blocs                                        |
 
 {% hint style="warning" %}
 Les distances en blocs sont des sphères, et non des surfaces planes.
@@ -88,12 +88,12 @@ Aucune mention à cette optimisation ne figure dans le guide lié plus haut, en 
 
 ## <mark style="color:yellow;">Limites d'entités par zone</mark> <a href="#limites-zone" id="limites-zone"></a>
 
-Le serveur possède une limite d'entités par zone. Des groupes d'entités sont définis, et en cas de dépassement de la limite pour le groupe d'entités dans la zone, alors le <mark style="color:red;">surplus est automatiquement tué</mark>. Toutes les limites sont effectives dans une zone de <mark style="color:red;">320x320 blocs</mark>.\
+Le serveur possède une limite d'entités par zone. Des groupes d'entités sont définis, et en cas de dépassement de la limite pour le groupe d'entités dans la zone, alors le <mark style="color:red;">surplus est automatiquement tué</mark>. Toutes les limites sont effectives dans une zone de <mark style="color:red;">320x320 blocs incluant toute la hauteur</mark>.\
 \
 Ci-dessous les différents groupes d'entités et leurs limites associées :
 
 <table data-full-width="false"><thead><tr><th>Entités</th><th>Limite</th><th data-type="checkbox">"Pur"</th></tr></thead><tbody><tr><td>Items au sol</td><td>15K</td><td>false</td></tr><tr><td>Bâteaux</td><td>200</td><td>false</td></tr><tr><td>Wagonnets à entonnoir</td><td>120</td><td>false</td></tr><tr><td>Autres wagonnets</td><td>96</td><td>false</td></tr><tr><td>Piglins zombifiés</td><td>80</td><td>false</td></tr><tr><td>Poissons tropicaux, Saumons, Morues, Poisson-globes</td><td>80</td><td>false</td></tr><tr><td>Allays</td><td>15</td><td>false</td></tr><tr><td>Pillagers</td><td>80</td><td>false</td></tr><tr><td>Sniffers, Armadillos</td><td>30</td><td>true</td></tr><tr><td>Shulkers, Abeilles, Grenouilles</td><td>60</td><td>true</td></tr><tr><td>Moutons, Poules, Arpenteurs, Renards, Tortues</td><td>100</td><td>true</td></tr><tr><td>Cochons, Lapins, Vaches, Champimeuh</td><td>35</td><td>true</td></tr><tr><td>Villageois</td><td>80</td><td>false</td></tr><tr><td>Chevaux et les variants, Dromadaires</td><td>20</td><td>true</td></tr><tr><td>Chèvres, Pandas, Ours Polaires</td><td>25</td><td>true</td></tr></tbody></table>
 
 {% hint style="warning" %}
-Un type est "_pur_" quand la limite est **par** type entité présente dans le groupe. Dans le cas échéant, tous les types d'entités du groupe partagent la même limite.
+Un type est "_pur_" quand la limite est **par** type d'entité présent dans le groupe. Dans le cas échéant, tous les types d'entités du groupe partagent la même limite.
 {% endhint %}
