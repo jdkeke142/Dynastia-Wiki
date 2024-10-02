@@ -34,7 +34,7 @@ Le Nether sélectionné sera celui avec les meilleures performances moyennes.&#x
 
 ### <mark style="color:yellow;">Ender</mark>
 
-Via la commande <mark style="color:yellow;">`/rtp ender`</mark>, sois téléporté aléatoirement dans l'un des 8 Enders avec une distribution de 15k à 85k blocs.
+Via la commande <mark style="color:yellow;">`/rtp ender`</mark>, sois téléporté aléatoirement dans l'un des 8 [Enders](rtp.md#ender) avec une distribution de 15k à 85k blocs.
 
 Le délai pour l'obtention d'une nouvelle position aléatoire est de 30 minutes.
 
@@ -47,4 +47,3 @@ L'Ender sélectionné sera celui avec les meilleures performances moyennes.&#x20
 Via la commande <mark style="color:yellow;">`/rtp construction`</mark>, sois téléporté aléatoirement dans le monde construction avec une distribution de 5k à 10k blocs.&#x20;
 
 Le délai pour l'obtention d'une nouvelle position aléatoire est de 15 minutes.
-
