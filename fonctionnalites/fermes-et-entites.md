@@ -11,7 +11,7 @@ Nous tentons de nous rapprocher au maximum des mécaniques Vanilla, mais certain
 Cette section du Wiki en elle-même ne prétend pas t'apprendre les répercussions des changements apportés sur les entités, nous nous contenterons dans ce guide de lister les valeurs changées.
 
 {% hint style="info" %}
-Si tu souhaites connaître les répercussions du changement de chaque valeur sur le comportement des entités, [ce guide](https://paper-chan.moe/paper-optimization/), en Anglais, le fait excellemment bien. C'est d'ailleurs selon ce guide que les valeurs sont optimisées sur le serveur.
+Si tu souhaites connaître les répercussions du changement de chaque valeur sur le comportement des entités, [ce guide](https://paper-chan.moe/paper-optimization/), en Anglais, le fait très bien. C'est d'ailleurs selon ce guide que les valeurs sont optimisées sur le serveur.
 {% endhint %}
 
 ## <mark style="color:yellow;">Distance de simulation</mark>
