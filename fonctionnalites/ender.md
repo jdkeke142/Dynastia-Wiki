@@ -8,7 +8,7 @@ Chaque île a son propre spawn, accessible via un warp propre à chaque île. Tu
 
 ## <mark style="color:yellow;">Claim de l'île</mark> <a href="#claim" id="claim"></a>
 
-L'île et ses alentours sont claims dans un rayon de 500 blocs à partir du centre de l'île, par conséquent il te sera impossible de construire directement autour de l'île.
+L'île et ses alentours sont claims dans un rayon de 500 blocs à partir du centre de l'île, par conséquent il te sera <mark style="color:red;">impossible de construire directement autour de l'île</mark>.
 
 Quand le combat contre l'Ender Dragon est lancé, la modification des blocs est temporairement autorisée dans le claim de l'île.
 
@@ -22,7 +22,7 @@ La zone des crystaux autorise toujours le placement afin de permettre aux joueur
 
 ## <mark style="color:yellow;">Rollback de l'île</mark> <a href="#rollback" id="rollback"></a>
 
-À la mort de l'Ender Dragon, l'île est systématiquement rollback. Cela annule les modifications effectuées sur le terrain pendant le combat contre l'Ender Dragon. Ce rollback s'effectue sur les mêmes dimensions que le claim, c'est à dire sur 500 blocs à partir du centre de l'île.&#x20;
+À la mort de l'Ender Dragon, l'île est <mark style="color:red;">systématiquement rollback</mark>. Cela annule les modifications effectuées sur le terrain pendant le combat contre l'Ender Dragon. Ce rollback s'effectue sur les mêmes dimensions que le claim, c'est à dire sur 500 blocs à partir du centre de l'île.&#x20;
 
 ## <mark style="color:yellow;">Loots de l'Ender Dragon</mark> <a href="#loots" id="loots"></a>
 
@@ -33,9 +33,9 @@ Contrairement au jeu de base, il est inutile d'utiliser la gravité pour récup�
 
 Quant à l'expérience, au lieu de looter 12,000 XP lors du premier combat et 500 XP pour tous les autres combats, elle est aléatoire entre 500 et 12,000 XP, à chaque mort de l'Ender Dragon.&#x20;
 
-## <mark style="color:yellow;">Explorer l'Ender</mark> <a href="#exploration" id="exploration"></a>
+## <mark style="color:yellow;">Explorer l'Ender</mark> <a href="#explorer" id="explorer"></a>
 
-La génération des Gateways n'a pas lieue à la mort de l'EnderDragon, et il t'est impossible de quitter l'île en partant de celle-ci, dans quel cas tu seras automatiquement renvoyé à son spawn.
+La génération des Gateways <mark style="color:red;">n'a pas lieue</mark> à la mort de l'EnderDragon, et il t'est <mark style="color:red;">impossible de quitter l'île en partant de celle-ci</mark>, dans quel cas tu seras automatiquement renvoyé à son spawn.
 
 Par conséquent, pour explorer l'Ender, tu dois utiliser la [téléportation aléatoire](rtp.md), via la commande <mark style="color:yellow;">`/rtp ender`</mark>. Cette commande a l'avantage par rapport aux Gateways de téléporter bien plus loin. Ainsi, tu pourras explorer et looter des structures inexplorées.
 
