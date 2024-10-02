@@ -51,7 +51,7 @@ Pour le spawn naturel des entités, une limite par type d'entité est appliquée
 | Axolotls                          | 3      |
 
 {% hint style="info" %}
-Pour savoir plus précisément quelles entités appartiennent à quel type, consulte le guide lié plus haut.
+Pour savoir plus précisément quelles entités appartiennent à quel type, consulte [le guide](https://www.paper-chan.moe/paper-optimization/#mob-categories) lié plus haut.
 {% endhint %}
 
 ## <mark style="color:yellow;">Plage d'activation dynamique des entités</mark> <a href="#dear" id="dear"></a>
