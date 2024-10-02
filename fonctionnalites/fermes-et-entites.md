@@ -22,12 +22,16 @@ Elle n'affecte pas uniquement le comportement des entités, mais également les 
 
 ## <mark style="color:yellow;">Distances de spawn</mark> <a href="#distance-spawn" id="distance-spawn"></a>
 
-| Type de configuration               | Valeur                                    | Type de valeur             |
-| ----------------------------------- | ----------------------------------------- | -------------------------- |
-| Rayon de spawn des entités          | 5                                         | Nombre de chunks           |
-| Rayon de despawn des entités (soft) | 32                                        | Surface sphérique en blocs |
-| Rayon de despawn des entités (hard) | 128 pour les monstres et 80 pour le reste | Surface sphérique en blocs |
-| Rayon d'activation des entités      | 32                                        | Surface sphérique en blocs |
+| Type de configuration               | Valeur                                           |
+| ----------------------------------- | ------------------------------------------------ |
+| Rayon de spawn des entités          | 5 chunks                                         |
+| Rayon de despawn des entités (soft) | 32 blocs                                         |
+| Rayon de despawn des entités (hard) | 128  blocs pour les monstres et 80 pour le reste |
+| Rayon d'activation des entités      | 32 blocs                                         |
+
+{% hint style="warning" %}
+Les distances en blocs sont des sphères, et non des surfaces planes.
+{% endhint %}
 
 {% hint style="info" %}
 Au delà du rayon d'activation, les entités ne tickent que 1/4 du temps.
@@ -35,9 +39,16 @@ Au delà du rayon d'activation, les entités ne tickent que 1/4 du temps.
 
 ## <mark style="color:yellow;">Limites de spawn</mark> <a href="#limites-spawn" id="limites-spawn"></a>
 
-Pour le spawn naturel des entités, une limite par type d'entité est appliquée par joueur. Quand cette limite est atteinte, les entités du type en question ne spawnent plus naturellement.&#x20;
+Pour le spawn naturel des entités, une limite par type d'entité est appliquée <mark style="color:red;">par joueur</mark>. Quand cette limite est atteinte, les entités du type en question ne spawnent plus naturellement.&#x20;
 
-<table><thead><tr><th>Type d'entité</th><th data-type="number">Limite par joueur</th></tr></thead><tbody><tr><td>Monstres</td><td>35</td></tr><tr><td>Animaux</td><td>5</td></tr><tr><td>Animaux aquatiques</td><td>5</td></tr><tr><td>Créatures aquatiques ambiantes</td><td>10</td></tr><tr><td>Créatures aquatiques souterraines</td><td>5</td></tr><tr><td>Axolotls </td><td>3</td></tr></tbody></table>
+| Type d'entité                     | Limite |
+| --------------------------------- | ------ |
+| Monstres                          | 35     |
+| Animaux                           | 5      |
+| Animaux aquatiques                | 5      |
+| Créatures aquatiques ambiantes    | 10     |
+| Créatures aquatiques souterraines | 5      |
+| Axolotls                          | 3      |
 
 {% hint style="info" %}
 Pour savoir plus précisément quelles entités appartiennent à quel type, consulte le guide lié plus haut.
@@ -57,15 +68,19 @@ Le serveur bénéficie d'une optimisation nommée "_Plage d'activation dynamique
 Pour ces entités, la fréquence de tick du cerveau en fonction de la distance est la suivante :\
 
 
-| Distance du joueur | Fréquence de tick | Expression de la distance  |
-| ------------------ | ----------------- | -------------------------- |
-| 16 ou moins        | 1/1               | Surface sphérique en blocs |
-| 22                 | 1/2               | Surface sphérique en blocs |
-| 27                 | 1/3               | Surface sphérique en blocs |
-| 32                 | 1/4               | Surface sphérique en blocs |
-| 45                 | 1/8               | Surface sphérique en blocs |
-| 64                 | 1/16              | Surface sphérique en blocs |
-| 71 ou plus         | 1/20              | Surface sphérique en blocs |
+| Distance du joueur | Fréquence de tick |
+| ------------------ | ----------------- |
+| 16 blocs ou moins  | 1/1               |
+| 22 blocs           | 1/2               |
+| 27 blocs           | 1/3               |
+| 32 blocs           | 1/4               |
+| 45 blocs           | 1/8               |
+| 64 blocs           | 1/16              |
+| 71 blocs ou plus   | 1/20              |
+
+{% hint style="warning" %}
+La distance en blocs est une sphère, et non une surface plane.
+{% endhint %}
 
 {% hint style="info" %}
 Aucune mention à cette optimisation ne figure dans le guide lié plus haut, en effet cette optimisation est propre à un [Fork](https://fr.wikipedia.org/wiki/Fork\_\(d%C3%A9veloppement\_logiciel\)) plus spécifique du programme de serveur, que nous utilisons.
@@ -73,11 +88,11 @@ Aucune mention à cette optimisation ne figure dans le guide lié plus haut, en 
 
 ## <mark style="color:yellow;">Limites d'entités par zone</mark> <a href="#limites-zone" id="limites-zone"></a>
 
-Le serveur possède une limite d'entités par zone. Des groupes d'entités sont définis, et en cas de dépassement de la limite pour le groupe d'entités dans la zone, alors le <mark style="color:red;">surplus est automatiquement tué</mark>.\
+Le serveur possède une limite d'entités par zone. Des groupes d'entités sont définis, et en cas de dépassement de la limite pour le groupe d'entités dans la zone, alors le <mark style="color:red;">surplus est automatiquement tué</mark>. Toutes les limites sont effectives dans une zone de <mark style="color:red;">320x320 blocs</mark>.\
 \
 Ci-dessous les différents groupes d'entités et leurs limites associées :
 
-<table><thead><tr><th>Entités du groupe</th><th data-type="number">Nombre maximum</th><th data-type="checkbox">Type "pur"</th><th>Zone</th></tr></thead><tbody><tr><td>Items au sol</td><td>15000</td><td>false</td><td>320x320 blocs</td></tr><tr><td>Bâteaux</td><td>200</td><td>false</td><td>320x320 blocs</td></tr><tr><td>Wagonnets à entonnoir</td><td>120</td><td>false</td><td>320x320 blocs</td></tr><tr><td>Autres wagonnets</td><td>96</td><td>false</td><td>320x320 blocs</td></tr><tr><td>Piglins zombifiés</td><td>80</td><td>false</td><td>320x320 blocs</td></tr><tr><td>Poissons tropicaux, Saumons, Morues, Poisson-globes</td><td>80</td><td>false</td><td>320x320 blocs</td></tr><tr><td>Allays</td><td>15</td><td>false</td><td>320x320 blocs</td></tr><tr><td>Pillagers</td><td>80</td><td>false</td><td>320x320 blocs</td></tr><tr><td>Sniffers, Armadillos</td><td>30</td><td>true</td><td>320x320 blocs</td></tr><tr><td>Shulkers, Abeilles, Grenouilles</td><td>60</td><td>true</td><td>320x320 blocs</td></tr><tr><td>Moutons, Poules, Arpenteurs, Renards, Tortues</td><td>100</td><td>true</td><td>320x320 blocs</td></tr><tr><td>Cochons, Lapins, Vaches, Champimeuh</td><td>35</td><td>true</td><td>320x320 blocs</td></tr><tr><td>Villageois</td><td>80</td><td>false</td><td>320x320 blocs</td></tr><tr><td>Chevaux et les variants, Dromadaires</td><td>20</td><td>true</td><td>320x320 blocs</td></tr><tr><td>Chèvres, Pandas, Ours Polaires</td><td>25</td><td>true</td><td>320x320 blocs</td></tr></tbody></table>
+<table data-full-width="false"><thead><tr><th>Entités</th><th>Limite</th><th data-type="checkbox">"Pur"</th></tr></thead><tbody><tr><td>Items au sol</td><td>15K</td><td>false</td></tr><tr><td>Bâteaux</td><td>200</td><td>false</td></tr><tr><td>Wagonnets à entonnoir</td><td>120</td><td>false</td></tr><tr><td>Autres wagonnets</td><td>96</td><td>false</td></tr><tr><td>Piglins zombifiés</td><td>80</td><td>false</td></tr><tr><td>Poissons tropicaux, Saumons, Morues, Poisson-globes</td><td>80</td><td>false</td></tr><tr><td>Allays</td><td>15</td><td>false</td></tr><tr><td>Pillagers</td><td>80</td><td>false</td></tr><tr><td>Sniffers, Armadillos</td><td>30</td><td>true</td></tr><tr><td>Shulkers, Abeilles, Grenouilles</td><td>60</td><td>true</td></tr><tr><td>Moutons, Poules, Arpenteurs, Renards, Tortues</td><td>100</td><td>true</td></tr><tr><td>Cochons, Lapins, Vaches, Champimeuh</td><td>35</td><td>true</td></tr><tr><td>Villageois</td><td>80</td><td>false</td></tr><tr><td>Chevaux et les variants, Dromadaires</td><td>20</td><td>true</td></tr><tr><td>Chèvres, Pandas, Ours Polaires</td><td>25</td><td>true</td></tr></tbody></table>
 
 {% hint style="warning" %}
 Un type est "_pur_" quand la limite est **par** type entité présente dans le groupe. Dans le cas échéant, tous les types d'entités du groupe partagent la même limite.
