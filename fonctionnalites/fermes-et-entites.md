@@ -20,6 +20,10 @@ La distance de simulation s'exprime en chunks. Sur le serveur cette valeur est d
 
 Elle n'affecte pas uniquement le comportement des entités, mais également les mécanismes Redstone. En effet toute entité, toute construction se trouvant au delà de la distance de simulation par rapport à un joueur <mark style="color:red;">ne tickera pas du tout</mark>.
 
+{% hint style="info" %}
+Dire qu'un bloc ou une entité ne "tick pas" revient à dire qu'il ou elle est totalement inactif.
+{% endhint %}
+
 ## <mark style="color:yellow;">Distances de spawn</mark> <a href="#distance-spawn" id="distance-spawn"></a>
 
 | Type de configuration               | Valeur                                          |
