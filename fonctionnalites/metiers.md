@@ -2,7 +2,7 @@
 
 Les métiers, accessibles via la commande <mark style="color:yellow;">`/jobs`</mark> , constituent un moyen principal de se faire de l'argent sur le serveur.
 
-Ils sont basés sur des actions simplistes et non automatisables, et se présentent comme une alternative à l'[AdminShop](adminshop.md) (et donc aux [fermes](fermes.md)).&#x20;
+Ils sont basés sur des actions simplistes et non automatisables, et se présentent comme une alternative à l'[AdminShop](adminshop.md) (et donc aux [fermes](fermes-et-entites.md)).&#x20;
 
 Bien que certaines autres commandes soient disponibles, l'ensemble du système de métier est accessible à partir du menu principal. Depuis ce menu, tu pourras :
 

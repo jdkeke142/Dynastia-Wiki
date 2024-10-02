@@ -2,10 +2,10 @@
 
 L'AdminShop est un moyen principal de se faire de l'argent sur le serveur. Tu peux y vendre tes ressources, mais pas en acheter.
 
-Il est étroitement lié aux [fermes automatiques](fermes.md), car seulement les items considérés comme renouvelables de manière entièrement automatique y sont proposés.&#x20;
+Il est étroitement lié aux [fermes automatiques](fermes-et-entites.md), car seulement les items considérés comme renouvelables de manière entièrement automatique y sont proposés.&#x20;
 
 {% hint style="info" %}
-Par item "renouvelable de manière automatique", nous entendons tout item provenant d'une [ferme](fermes.md) qui produit cet item de manière passive.
+Par item "renouvelable de manière automatique", nous entendons tout item provenant d'une [ferme](fermes-et-entites.md) qui produit cet item de manière passive.
 {% endhint %}
 
 Chaque item présent dans celui-ci a une limite journalière par joueur, afin d'obliger à la diversification.

@@ -52,7 +52,7 @@ Cependant, le monde construction étant nettement plus petit que les mondes surv
 * La création de claims n'est possible <mark style="color:red;">qu'à partir du prestige Expert ou grade VIP</mark>.
 * La téléportation aléatoire n'est possible <mark style="color:red;">qu'à partir du prestige Expert ou grade VIP</mark>.&#x20;
 * Le farming sous toutes ses formes est <mark style="color:red;">interdit</mark>.
-* La création de [fermes](fermes.md) est <mark style="color:red;">interdite</mark>.
+* La création de [fermes](fermes-et-entites.md) est <mark style="color:red;">interdite</mark>.
 
 {% hint style="info" %}
 Bien que la téléportation aléatoire soit restreinte à certains grades, le monde reste <mark style="color:green;">accessible à tout le monde</mark> via les autres moyens de téléportation.

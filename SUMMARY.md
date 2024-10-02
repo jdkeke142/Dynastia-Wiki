@@ -13,7 +13,7 @@
 * [⛏️ Métiers](fonctionnalites/metiers.md)
 * [🛒 AdminShop](fonctionnalites/adminshop.md)
 * [🏨 Hôtel des Ventes](fonctionnalites/hdv.md)
-* [⚙️ Fermes](fonctionnalites/fermes.md)
+* [⚙️ Fermes et entités](fonctionnalites/fermes-et-entites.md)
 * [🌎 Mondes](fonctionnalites/mondes.md)
 * [🎲 Téléportation aléatoire](fonctionnalites/rtp.md)
 * [⌨️ Zone AFK](fonctionnalites/zone-afk.md)
