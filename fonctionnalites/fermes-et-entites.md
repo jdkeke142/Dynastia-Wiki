@@ -99,5 +99,10 @@ Ci-dessous les différents groupes d'entités et leurs limites associées :
 <table data-full-width="false"><thead><tr><th>Groupe</th><th>Limite</th><th data-type="checkbox">"Pur"</th></tr></thead><tbody><tr><td>Items au sol</td><td>15K</td><td>false</td></tr><tr><td>Bâteaux</td><td>200</td><td>false</td></tr><tr><td>Wagonnets à entonnoir</td><td>120</td><td>false</td></tr><tr><td>Autres wagonnets</td><td>96</td><td>false</td></tr><tr><td>Piglins zombifiés</td><td>80</td><td>false</td></tr><tr><td>Poissons tropicaux, Saumons, Morues, Poisson-globes</td><td>80</td><td>false</td></tr><tr><td>Allays</td><td>15</td><td>false</td></tr><tr><td>Pillagers</td><td>80</td><td>false</td></tr><tr><td>Sniffers, Armadillos</td><td>30</td><td>true</td></tr><tr><td>Shulkers, Abeilles, Grenouilles</td><td>60</td><td>true</td></tr><tr><td>Moutons, Poules, Arpenteurs, Renards, Tortues</td><td>100</td><td>true</td></tr><tr><td>Cochons, Lapins, Vaches, Champimeuh</td><td>35</td><td>true</td></tr><tr><td>Villageois</td><td>80</td><td>false</td></tr><tr><td>Chevaux et les variants, Dromadaires</td><td>20</td><td>true</td></tr><tr><td>Chèvres, Pandas, Ours Polaires</td><td>25</td><td>true</td></tr></tbody></table>
 
 {% hint style="warning" %}
-Un type est "_pur_" quand la limite est **par** type d'entité présent dans le groupe. Dans le cas échéant, tous les types d'entités du groupe partagent la même limite.
+Un type est "_pur_" quand la limite est **par** type d'entité à l'échelle d'un groupe. Dans le cas échéant, tous les types d'entités du groupe partagent la même limite.
 {% endhint %}
+
+{% hint style="warning" %}
+Chaque ligne du tableau est un groupe, quoi qu'il advienne, les limites ne sont jamais partagées entre différents groupes.
+{% endhint %}
+
