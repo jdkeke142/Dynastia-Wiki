@@ -26,12 +26,12 @@ Dire qu'un bloc ou une entité ne "tick pas" revient à dire qu'il ou elle est t
 
 ## <mark style="color:yellow;">Distances de spawn</mark> <a href="#distance-spawn" id="distance-spawn"></a>
 
-| Type de configuration               | Valeur                                          |
-| ----------------------------------- | ----------------------------------------------- |
-| Rayon de spawn des entités          | 5 chunks                                        |
-| Rayon de despawn des entités (soft) | 32 blocs                                        |
-| Rayon de despawn des entités (hard) | 128 blocs pour les monstres et 80 pour le reste |
-| Rayon d'activation des entités      | 32 blocs                                        |
+| Type de configuration               | Valeur                                                     |
+| ----------------------------------- | ---------------------------------------------------------- |
+| Rayon de spawn des entités          | 5 chunks                                                   |
+| Rayon de despawn des entités (soft) | 32 blocs                                                   |
+| Rayon de despawn des entités (hard) | 128 blocs pour les monstres et 80 pour le reste            |
+| Rayon d'activation des entités      | 32 blocs pour les monstres, peu d'importance pour le reste |
 
 {% hint style="warning" %}
 Les distances en blocs sont des sphères, et non des surfaces planes.
