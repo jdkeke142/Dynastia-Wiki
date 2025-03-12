@@ -35,7 +35,7 @@ Dire qu'un bloc ou une entité ne "tick pas" revient à dire qu'il ou elle est t
 | Rayon d'activation des entités                 | 32 blocs pour les monstres |
 
 {% hint style="warning" %}
-Les distances en blocs sont des sphères, et non des surfaces planes.
+Les rayons en blocs représentent une forme ellipsoïdale, et non une surface plane.
 {% endhint %}
 
 {% hint style="info" %}
@@ -59,7 +59,7 @@ Pour le spawn naturel des entités, une limite par type d'entité est appliquée
 Pour savoir plus précisément quelles entités appartiennent à quel type, consulte [le guide](https://www.paper-chan.moe/paper-optimization/#mob-categories) lié plus haut.
 {% endhint %}
 
-## <mark style="color:yellow;">Limites d'entités par zone</mark> <a href="#limites-zone" id="limites-zone"></a>
+## <mark style="color:yellow;">Limites d'entités par zone (</mark><mark style="color:green;">totalement désactivées pour le moment</mark><mark style="color:yellow;">)</mark> <a href="#limites-zone" id="limites-zone"></a>
 
 Le serveur possède une limite d'entités par zone. Des groupes d'entités sont définis, et en cas de dépassement de la limite pour le groupe d'entités dans la zone, alors le <mark style="color:red;">surplus est automatiquement tué</mark>. Toutes les limites sont effectives dans une zone de <mark style="color:red;">320x320 blocs incluant toute la hauteur</mark>.\
 \
