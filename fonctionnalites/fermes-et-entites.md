@@ -2,7 +2,7 @@
 
 Sur Dynastia, par ferme nous entendons toute construction ayant pour but d'automatiser la production de certains blocs/items par le biais de l'exploitation des mécaniques des entités et/ou des systèmes Redstone.\
 \
-Sur le serveur, les mécaniques des entités ont subit des <mark style="color:red;">certains changements</mark>. Ces modifications sur les entités, bien que non remarquables pour un joueur lambda, peuvent avoir une importance pour un joueur qui souhaite créer des fermes. Il est donc intéressant de <mark style="color:red;">prendre ces modifications en compte</mark> si ton but est d'en créer.
+Sur le serveur, les mécaniques des entités ont subit <mark style="color:red;">certains changements</mark>. Ces modifications sur les entités, bien que non remarquables pour un joueur lambda, peuvent avoir une importance pour un joueur qui souhaite créer des fermes. Il est donc intéressant de <mark style="color:red;">prendre ces modifications en compte</mark> si ton but est d'en créer.
 
 {% hint style="warning" %}
 Nous tentons de nous rapprocher au maximum des mécaniques Vanilla, mais certaines concessions sont obligatoires pour garder des performances correctes, et donc, une expérience de jeu convenable sur le serveur.
