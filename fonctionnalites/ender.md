@@ -1,10 +1,10 @@
 # 🌌 Ender
 
-Sur Dynastia, les Enders, et plus précisément leurs îles ont subit plusieurs modifications. Ces modifications ont pour objectif d'offrir une expérience de l'Ender agréable et équitable pour tous les joueurs.
+Sur Dynastia, l'Ender, et plus précisément son île a subit plusieurs modifications. Ces modifications ont pour objectif d'offrir une expérience de l'Ender agréable et équitable pour tous les joueurs.
 
-## <mark style="color:yellow;">Warps et spawn</mark>
+## <mark style="color:yellow;">Warp et spawn</mark>
 
-Chaque île a son propre spawn, accessible via un warp propre à chaque île. Tu peux te téléporter sur les îles en utilisant les commandes <mark style="color:yellow;">`/warp Île de L'Ender 1`</mark>, <mark style="color:yellow;">`/warp Île de L'Ender 2`</mark> et ainsi de suite jusqu'à l'Ender 8.
+L'île est directement accessible via un warp qui lui est propre. Ce warp est accessible via la commande <mark style="color:yellow;">`/warp Île de L'Ender`</mark>.
 
 ## <mark style="color:yellow;">Claim de l'île</mark> <a href="#claim" id="claim"></a>
 
@@ -37,7 +37,7 @@ Quant à l'expérience, au lieu de looter 12,000 XP lors du premier combat et 50
 
 La génération des Gateways <mark style="color:red;">n'a pas lieue</mark> à la mort de l'Ender Dragon, et il t'est <mark style="color:red;">impossible de quitter l'île en partant de celle-ci</mark>, dans quel cas tu seras automatiquement renvoyé à son spawn.
 
-Par conséquent, pour explorer l'Ender, tu dois utiliser la [téléportation aléatoire](rtp.md#ender), via la commande <mark style="color:yellow;">`/rtp ender`</mark>. Cette commande a l'avantage par rapport aux Gateways de téléporter bien plus loin. Ainsi, tu pourras explorer et looter des structures inexplorées.
+Par conséquent, pour explorer l'Ender, tu dois utiliser la [téléportation aléatoire](rtp.md#ender), via la commande <mark style="color:yellow;">`/rtp world world_survival_the_end`</mark>. Cette commande a l'avantage par rapport aux Gateways de téléporter bien plus loin. Ainsi, tu pourras explorer et looter des structures inexplorées plus facilement.
 
 {% hint style="info" %}
 Les Gateways sont les petits portails générés à la mort de l'Ender Dragon, qui permettent initialement d'explorer l'Ender.
