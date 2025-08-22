@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 🎮 Dynastia
 
 Bienvenue sur le Wiki du serveur Dynastia, il a pour objectif de résumer et expliquer les diverses fonctionnalités proposées sur le serveur.&#x20;

@@ -4,7 +4,7 @@
 
 ## 🚨 Règlements
 
-* [🔶 Règlement en jeu](reglements/minecraft.md)
+* [🔉 Règlement Général​](reglements/minecraft.md)
 * [🔷 Règlement sur Discord](reglements/discord.md)
 
 ## 📗 Fonctionnalités
