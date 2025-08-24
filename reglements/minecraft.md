@@ -114,7 +114,7 @@ Cela semble évident mais de nombreuses personnes s'en servent pour unique but d
 
 <p align="center"><img src="../.gitbook/assets/sep 2.png" alt=""></p>
 
-<h2 align="center">Usurpation d'identité</h2>
+<h2 align="center"><mark style="color:yellow;">Usurpation d'identité</mark></h2>
 
 
 
@@ -128,7 +128,7 @@ Toute tentative par pseudonyme, avatar ou comportement visant à **se faire pass
 
 <p align="center"><img src="../.gitbook/assets/sep 2.png" alt=""></p>
 
-<h2 align="center">Skin, Capes et Pseudonymes</h2>
+<h2 align="center"><mark style="color:yellow;">Skin, Capes et Pseudonymes</mark></h2>
 
 
 
@@ -143,7 +143,7 @@ Toute tentative par pseudonyme, avatar ou comportement visant à **se faire pass
 
 <p align="center"><img src="../.gitbook/assets/sep 2.png" alt=""></p>
 
-<h2 align="center">Utilisation et Modification du Client​</h2>
+<h2 align="center"><mark style="color:yellow;">Utilisation et Modification du Client​</mark></h2>
 
 
 
@@ -175,7 +175,7 @@ L’utilisation d’un **autoclick ou toute autre façon détournée permettant 
 
 <p align="center"><img src="../.gitbook/assets/sep 2.png" alt=""></p>
 
-<h2 align="center">Exploitation de bug​</h2>
+<h2 align="center"><mark style="color:yellow;">Exploitation de bug​</mark></h2>
 
 
 
@@ -189,7 +189,7 @@ Il est donc strictement interdit d'**exploiter volontairement** des bugs sur le 
 
 <p align="center"><img src="../.gitbook/assets/sep 2.png" alt=""></p>
 
-<h2 align="center">Achat et Ventes</h2>
+<h2 align="center"><mark style="color:yellow;">Achat et Ventes</mark></h2>
 
 
 
@@ -222,7 +222,7 @@ Le transfert de dollars ($) **est pris en charge par l’administration uniqueme
 
 <p align="center"><img src="../.gitbook/assets/sep 2.png" alt=""></p>
 
-<h2 align="center">Vols et Griefs</h2>
+<h2 align="center"><mark style="color:yellow;">Vols et Griefs</mark></h2>
 
 
 
@@ -243,7 +243,7 @@ Aussi, lorsqu’un joueur est déjà présent en train de tuer un EnderDragon su
 
 <p align="center"><img src="../.gitbook/assets/sep 2.png" alt=""></p>
 
-<h2 align="center">Player Versus Player</h2>
+<h2 align="center"><mark style="color:yellow;">Player Versus Player</mark></h2>
 
 
 
@@ -255,7 +255,7 @@ Dynastia est un serveur qui **ne tolère aucune forme de PvP entre les joueurs**
 
 <p align="center"><img src="../.gitbook/assets/sep 2.png" alt=""></p>
 
-<h2 align="center">Fermes et Warps</h2>
+<h2 align="center"><mark style="color:yellow;">Fermes et Warps</mark></h2>
 
 
 
@@ -299,7 +299,7 @@ Enfin, les PW **trop proches** les uns des autres seront supprimés pour éviter
 
 <p align="center"><img src="../.gitbook/assets/sep 2.png" alt=""></p>
 
-<h2 align="center">Têtes décoratives et objets légendaires</h2>
+<h2 align="center"><mark style="color:yellow;">Têtes décoratives et objets légendaires</mark></h2>
 
 
 
@@ -323,5 +323,5 @@ Les objets légendaires pouvant être obtenus uniquement par le biais de la cais
 
 
 
-<mark style="color:red;background-color:red;">**► Contourner le Règlement Officiel via des sous-entendus (etc.) est strictement interdit. (Art.17)**</mark>​
+<mark style="color:red;">**► Contourner le Règlement Officiel via des sous-entendus (etc.) est strictement interdit. (Art.17)**</mark>​
 
