@@ -43,7 +43,7 @@ _Tous les points énumérés ci-dessous sont considérés comme lus et acceptés
 
 <p align="center"><br><img src="../.gitbook/assets/sep 2.png" alt=""></p>
 
-<h2 align="center">Sécurité et Partage des comptes</h2>
+<h2 align="center"><mark style="color:yellow;">Sécurité et Partage des comptes</mark></h2>
 
 
 
@@ -57,7 +57,7 @@ Il est important de noter que nous ne prenons pas en compte le partage de compte
 
 <p align="center"><img src="../.gitbook/assets/sep 2.png" alt=""></p>
 
-<h2 align="center">La publicité</h2>
+<h2 align="center"><mark style="color:yellow;">La publicité</mark></h2>
 
 
 
@@ -72,7 +72,7 @@ Toutes autres formes d'annonces telles que des événements privés ou des invit
 
 <p align="center"><img src="../.gitbook/assets/sep 2.png" alt=""></p>
 
-<h2 align="center">Communiquer libre, sans abus</h2>
+<h2 align="center"><mark style="color:yellow;">Communiquer libre, sans abus</mark></h2>
 
 
 
