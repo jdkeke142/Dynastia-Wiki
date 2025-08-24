@@ -23,13 +23,9 @@ layout:
 
 
 
-**Une sanction a pour but de faire respecter le règlement selon les erreurs et les antécédents du joueur fautif**. Toute sanction appliquée par un membre de la modération peut être expliquée et justifiée par celui-ci si le joueur coupable le souhaite car celle-ci est mise en place impartialement et respectueusement envers le joueur. Néanmoins, la modération n'est pas tenue de fournir de preuve. _(Art.0-2)_ Vous vous réservez tout de même le droit de contester une sanction vous ayant été appliquée en créant un ticket sur notre [Discord](https://discord.gg/qqBCWgpRDc). _(Art.0-3)_
-
-<p align="center"><img src="../.gitbook/assets/sep 2.png" alt=""></p>
-
-
-
 _Tous les points énumérés ci-dessous sont considérés comme lus et acceptés par tous les utilisateurs des plateformes de <mark style="color:red;background-color:$danger;">**Dynastia**</mark>. Lors de la connexion sur l'une des plateformes du serveur, toute transgression du règlement se verra durement réprimandée. S'il advient que l'<mark style="color:red;">Administration de Dynastia</mark> ait envie de modifier ce règlement pour une raison quelconque, elle en a pleinement le droit. De la même manière, l'<mark style="color:red;">Administration</mark> étant propriétaire du serveur, il est de leur droit de sanctionner sans vous fournir de raisons s'ils considèrent bon de vous exclure de la plateforme. Les comptes utilisés pour contourner une sanction peuvent également être sujets à ladite sanction si l'administration le juge nécessaire. (Art.0-1)_
+
+**Une sanction a pour but de faire respecter le règlement selon les erreurs et les antécédents du joueur fautif**. Toute sanction appliquée par un membre de la modération peut être expliquée et justifiée par celui-ci si le joueur coupable le souhaite car celle-ci est mise en place impartialement et respectueusement envers le joueur. Néanmoins, la modération n'est pas tenue de fournir de preuve. _(Art.0-2)_ Vous vous réservez tout de même le droit de contester une sanction vous ayant été appliquée en créant un ticket sur notre [Discord](https://discord.gg/qqBCWgpRDc). _(Art.0-3)_
 
 
 
@@ -45,7 +41,7 @@ _Tous les points énumérés ci-dessous sont considérés comme lus et acceptés
 
 <p align="center"></p>
 
-<p align="center"><br><img src="../.gitbook/assets/divider dyn.png" alt=""></p>
+<p align="center"><br><img src="../.gitbook/assets/sep 2.png" alt=""></p>
 
 <h2 align="center">Sécurité et Partage des comptes</h2>
 
@@ -59,7 +55,7 @@ Il est important de noter que nous ne prenons pas en compte le partage de compte
 
 
 
-<p align="center"><img src="../.gitbook/assets/divider dyn.png" alt=""></p>
+<p align="center"><img src="../.gitbook/assets/sep 2.png" alt=""></p>
 
 <h2 align="center">La publicité</h2>
 
@@ -74,7 +70,7 @@ Toutes autres formes d'annonces telles que des événements privés ou des invit
 
 
 
-<p align="center"><img src="../.gitbook/assets/divider dyn.png" alt=""></p>
+<p align="center"><img src="../.gitbook/assets/sep 2.png" alt=""></p>
 
 <h2 align="center">Communiquer libre, sans abus</h2>
 
@@ -116,7 +112,7 @@ Cela semble évident mais de nombreuses personnes s'en servent pour unique but d
 
 
 
-<p align="center"><img src="../.gitbook/assets/divider dyn.png" alt=""></p>
+<p align="center"><img src="../.gitbook/assets/sep 2.png" alt=""></p>
 
 <h2 align="center">Usurpation d'identité</h2>
 
@@ -130,11 +126,7 @@ Toute tentative par pseudonyme, avatar ou comportement visant à **se faire pass
 
 
 
-<p align="center"><img src="../.gitbook/assets/divider dyn.png" alt=""></p>
-
-<p align="center"></p>
-
-<p align="center"></p>
+<p align="center"><img src="../.gitbook/assets/sep 2.png" alt=""></p>
 
 <h2 align="center">Skin, Capes et Pseudonymes</h2>
 
@@ -149,7 +141,7 @@ Toute tentative par pseudonyme, avatar ou comportement visant à **se faire pass
 
 
 
-<p align="center"><img src="../.gitbook/assets/divider dyn.png" alt=""></p>
+<p align="center"><img src="../.gitbook/assets/sep 2.png" alt=""></p>
 
 <h2 align="center">Utilisation et Modification du Client​</h2>
 
@@ -181,7 +173,7 @@ L’utilisation d’un **autoclick ou toute autre façon détournée permettant 
 
 
 
-<p align="center"><img src="../.gitbook/assets/divider dyn.png" alt=""></p>
+<p align="center"><img src="../.gitbook/assets/sep 2.png" alt=""></p>
 
 <h2 align="center">Exploitation de bug​</h2>
 
@@ -195,7 +187,7 @@ Il est donc strictement interdit d'**exploiter volontairement** des bugs sur le 
 
 
 
-<p align="center"><img src="../.gitbook/assets/divider dyn.png" alt=""></p>
+<p align="center"><img src="../.gitbook/assets/sep 2.png" alt=""></p>
 
 <h2 align="center">Achat et Ventes</h2>
 
@@ -228,7 +220,7 @@ Le transfert de dollars ($) **est pris en charge par l’administration uniqueme
 
 
 
-<p align="center"><img src="../.gitbook/assets/divider dyn.png" alt=""><br></p>
+<p align="center"><img src="../.gitbook/assets/sep 2.png" alt=""></p>
 
 <h2 align="center">Vols et Griefs</h2>
 
@@ -249,7 +241,7 @@ Aussi, lorsqu’un joueur est déjà présent en train de tuer un EnderDragon su
 
 
 
-<p align="center"><img src="../.gitbook/assets/divider dyn.png" alt=""></p>
+<p align="center"><img src="../.gitbook/assets/sep 2.png" alt=""></p>
 
 <h2 align="center">Player Versus Player</h2>
 
@@ -261,7 +253,7 @@ Dynastia est un serveur qui **ne tolère aucune forme de PvP entre les joueurs**
 
 
 
-<p align="center"><img src="../.gitbook/assets/divider dyn.png" alt=""></p>
+<p align="center"><img src="../.gitbook/assets/sep 2.png" alt=""></p>
 
 <h2 align="center">Fermes et Warps</h2>
 
@@ -305,7 +297,7 @@ Enfin, les PW **trop proches** les uns des autres seront supprimés pour éviter
 
 
 
-<p align="center"><img src="../.gitbook/assets/divider dyn.png" alt=""></p>
+<p align="center"><img src="../.gitbook/assets/sep 2.png" alt=""></p>
 
 <h2 align="center">Têtes décoratives et objets légendaires</h2>
 
