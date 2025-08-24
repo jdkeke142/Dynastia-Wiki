@@ -49,6 +49,8 @@ _Tous les points énumérés ci-dessous sont considérés comme lus et acceptés
 
 **Vous êtes totalement responsable de la sécurité de votre compte Minecraft ainsi que celle de vos autres comptes sur nos plateformes**. Nous nous déchargeons de toute responsabilité si ces derniers venaient à être piratés. _(Art.1-1)_ Si votre compte est utilisé pour enfreindre le règlement, il en subira les conséquences. Veillez donc à ne jamais communiquer vos identifiants à qui que ce soit, un mot de passe est personnel et ne doit jamais être divulgué. _(Art.1-2)_
 
+Nous n'autorisons pas l'utilisation de plusieurs comptes sur le serveur, connectés ou non simultanément. _(Art.1-3)_ Si vous jouez avec un proche dans le même foyer, veillez à prévenir l'équipe de modération en amont.
+
 Il est important de noter que nous ne prenons pas en compte le partage de comptes Minecraft utilisés sur Dynastia. Votre compte est sous votre entière responsabilité. S'il venait à être interdit de se connecter à cause de l'un de vos proches, celui-ci le restera sans exceptions. _(Art.1-3)_
 
 
@@ -94,19 +96,21 @@ Il va de soi qu'il est formellement exclu d'écrire des messages ou envoyer des 
 
 Il est  interdit de poster une série de messages dénués de sens et inutiles, ayant pour seul effet de gêner les autres joueurs. _(Art.3-5)_ Les messages contenant un nombre trop important de majuscules allant jusqu'à rendre le chat illisible sont considérés comme du spam. _(Art.3-6)_.
 
+Aussi, la publicité pour un PW sur le chat est limité à un message par heure. Si vous venez à ne pas respecter cette règle, cela sera considéré comme du spam et sanctionné comme tel. _(Art.3-7)_
 
 
-**Les membres de l'équipe doivent être respectés au même titre que les autres**. Les membres du staff font tout leur possible pour vous permettre de passer de bons moments sur le serveur et jouent en tant que joueurs avec vous sans permission supplémentaire sur le gameplay. _(Art.3-9)_
+
+**Les membres de l'équipe doivent être respectés au même titre que les autres**. Les membres du staff font tout leur possible pour vous permettre de passer de bons moments sur le serveur et jouent en tant que joueurs avec vous sans permission supplémentaire sur le gameplay. _(Art.3-8)_
 
 
 
 **Une conversation à caractère personnelle ne doit être divulguée sans l'accord de tous les membres la constituant.**
 
-Cela semble évident mais de nombreuses personnes s'en servent pour unique but de se venger ou de se moquer tandis que dans certaines situations, cela peut porter atteinte à la vie privée d'un individu. Les messages comportant des informations privées sont prohibés. _(Art.3-10)_
+Cela semble évident mais de nombreuses personnes s'en servent pour unique but de se venger ou de se moquer tandis que dans certaines situations, cela peut porter atteinte à la vie privée d'un individu. Les messages comportant des informations privées sont prohibés. _(Art.3-19)_
 
 
 
-**Chaque membre est le seul et unique responsable du contenu qu'il publie**, Dynastia ne pourra pas en être tenu pour responsable. (Art.3-12)
+**Chaque membre est le seul et unique responsable du contenu qu'il publie**, Dynastia ne pourra pas en être tenu pour responsable. (Art.3-10)
 
 
 
