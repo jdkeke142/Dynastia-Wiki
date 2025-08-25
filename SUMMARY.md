@@ -1,11 +1,7 @@
 # Table of contents
 
 * [🎮 Dynastia](README.md)
-* [🔉 Règlement Général​](minecraft.md)
-
-## 🚨 Règlements
-
-* [🔷 Règlement sur Discord](reglements/discord.md)
+* [🔉 Règlement Général​](reglement.md)
 
 ## 📗 Fonctionnalités
 
