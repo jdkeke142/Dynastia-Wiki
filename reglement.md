@@ -179,7 +179,7 @@ L’utilisation d’un **autoclick ou toute autre façon détournée permettant 
 
 <p align="center"><img src=".gitbook/assets/sep 2.png" alt=""></p>
 
-<h2 align="center"><mark style="color:yellow;">Exploitation de bug​</mark></h2>
+<h2 align="center"><mark style="color:yellow;">Exploitation de bug​ et Abus du système</mark></h2>
 
 
 
@@ -188,6 +188,10 @@ Certaines fonctionnalités du serveur peuvent comporter des bugs. Si vous venez 
 
 
 Il est donc strictement interdit d'**exploiter volontairement** des bugs sur le serveur de jeu, autrement une sanction vous sera attribuée. _(Art.7-1)_
+
+
+
+Aussi, il est interdit de dépasser la limite du shop admin en échangeant ou en vendant des ressources (ex. : shulker de citrouilles contre bambou) afin d’obtenir plus que le montant autorisé avec une seule ressource. En cas de vente entre joueurs, vos prix doivent être supérieurs à ceux du shop admin. _(Art.7-2)_
 
 
 
