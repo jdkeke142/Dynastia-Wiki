@@ -41,7 +41,7 @@ _Tous les points énumérés ci-dessous sont considérés comme lus et acceptés
 
 <p align="center"></p>
 
-<p align="center"><br><img src="../.gitbook/assets/sep 2.png" alt=""></p>
+<p align="center"><br><img src=".gitbook/assets/sep 2.png" alt=""></p>
 
 <h2 align="center"><mark style="color:yellow;">Sécurité et Partage des comptes</mark></h2>
 
@@ -57,7 +57,7 @@ Il est important de noter que nous ne prenons pas en compte le partage de compte
 
 
 
-<p align="center"><img src="../.gitbook/assets/sep 2.png" alt=""></p>
+<p align="center"><img src=".gitbook/assets/sep 2.png" alt=""></p>
 
 <h2 align="center"><mark style="color:yellow;">La publicité</mark></h2>
 
@@ -72,7 +72,7 @@ Toutes autres formes d'annonces telles que des événements privés ou des invit
 
 
 
-<p align="center"><img src="../.gitbook/assets/sep 2.png" alt=""></p>
+<p align="center"><img src=".gitbook/assets/sep 2.png" alt=""></p>
 
 <h2 align="center"><mark style="color:yellow;">Communiquer libre, sans abus</mark></h2>
 
@@ -116,7 +116,7 @@ Cela semble évident mais de nombreuses personnes s'en servent pour unique but d
 
 
 
-<p align="center"><img src="../.gitbook/assets/sep 2.png" alt=""></p>
+<p align="center"><img src=".gitbook/assets/sep 2.png" alt=""></p>
 
 <h2 align="center"><mark style="color:yellow;">Usurpation d'identité</mark></h2>
 
@@ -130,7 +130,7 @@ Toute tentative par pseudonyme, avatar ou comportement visant à **se faire pass
 
 
 
-<p align="center"><img src="../.gitbook/assets/sep 2.png" alt=""></p>
+<p align="center"><img src=".gitbook/assets/sep 2.png" alt=""></p>
 
 <h2 align="center"><mark style="color:yellow;">Skin, Capes et Pseudonymes</mark></h2>
 
@@ -145,7 +145,7 @@ Toute tentative par pseudonyme, avatar ou comportement visant à **se faire pass
 
 
 
-<p align="center"><img src="../.gitbook/assets/sep 2.png" alt=""></p>
+<p align="center"><img src=".gitbook/assets/sep 2.png" alt=""></p>
 
 <h2 align="center"><mark style="color:yellow;">Utilisation et Modification du Client​</mark></h2>
 
@@ -177,7 +177,7 @@ L’utilisation d’un **autoclick ou toute autre façon détournée permettant 
 
 
 
-<p align="center"><img src="../.gitbook/assets/sep 2.png" alt=""></p>
+<p align="center"><img src=".gitbook/assets/sep 2.png" alt=""></p>
 
 <h2 align="center"><mark style="color:yellow;">Exploitation de bug​</mark></h2>
 
@@ -191,7 +191,7 @@ Il est donc strictement interdit d'**exploiter volontairement** des bugs sur le 
 
 
 
-<p align="center"><img src="../.gitbook/assets/sep 2.png" alt=""></p>
+<p align="center"><img src=".gitbook/assets/sep 2.png" alt=""></p>
 
 <h2 align="center"><mark style="color:yellow;">Achat et Ventes</mark></h2>
 
@@ -224,7 +224,7 @@ Le transfert de dollars ($) **est pris en charge par l’administration uniqueme
 
 
 
-<p align="center"><img src="../.gitbook/assets/sep 2.png" alt=""></p>
+<p align="center"><img src=".gitbook/assets/sep 2.png" alt=""></p>
 
 <h2 align="center"><mark style="color:yellow;">Vols et Griefs</mark></h2>
 
@@ -245,7 +245,7 @@ Aussi, lorsqu’un joueur est déjà présent en train de tuer un EnderDragon su
 
 
 
-<p align="center"><img src="../.gitbook/assets/sep 2.png" alt=""></p>
+<p align="center"><img src=".gitbook/assets/sep 2.png" alt=""></p>
 
 <h2 align="center"><mark style="color:yellow;">Player Versus Player</mark></h2>
 
@@ -257,9 +257,9 @@ Dynastia est un serveur qui **ne tolère aucune forme de PvP entre les joueurs**
 
 
 
-<p align="center"><img src="../.gitbook/assets/sep 2.png" alt=""></p>
+<p align="center"><img src=".gitbook/assets/sep 2.png" alt=""></p>
 
-<h2 align="center"><mark style="color:yellow;">Fermes et Warps</mark></h2>
+<h2 align="center"><mark style="color:yellow;">Fermes, Warps et Résidences</mark></h2>
 
 
 
@@ -295,13 +295,21 @@ En effet, une distance minimale entre les limites d’un PW et une ferme doit ê
 
 
 
-Enfin, les PW **trop proches** les uns des autres seront supprimés pour éviter d’**encombrer le menu**. _(Art.15-9)_
+Aussi, les PW **trop proches** les uns des autres seront supprimés pour éviter d’**encombrer le menu**. _(Art.15-9)_
+
+
+
+Enfin, il est strictement interdit de définir une résidence dans ou aux alentours d'une construction d'un autre joueur sans un accord écrit de sa part au préalable. Veillez à prendre une preuve de cet accord pour le prouver si nécessaire. _(Art.15-10)_
 
 
 
 
 
-<p align="center"><img src="../.gitbook/assets/sep 2.png" alt=""></p>
+
+
+
+
+<p align="center"><img src=".gitbook/assets/sep 2.png" alt=""></p>
 
 <h2 align="center"><mark style="color:yellow;">Têtes décoratives et objets légendaires</mark></h2>
 
