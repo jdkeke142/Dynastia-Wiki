@@ -33,11 +33,11 @@ _Tous les points énumérés ci-dessous sont considérés comme lus et acceptés
 
 
 
-**Tous les utilisateurs de nos plateformes sont égaux, peu importe leur grade**. Ceux-ci disposent des mêmes droits dans le cadre de ce Règlement et c'est pour cette raison qu'il vous est demandé d'être respectueux les uns envers les autres. Le respect d'autrui est fondamental pour pouvoir profiter de notre serveur dans des conditions idylliques. (Art.0-5)
+**Tous les utilisateurs de nos plateformes sont égaux, peu importe leur grade**. Ceux-ci disposent des mêmes droits dans le cadre de ce Règlement et c'est pour cette raison qu'il vous est demandé d'être respectueux les uns envers les autres. Le respect d'autrui est fondamental pour pouvoir profiter de notre serveur dans des conditions idylliques. _(Art.0-5)_
 
 
 
-**Si vous rencontrez des problèmes avec la modération de Dynastia ou l'un des membres la constituant**, veuillez vous **référer à l’administration** s'il n'est pas possible de le résoudre autrement. L'équipe du serveur est constituée de bénévoles et ceux-ci ont beaucoup à faire, merci de bien vouloir prendre en compte cela. (Art.0-6)
+**Si vous rencontrez des problèmes avec la modération de Dynastia ou l'un des membres la constituant**, veuillez vous **référer à l’administration** s'il n'est pas possible de le résoudre autrement. L'équipe du serveur est constituée de bénévoles et ceux-ci ont beaucoup à faire, merci de bien vouloir prendre en compte cela. _(Art.0-6)_
 
 <p align="center"></p>
 
@@ -63,7 +63,7 @@ Il est important de noter que nous ne prenons pas en compte le partage de compte
 
 
 
-**La publicité pour d'autres serveurs** sur le Discord ou le serveur, débouchera sur une sanction. Cela inclut le partage de liens ou d'IPs associés à ces serveurs Minecraft, dans tous les systèmes de communication mis à votre disposition. _(Art.2-1')_\
+**La publicité pour d'autres serveurs** sur le Discord ou le serveur, débouchera sur une sanction. Cela inclut le partage de liens ou d'IPs associés à ces serveurs Minecraft, dans tous les systèmes de communication mis à votre disposition. _(Art.2-1)_\
 
 
 Toutes autres formes d'annonces telles que des événements privés ou des invitations d’équipe relatives à Dynastia sont permises sur le serveur. _(Art.2-2)​_
@@ -106,7 +106,7 @@ Aussi, la publicité pour un PW sur le chat est limité à un message par heure.
 
 **Une conversation à caractère personnelle ne doit être divulguée sans l'accord de tous les membres la constituant.**
 
-Cela semble évident mais de nombreuses personnes s'en servent pour unique but de se venger ou de se moquer tandis que dans certaines situations, cela peut porter atteinte à la vie privée d'un individu. Les messages comportant des informations privées sont prohibés. _(Art.3-19)_
+Cela semble évident mais de nombreuses personnes s'en servent pour unique but de se venger ou de se moquer tandis que dans certaines situations, cela peut porter atteinte à la vie privée d'un individu. Les messages comportant des informations privées sont prohibés. _(Art.3-9)_
 
 
 
@@ -124,7 +124,7 @@ Cela semble évident mais de nombreuses personnes s'en servent pour unique but d
 
 **L’usurpation d’identité est formellement interdite,** qu’il s’agisse d’un joueur ou, a fortiori, d’un Modérateur ou d’un membre du staff de Dynastia.&#x20;
 
-Toute tentative par pseudonyme, avatar ou comportement visant à **se faire passer pour un autre** ou un membre de l’équipe sera sanctionnée sévèrement. (Art.4)
+Toute tentative par pseudonyme, avatar ou comportement visant à **se faire passer pour un autre** ou un membre de l’équipe sera sanctionnée sévèrement. _(Art.4-1)_
 
 
 
