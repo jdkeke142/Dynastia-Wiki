@@ -63,8 +63,7 @@ Il est important de noter que nous ne prenons pas en compte le partage de compte
 
 
 
-**La publicité pour d'autres serveurs** sur le Discord ou le serveur, débouchera sur une sanction. Cela inclut le partage de liens ou d'IPs associés à ces serveurs Minecraft, dans tous les systèmes de communication mis à votre disposition. _(Art.2-1)_\
-
+**La publicité pour d'autres serveurs** sur le Discord ou le serveur, débouchera sur une sanction. Cela inclut le partage de liens ou d'IPs associés à ces serveurs Minecraft, dans tous les systèmes de communication mis à votre disposition. _(Art.2-1)_<br>
 
 Toutes autres formes d'annonces telles que des événements privés ou des invitations d’équipe relatives à Dynastia sont permises sur le serveur. _(Art.2-2)​_
 
@@ -136,8 +135,7 @@ Toute tentative par pseudonyme, avatar ou comportement visant à **se faire pass
 
 
 
-**Avoir un skin, une cape ou un pseudonyme vulgaire, sexuellement explicite, discriminatoire, violent, xénophobe, haineux, grossier, injurieux, raciste, homophobe ou comportant des informations privées** n'est pas permis sur Dynastia. Le port de skins incorrects, l'utilisation de pseudonymes déplacés ainsi que le port de capes grossières sont bannis définitivement de nos plateformes avec possibilité de réclamer un dé-bannissement lors du changement de ceux-ci. _(Art.5-1)_\
-
+**Avoir un skin, une cape ou un pseudonyme vulgaire, sexuellement explicite, discriminatoire, violent, xénophobe, haineux, grossier, injurieux, raciste, homophobe ou comportant des informations privées** n'est pas permis sur Dynastia. Le port de skins incorrects, l'utilisation de pseudonymes déplacés ainsi que le port de capes grossières sont bannis définitivement de nos plateformes avec possibilité de réclamer un dé-bannissement lors du changement de ceux-ci. _(Art.5-1)_<br>
 
 **Il en va de même pour les constructions**. _(Art.5-2)​_
 
@@ -168,8 +166,7 @@ Toute tentative par pseudonyme, avatar ou comportement visant à **se faire pass
 
 
 
-L’utilisation d’un **autoclick ou toute autre façon détournée permettant de cliquer sans action manuelle de votre part** est interdit. _(Art. 6-2)_\
-
+L’utilisation d’un **autoclick ou toute autre façon détournée permettant de cliquer sans action manuelle de votre part** est interdit. _(Art. 6-2)_<br>
 
 **En cas d'erreur de la part d'un Modérateur**, la procédure consiste à effectuer une réclamation en créant un ticket sur le Discord tout en apportant des preuves tangibles. _(Art. 6-3)_
 
@@ -205,18 +202,15 @@ La boutique du serveur permet d'obtenir différents grades, objets, clés ou mon
 
 
 
-**Aucun achat n'est remboursé**. Les achats sont considérés comme définitifs et l'acheteur est responsable de son erreur dans le cas présent. _(Art.11-2)_ Les achats en jeu ne sont remboursés qu'en cas de perte ou de bug provenant du serveur. La procédure consiste à créer un ticket sur le [Discord](https://discord.gg/qqBCWgpRDc). _(Art.11-3)_ En cas de perte de données, il est donc en la responsabilité du joueur d'effectuer les démarches nécessaires. _(Art.11-4)_\
+**Aucun achat n'est remboursé**. Les achats sont considérés comme définitifs et l'acheteur est responsable de son erreur dans le cas présent. _(Art.11-2)_ Les achats en jeu ne sont remboursés qu'en cas de perte ou de bug provenant du serveur. La procédure consiste à créer un ticket sur le [Discord](https://discord.gg/qqBCWgpRDc). _(Art.11-3)_ En cas de perte de données, il est donc en la responsabilité du joueur d'effectuer les démarches nécessaires. _(Art.11-4)_<br>
 
-
-Si vous veniez par mégarde à vous tromper de pseudonyme lors de vos achats sur notre boutique, **l’administration s’engage à restaurer** ceux-ci sur le pseudonyme initialement voulu. _(Art.11-5)_\
-
+Si vous veniez par mégarde à vous tromper de pseudonyme lors de vos achats sur notre boutique, **l’administration s’engage à restaurer** ceux-ci sur le pseudonyme initialement voulu. _(Art.11-5)_<br>
 
 **Les mineurs doivent avoir l'autorisation de leur tuteur légal**. Dynastia n'est en aucun cas responsable des actes commis par les mineurs sans l'autorisation de leur tuteur légal. Veuillez consulter votre tuteur avant d'effectuer un achat sur la boutique du serveur. _(Art.11-6)_
 
 
 
-**Aucune vente provenant d’objet ou tâche quelconque sur Dynastia n'est autorisée avec de la monnaie réelle**. Il vous est tout à fait plausible de faire un cadeau à vos amis mais aucune revente ne sera tolérée. La vente de tout article vendu par Dynastia est proscrite en dehors de la Boutique officielle du site. _(Art.11-7)_\
-
+**Aucune vente provenant d’objet ou tâche quelconque sur Dynastia n'est autorisée avec de la monnaie réelle**. Il vous est tout à fait plausible de faire un cadeau à vos amis mais aucune revente ne sera tolérée. La vente de tout article vendu par Dynastia est proscrite en dehors de la Boutique officielle du site. _(Art.11-7)_<br>
 
 **Aucun transfert de données** (claims, crédits, objets ...) ne peut être effectué d'un compte Minecraft à un autre. _(Art.11-8)_
 
@@ -240,10 +234,11 @@ Dynastia possède un outils d’analyse et d’enregistrement des actions qui pe
 
 
 
-**Il en va de même pour les vols**. Si un joueur jette ou pose un objet, vous êtes tenus de lui rendre.  _(Art.13-2)_\
+**Il en va de même pour les vols**. Si un joueur jette ou pose un objet, vous êtes tenus de lui rendre.  _(Art.13-2)_<br>
 
+**Le vol ou l’appropriation de créations protégées par des droits d’auteur**, qu’il s’agisse de builds, de map-art, de farms ou de tout autre contenu Minecraft, est formellement interdit. _(Art.13-3)_ Chaque création réalisée par un joueur est **unique et reste sa propriété** : elle ne peut **en aucun cas être copiée, reproduite ou réutilisée** par un autre joueur sans **son accord préalable**. Toute reproduction, modification ou redistribution de contenus dont vous n’êtes pas l’auteur, ou pour lesquels vous ne disposez pas d’une autorisation explicite, entraînera des sanctions. Veillez à toujours respecter le travail des autres. _(Art.13-4)_
 
-Aussi, lorsqu’un joueur est déjà présent en train de tuer un EnderDragon sur l'île principale de l’End, **il est interdit de contribuer à sa mort et de récolter les gains sans l’accord du joueur qui l’a fait apparaître**. Vous êtes prié d’attendre que le joueur précédent ait terminé sa session de farm pour prendre sa place. _(Art.13-3)_
+Aussi, lorsqu’un joueur est déjà présent en train de tuer un EnderDragon sur l'île principale de l’End, **il est interdit de contribuer à sa mort et de récolter les gains sans l’accord du joueur qui l’a fait apparaître**. Vous êtes prié d’attendre que le joueur précédent ait terminé sa session de farm pour prendre sa place. _(Art.13-5)_
 
 
 
@@ -319,8 +314,7 @@ Enfin, il est strictement interdit de définir une résidence dans ou aux alento
 
 
 
-\
-
+<br>
 
 Vous avez la possibilité d’utiliser des têtes décoratives via la commande /hdb (achetable sur la boutique en ligne) pour approfondir vos constructions.&#x20;
 
