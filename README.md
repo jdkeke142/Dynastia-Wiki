@@ -6,7 +6,7 @@ Bienvenue sur le Wiki du serveur Dynastia, il a pour objectif de résumer et exp
 
 ### <mark style="color:yellow;">Qu'offre le serveur ?</mark> <a href="#offre" id="offre"></a>
 
-Dynastia est un serveur Survie Vanilla 1.21.4 avec des tendances Semi-RP.\
+Dynastia est un serveur Survie Vanilla 1.21.7 avec des tendances Semi-RP.\
 \
 Le serveur a la spécificité d'offrir une expérience très proche du Vanilla, grâce à une infrastructure poussée et spécifique. Dans cet objectif :&#x20;
 
