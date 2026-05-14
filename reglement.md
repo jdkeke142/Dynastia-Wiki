@@ -198,7 +198,7 @@ Si vous veniez par mégarde à vous tromper de pseudonyme lors de vos achats sur
 
 **Aucune vente provenant d’objet ou tâche quelconque sur Dynastia n'est autorisée avec de la monnaie réelle**. Il vous est tout à fait plausible de faire un cadeau à vos amis mais aucune revente ne sera tolérée. La vente de tout article vendu par Dynastia est proscrite en dehors de la Boutique officielle du site. _(Art.11-7)_<br>
 
-**Aucun transfert de données** (claims, crédits, objets, grades...) ne peut être effectué d'un compte Minecraft à un autre. _(Art.11-8)_
+**Aucun transfert de données** (crédits, objets, grades...) ne peut être effectué d'un compte Minecraft à un autre. _(Art.11-8)_
 
 
 
