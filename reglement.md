@@ -3,20 +3,6 @@ description: >-
   Règlement Général​  Tous les points énumérés ci-dessous sont considérés comme
   lus et acceptés par tous les utilisateurs des plateformes de Dynastia. Lors de
   la connexion sur l'une des plateformes du s
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # 🔉 Règlement Général​
@@ -204,7 +190,7 @@ La boutique du serveur permet d'obtenir différents grades, objets, clés ou mon
 
 **Aucun achat n'est remboursé**. Les achats sont considérés comme définitifs et l'acheteur est responsable de son erreur dans le cas présent. _(Art.11-2)_ Les achats en jeu ne sont remboursés qu'en cas de perte ou de bug provenant du serveur. La procédure consiste à créer un ticket sur le [Discord](https://discord.gg/qqBCWgpRDc). _(Art.11-3)_ En cas de perte de données, il est donc en la responsabilité du joueur d'effectuer les démarches nécessaires. _(Art.11-4)_<br>
 
-Si vous veniez par mégarde à vous tromper de pseudonyme lors de vos achats sur notre boutique, **l’administration s’engage à restaurer** ceux-ci sur le pseudonyme initialement voulu. _(Art.11-5)_<br>
+Si vous veniez par mégarde à vous tromper de pseudonyme lors de vos achats sur notre boutique, **l’administration s’engage à restaurer** ceux-ci sur le pseudonyme initialement voulu à condition que vous fournissiez une preuve d'achat de moins de 48H. _(Art.11-5)_<br>
 
 **Les mineurs doivent avoir l'autorisation de leur tuteur légal**. Dynastia n'est en aucun cas responsable des actes commis par les mineurs sans l'autorisation de leur tuteur légal. Veuillez consulter votre tuteur avant d'effectuer un achat sur la boutique du serveur. _(Art.11-6)_
 
@@ -212,7 +198,7 @@ Si vous veniez par mégarde à vous tromper de pseudonyme lors de vos achats sur
 
 **Aucune vente provenant d’objet ou tâche quelconque sur Dynastia n'est autorisée avec de la monnaie réelle**. Il vous est tout à fait plausible de faire un cadeau à vos amis mais aucune revente ne sera tolérée. La vente de tout article vendu par Dynastia est proscrite en dehors de la Boutique officielle du site. _(Art.11-7)_<br>
 
-**Aucun transfert de données** (claims, crédits, objets ...) ne peut être effectué d'un compte Minecraft à un autre. _(Art.11-8)_
+**Aucun transfert de données** (claims, crédits, objets, grades...) ne peut être effectué d'un compte Minecraft à un autre. _(Art.11-8)_
 
 
 
