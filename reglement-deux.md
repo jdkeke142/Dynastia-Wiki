@@ -54,36 +54,39 @@ Dans tout le règlement, ces termes ont le sens défini ici :
 
 <h2 align="center"><mark style="color:yellow;">1. Sécurité et partage des comptes</mark></h2>
 
-* **Ton compte est sous ton entière responsabilité**, sécurité comprise : nous ne couvrons pas les piratages. _(Art.1-1)_ Ses infractions te suivent, même commises par un tiers ; ne communique jamais tes identifiants. _(Art.1-2)_
-* **Un seul compte par joueur** : en utiliser plusieurs est interdit, connectés simultanément ou non. _(Art.1-3)_
-* **Tu joues avec un proche du même foyer ?** Préviens la modération en amont. _(Art.1-4)_
+* **Ton compte est sous ton entière responsabilité**, sécurité comprise : nous ne couvrons pas les piratages. _(Art.1-1)_
+* **Les infractions de ton compte te suivent**, même commises par un tiers : ne communique jamais tes identifiants. _(Art.1-2)_
+* **Utiliser plusieurs comptes** sur le serveur est <mark style="color:red;">**interdit**</mark>, connectés simultanément ou non. _(Art.1-3)_
+* **Jouer avec un proche du même foyer** est <mark style="color:green;">**autorisé**</mark> à condition de prévenir la modération en amont. _(Art.1-4)_
 * **Un compte banni le reste**, même si l'infraction vient d'un proche. _(Art.1-5)_
 
 <p align="center"><img src=".gitbook/assets/sep-slim.png" alt=""></p>
 
 <h2 align="center"><mark style="color:yellow;">2. Publicité</mark></h2>
 
-* **Promouvoir un autre serveur Minecraft est interdit**, sur toutes nos plateformes et sous toute forme (lien, IP, nom, image...). _(Art.2-1)_
-* **Les annonces relatives à Dynastia sont permises** (événements de joueurs, recrutements d'équipe...). _(Art.2-2)_
+* **Promouvoir un autre serveur Minecraft** est <mark style="color:red;">**interdit**</mark>, sur toutes nos plateformes et sous toute forme (lien, IP, nom, image...). _(Art.2-1)_
+* **Les annonces relatives à Dynastia** (événements de joueurs, recrutements d'équipe...) sont <mark style="color:green;">**autorisées**</mark>. _(Art.2-2)_
 
 <p align="center"><img src=".gitbook/assets/sep-slim.png" alt=""></p>
 
 <h2 align="center"><mark style="color:yellow;">3. Communication</mark></h2>
 
 * **La langue du serveur est le français.** Écris de manière compréhensible. _(Art.3-1)_
-* **Tout contenu portant atteinte à autrui ou inadapté à un public jeune est interdit** : sexuel, discriminatoire, haineux, violent, injurieux, notamment. Liste illustrative : c'est le caractère du contenu qui constitue l'infraction, pas sa présence dans la liste. _(Art.3-2)_
-* **Les débats politiques et les querelles personnelles sont interdits sur les canaux publics.** Un désaccord ordinaire (négociation, débat de jeu...) n'est pas concerné tant qu'il reste courtois. _(Art.3-3)_
-* **Toute menace envers une personne est interdite** (DDoS, incitation au suicide...). _(Art.3-4)_
-* **Le spam et le flood sont interdits** : tout message dont le seul effet est de gêner les autres. _(Art.3-5)_ Les majuscules abusives en font partie. _(Art.3-6)_ La publicité pour un PW est limitée à un message par heure. _(Art.3-7)_
+* **Tout contenu portant atteinte à autrui ou inadapté à un public jeune** est <mark style="color:red;">**interdit**</mark> : sexuel, discriminatoire, haineux, violent, injurieux, notamment. La liste est illustrative : c'est le caractère du contenu qui constitue l'infraction. _(Art.3-2)_
+* **Les débats politiques et les querelles personnelles** sur les canaux publics sont <mark style="color:red;">**interdits**</mark>. Un désaccord ordinaire (négociation, débat de jeu...) n'est pas concerné tant qu'il reste courtois. _(Art.3-3)_
+* **Menacer une personne** (DDoS, incitation au suicide...) est <mark style="color:red;">**interdit**</mark>. _(Art.3-4)_
+* **Le spam et le flood** sont <mark style="color:red;">**interdits**</mark> : tout message dont le seul effet est de gêner les autres. _(Art.3-5)_
+* **Les majuscules abusives** rendant le chat illisible comptent comme du spam. _(Art.3-6)_
+* **La publicité pour un PW** est limitée à un message par heure ; au-delà, elle compte comme du spam. _(Art.3-7)_
 * **Le staff se respecte comme tout autre joueur.** Ses membres jouent avec toi, sans permission supplémentaire sur le gameplay. _(Art.3-8)_
-* **Divulguer une conversation privée est interdit** sans l'accord de tous ses participants, tout comme publier des informations privées. _(Art.3-9)_
+* **Divulguer une conversation privée** sans l'accord de tous ses participants est <mark style="color:red;">**interdit**</mark>, tout comme publier des informations privées. _(Art.3-9)_
 * **Tu es seul responsable de ce que tu publies.** _(Art.3-10)_
 
 <p align="center"><img src=".gitbook/assets/sep-slim.png" alt=""></p>
 
 <h2 align="center"><mark style="color:yellow;">4. Usurpation d'identité</mark></h2>
 
-* **Se faire passer pour un autre est interdit**, joueur ou, a fortiori, membre du staff, que ce soit par pseudonyme, avatar ou comportement. Sanction sévère. _(Art.4-1)_
+* **Se faire passer pour un autre**, joueur ou, a fortiori, membre du staff, par pseudonyme, avatar ou comportement, est <mark style="color:red;">**interdit**</mark>. Sanction sévère. _(Art.4-1)_
 
 <p align="center"><img src=".gitbook/assets/sep-slim.png" alt=""></p>
 
@@ -96,8 +99,8 @@ Dans tout le règlement, ces termes ont le sens défini ici :
 
 <h2 align="center"><mark style="color:yellow;">6. Utilisation et modification du client</mark></h2>
 
-* **Toute modification du client procurant un avantage sur les autres joueurs est interdite.** _(Art.6-1)_ C'est ce critère qui fait foi pour tout mod, y compris hors liste. En cas de doute, demande à la modération avant utilisation.
-* **Tout autoclick est interdit**, ainsi que tout autre moyen de cliquer sans action manuelle. _(Art.6-2)_
+* **Toute modification du client procurant un avantage sur les autres joueurs** est <mark style="color:red;">**interdite**</mark>. Ce critère fait foi pour tout mod, y compris hors liste ; en cas de doute, demande à la modération avant utilisation. _(Art.6-1)_
+* **L'autoclick**, et tout autre moyen de cliquer sans action manuelle, est <mark style="color:red;">**interdit**</mark>. _(Art.6-2)_
 
 Sont notamment <mark style="color:green;">**autorisés**</mark> :
 
@@ -110,19 +113,21 @@ Sont notamment <mark style="color:green;">**autorisés**</mark> :
 
 <h2 align="center"><mark style="color:yellow;">7. Exploitation de bug et abus du système</mark></h2>
 
-* **Exploiter volontairement un bug est interdit.** Si tu en rencontres un, signale-le via un ticket sur le [Discord](https://discord.gg/qqBCWgpRDc). _(Art.7-1)_
-* **Contourner les limites de vente de l'AdminShop est interdit**, notamment par échanges intermédiaires (ex. : échanger un shulker de citrouilles contre du bambou pour vendre au-delà de la limite). Dans toute vente entre joueurs, HDV compris, tes prix doivent être supérieurs au prix auquel l'AdminShop **achète** la ressource. _(Art.7-2)_
+* **Exploiter volontairement un bug** est <mark style="color:red;">**interdit**</mark>. Signale tout bug rencontré via un ticket sur le [Discord](https://discord.gg/qqBCWgpRDc). _(Art.7-1)_
+* **Contourner les limites de vente de l'AdminShop** est <mark style="color:red;">**interdit**</mark>, notamment par échanges intermédiaires (ex. : échanger un shulker de citrouilles contre du bambou pour vendre au-delà de la limite). Dans toute vente entre joueurs, HDV compris, tes prix doivent être supérieurs au prix auquel l'AdminShop **achète** la ressource. _(Art.7-2)_
 
 <p align="center"><img src=".gitbook/assets/sep-slim.png" alt=""></p>
 
 <h2 align="center"><mark style="color:yellow;">11. Achats et boutique</mark></h2>
 
 * **La boutique** propose grades, objets, clés et monnaies. Les achats contribuent au maintien du serveur ; ils ne sont jamais obligatoires. _(Art.11-1)_
-* **Les achats en boutique sont définitifs**, aucun remboursement. _(Art.11-2)_ Les pertes en jeu ne sont compensées qu'en cas de bug imputable au serveur, via ticket. _(Art.11-3)_ Dans tous les autres cas, la protection de tes biens t'incombe. _(Art.11-4)_
+* **Les achats en boutique sont définitifs** : aucun remboursement. _(Art.11-2)_
+* **Les pertes en jeu** ne sont compensées qu'en cas de bug imputable au serveur, via ticket. _(Art.11-3)_
+* **La protection de tes biens t'incombe** dans tous les autres cas. _(Art.11-4)_
 * **Erreur de pseudonyme lors d'un achat ?** L'administration restaure l'achat sur le bon pseudonyme, contre preuve d'achat de moins de 48 heures. _(Art.11-5)_
 * **Mineur ?** L'autorisation de ton tuteur légal est requise avant tout achat ; Dynastia n'est pas responsable des achats faits sans elle. _(Art.11-6)_
-* **Toute vente contre de la monnaie réelle est interdite**, qu'il s'agisse d'objets, de services ou de tâches sur Dynastia. Les cadeaux restent possibles, leur revente non. Les articles de la boutique ne se vendent que sur la boutique officielle. _(Art.11-7)_
-* **Les données d'un compte sont liées à leur propriétaire** (objets, monnaies, grades, progression...) : tout transfert vers le compte d'un autre joueur, ou par tes propres moyens entre deux comptes, est interdit. _(Art.11-8)_
+* **Vendre contre de la monnaie réelle** est <mark style="color:red;">**interdit**</mark>, qu'il s'agisse d'objets, de services ou de tâches sur Dynastia. Les cadeaux restent possibles, leur revente non. Les articles de la boutique ne se vendent que sur la boutique officielle. _(Art.11-7)_
+* **Transférer les données d'un compte** (objets, monnaies, grades, progression...) vers le compte d'un autre joueur, ou par tes propres moyens entre deux comptes, est <mark style="color:red;">**interdit**</mark> : elles sont liées à leur propriétaire. _(Art.11-8)_
 * **Changement de pseudonyme** : le serveur conserve tout automatiquement, sauf les dollars ($), transférés par l'administration via un ticket précisant l'ancien et le nouveau pseudonyme. _(Art.11-9)_
 * **Compte perdu** : l'administration peut migrer vers ton nouveau compte, sur ticket, uniquement les éléments ci-dessous. Tout le reste est définitivement perdu. _(Art.11-10)_
 
@@ -138,23 +143,24 @@ Sont notamment <mark style="color:green;">**autorisés**</mark> :
 
 <h2 align="center"><mark style="color:yellow;">13. Vols et griefs</mark></h2>
 
-* **Détruire ou dégrader la construction d'un autre joueur est interdit**, protégée ou non. Reconstruire après coup peut atténuer la sanction, jamais l'annuler. _(Art.13-1)_ Dynastia enregistre les actions : les fautifs sont identifiés sans aucun doute possible.
-* **Un objet perdu, jeté ou posé reste la propriété de son joueur** : si le propriétaire est connu, rends-le. _(Art.13-2)_
-* **Voler, revendre ou s'approprier la création d'un autre joueur est interdit.** _(Art.13-3)_
-* **Une création originale (build, map-art...) appartient à son auteur** : copie, reproduction ou revente exigent son accord préalable, dont il est prudent de garder une preuve. Les designs techniques publics (fermes, trieurs et systèmes issus de tutoriels) ne sont la création de personne : chacun peut les reproduire. _(Art.13-4)_
-* **Sur l'île principale de l'End, le joueur qui fait apparaître l'EnderDragon a la priorité** : ne contribue pas au combat et ne récolte rien sans son accord. Attends la fin de sa session pour prendre sa place. _(Art.13-5)_
+* **Détruire ou dégrader la construction d'un autre joueur** est <mark style="color:red;">**interdit**</mark>, protégée ou non. Reconstruire peut atténuer la sanction, jamais l'annuler. _(Art.13-1)_ Dynastia enregistre les actions : les fautifs sont identifiés sans aucun doute possible.
+* **Garder un objet perdu, jeté ou posé par un autre joueur** est <mark style="color:red;">**interdit**</mark> : si son propriétaire est connu, rends-le. _(Art.13-2)_
+* **Voler, revendre ou s'approprier la création d'un autre joueur** est <mark style="color:red;">**interdit**</mark>. _(Art.13-3)_
+* **Copier, reproduire ou revendre une création originale** (build, map-art...) sans l'accord préalable de son auteur est <mark style="color:red;">**interdit**</mark> ; garde une preuve de l'accord. Les designs techniques publics (fermes, trieurs, systèmes issus de tutoriels) ne sont la création de personne : les reproduire est libre. _(Art.13-4)_
+* **Contribuer au combat ou récolter les gains de l'EnderDragon d'un autre joueur** sans son accord est <mark style="color:red;">**interdit**</mark> sur l'île principale de l'End. Attends la fin de sa session pour prendre sa place. _(Art.13-5)_
 
 <p align="center"><img src=".gitbook/assets/sep-slim.png" alt=""></p>
 
 <h2 align="center"><mark style="color:yellow;">14. Player versus Player</mark></h2>
 
-* **Toute forme de PvP est interdite**, y compris tout moyen indirect d'infliger des dégâts (monstres, lave ou toute autre chose). _(Art.14)_
+* **Toute forme de PvP** est <mark style="color:red;">**interdite**</mark>, y compris tout moyen indirect d'infliger des dégâts (monstres, lave ou toute autre chose). _(Art.14)_
 
 <p align="center"><img src=".gitbook/assets/sep-slim.png" alt=""></p>
 
 <h2 align="center"><mark style="color:yellow;">15. Fermes, warps et résidences</mark></h2>
 
-* **Accès à une ferme** : par défaut, réservé à ses contributeurs et au cercle proche de son propriétaire. _(Art.15-1)_ Le propriétaire peut l'élargir par autorisation explicite et gratuite ; sans autorisation, l'utilisation est interdite. _(Art.15-2)_
+* **L'accès à une ferme** est réservé par défaut à ses contributeurs et au cercle proche de son propriétaire. _(Art.15-1)_
+* **Utiliser une ferme sans l'autorisation explicite et gratuite de son propriétaire** est <mark style="color:red;">**interdit**</mark> ; cette autorisation peut élargir le cercle par défaut. _(Art.15-2)_
 * **Construire une ferme ou un système pour un autre joueur** suit le schéma ci-dessous. Gratuit ou payé : même filtre. _(Art.15-3)_
 
 <figure><img src=".gitbook/assets/vente-construction.png" alt="Schéma décisionnel : construire pour autrui, autorisé ou interdit"><figcaption></figcaption></figure>
@@ -168,18 +174,20 @@ En résumé :
 Suite de la section :
 
 * **L'**<mark style="color:red;">**Administration**</mark>** peut détruire une ferme** qui nuit à l'expérience de jeu des autres, si son propriétaire refuse les modifications demandées. _(Art.15-4)_
-* **Louer une ferme ou vendre son accès est interdit.** _(Art.15-5)_
-* **Définir un warp joueur dans une ferme est interdit** : suppression et sanction. _(Art.15-6)_
+* **Louer une ferme ou vendre son accès** est <mark style="color:red;">**interdit**</mark>. _(Art.15-5)_
+* **Définir un warp joueur dans une ferme** est <mark style="color:red;">**interdit**</mark> : suppression et sanction. _(Art.15-6)_
 * **Une distance de 10 chunks minimum** doit séparer une ferme des limites d'un PW, pour qu'elle ne soit pas chargée par les visiteurs ; exception possible pour les fermes non lucratives de taille modeste, à l'appréciation de la modération. _(Art.15-7)_
-* **Un PW doit être un point d'intérêt pour tous** : s'en servir pour augmenter ses points de résidences est interdit. _(Art.15-8)_ Les PW trop proches les uns des autres seront supprimés. _(Art.15-9)_
-* **Définir une résidence dans ou près de la construction d'un autre joueur sans son accord écrit préalable est interdit.** Garde une preuve de cet accord. _(Art.15-10)_
+* **Utiliser un PW pour augmenter ses points de résidences** est <mark style="color:red;">**interdit**</mark> : un warp doit être un point d'intérêt pour tous. _(Art.15-8)_
+* **Les PW trop proches les uns des autres** seront supprimés pour ne pas encombrer le menu. _(Art.15-9)_
+* **Définir une résidence dans ou près de la construction d'un autre joueur** sans son accord écrit préalable est <mark style="color:red;">**interdit**</mark>. Garde une preuve de cet accord. _(Art.15-10)_
 
 <p align="center"><img src=".gitbook/assets/sep-slim.png" alt=""></p>
 
 <h2 align="center"><mark style="color:yellow;">16. Têtes décoratives et objets légendaires</mark></h2>
 
-* **Têtes décoratives (/hdb)** : le don ne doit pas se substituer à l'achat de la commande. Le commerce et les dons répétés vers un joueur n'y ayant pas accès sont interdits ; le don occasionnel (notamment à une équipe t'aidant sur une construction) est toléré. La modération apprécie au cas par cas selon ce principe. _(Art.16-1)_
-* **Objets légendaires** (caisse légendaire) : la vente est permise, la location non. _(Art.16-2)_ Leur propriétaire reste seul responsable de leur casse ou perte, même prêtés gratuitement. _(Art.16-3)_
+* **Le don de têtes décoratives (/hdb) ne doit pas se substituer à l'achat de la commande** : le commerce et les dons répétés vers un joueur n'y ayant pas accès sont <mark style="color:red;">**interdits**</mark> ; le don occasionnel, notamment à une équipe t'aidant sur une construction, est <mark style="color:green;">**toléré**</mark>. La modération apprécie au cas par cas selon ce principe. _(Art.16-1)_
+* **Louer un objet légendaire** (caisse légendaire) est <mark style="color:red;">**interdit**</mark> ; le vendre est <mark style="color:green;">**autorisé**</mark>. _(Art.16-2)_
+* **Le propriétaire d'un objet légendaire reste seul responsable** de sa casse ou de sa perte, même prêté gratuitement. _(Art.16-3)_
 
 <p align="center"><img src=".gitbook/assets/sep-slim.png" alt=""></p>
 
@@ -194,10 +202,10 @@ La numérotation reprend celle du règlement actuel : un article inchangé garde
 | Article | Changement |
 | --- | --- |
 | Ton | Passage du vouvoiement au tutoiement, sur l'ensemble du règlement |
-| Format | Une règle par puce (gras + prose), interdit/autorisé porté par la formulation, tableaux pour le lexique et les transferts, séparateur redimensionné |
+| Format | Une norme par puce, en forme verdict-terminale : le mot verdict est coloré (rouge interdit, vert autorisé/toléré) ; les puces sans couleur décrivent le fonctionnement et les procédures |
 | 0-1 | « durement réprimandée » retiré : contredisait la proportionnalité du 0-2 |
 | 0-3 | « Vous vous réservez le droit » corrigé en « Tu peux » |
-| 1-4, 1-5 | Nouveaux numéros : l'ancien texte avait deux Art.1-3 et une règle non numérotée (foyer) |
+| 1-4, 1-5 | Nouveaux numéros : l'ancien texte avait deux Art.1-3 et une règle non numérotée (foyer) ; le 1-4 devient une permission conditionnelle |
 | 3-1 | La langue (le français) est enfin écrite |
 | 3-2 | Liste d'adjectifs remplacée par un principe, la liste devient illustrative |
 | 3-3 | Statut clarifié (interdiction) et périmètre borné (les désaccords courtois ne sont pas des « conflits ») |
@@ -209,8 +217,9 @@ La numérotation reprend celle du règlement actuel : un article inchangé garde
 | 11-8, 11-9 | Réécrits : l'ancien 11-8 interdisait littéralement tout échange d'objets entre joueurs |
 | 11-10 | Nouveau : migration en cas de compte perdu (liste fermée des éléments transférables) |
 | 13-1 | « sans reconstruire » supprimé : la reconstruction devient une atténuante, plus une exonération |
+| 13-2 | Reformulé en interdiction (garder l'objet) plutôt qu'en obligation, pour un verdict unique |
 | 13-4 | Périmètre précisé : créations originales protégées, designs techniques publics explicitement libres |
-| 15-1, 15-2 | Articulation clarifiée : régime par défaut + autorisation gratuite du propriétaire ; « validation » supprimé |
+| 15-1, 15-2 | Une norme chacun : le 15-1 pose le régime par défaut, le 15-2 devient une interdiction unique dont l'autorisation du propriétaire définit le périmètre ; « validation » supprimé |
 | 15-3 | Prose remplacée par le schéma décisionnel et son résumé |
 | 15-5 | La vente d'accès est explicitement incluse dans l'interdiction de location |
 | 15-7 | L'exception « petites fermes » est adossée à la définition de ferme lucrative ; article séparé du 15-6 |
