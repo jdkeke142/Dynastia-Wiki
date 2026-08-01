@@ -163,7 +163,7 @@ Sont notamment <mark style="color:green;">**autorisés**</mark> :
 * **Utiliser une ferme sans l'autorisation explicite et gratuite de son propriétaire** est <mark style="color:red;">**interdit**</mark> ; cette autorisation peut élargir le cercle par défaut. _(Art.15-2)_
 * **Construire une ferme ou un système pour un autre joueur** suit le schéma ci-dessous. Gratuit ou payé : même filtre. _(Art.15-3)_
 
-<figure><img src=".gitbook/assets/vente-construction.png" alt="Schéma décisionnel : construire pour autrui, autorisé ou interdit"><figcaption></figcaption></figure>
+<p align="center"><img src=".gitbook/assets/vente-construction.png" alt="Schéma décisionnel : construire pour autrui, autorisé ou interdit" width="520"></p>
 
 En résumé :
 
