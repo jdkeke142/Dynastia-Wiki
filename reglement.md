@@ -256,15 +256,15 @@ Utiliser la ferme d’un joueur **sans autorisation et validation préalable** e
 
 
 
-**Construire une ferme ou un système pour un autre joueur** — que ce soit gratuitement ou contre paiement, le filtre est le même — suit le schéma ci-dessous. _(Art.15-3)_
+**Construire une ferme ou un système pour un autre joueur** suit le schéma ci-dessous. Que ce soit gratuitement ou contre paiement, le filtre appliqué reste le même. _(Art.15-3)_
 
 <figure><img src=".gitbook/assets/vente-construction.png" alt="Schéma décisionnel : construire pour autrui, autorisé ou interdit"><figcaption></figcaption></figure>
 
 En résumé :
 
-* Une construction qui **ne produit aucune ressource** (trieur, transformateur, porte à pistons, éclairage, mini-jeu, décoration…) est **autorisée**, payante ou non : elle n’a aucun impact sur l’économie.
-* Une construction à **production AFK renouvelable** — une ferme lucrative, ou tout ce qui produit la matière première d’une ferme lucrative — est **interdite** dès qu’elle est **proposée comme un service** (offre ouverte à tous) **et** qu’elle **demande une réelle technicité**. On ne vend pas un savoir-faire : cela priverait l’acheteur de sa propre progression.
-* Restent **autorisées**, même sur une ferme lucrative : l’**entraide entre proches** (que l’on ne veut ni ne peut empêcher), et la simple **main-d’œuvre** lorsque c’est l’**acheteur qui conçoit** et le vendeur qui se contente d’exécuter — le savoir reste alors chez l’acheteur.
+* Une construction qui **ne produit aucune ressource** (trieur, transformateur, porte à pistons, éclairage, mini-jeu, décoration...) est **autorisée**, payante ou non, car elle n'a aucun impact sur l'économie.
+* Une construction à **production AFK renouvelable**, qu'il s'agisse d'une ferme lucrative ou de tout ce qui produit la matière première d'une ferme lucrative, est **interdite** dès lors qu'elle est **proposée comme un service** (offre ouverte à tous) **et** qu'elle **demande une réelle technicité**. On ne vend pas un savoir-faire, cela priverait l'acheteur de sa propre progression.
+* Restent **autorisées**, même sur une ferme lucrative, l'**entraide au sein du cercle proche** (que l'on ne veut ni ne peut empêcher) ainsi que la simple **main-d'œuvre**, lorsque c'est l'**acheteur qui conçoit** et le vendeur qui se contente d'exécuter. Le savoir reste alors chez l'acheteur.
 
 
 
