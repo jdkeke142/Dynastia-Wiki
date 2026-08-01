@@ -252,13 +252,19 @@ Sur Dynastia, **l’accès à une ferme est réservé aux joueurs ayant contribu
 
 
 
-Utiliser la ferme d’un joueur avec ou **sans autorisation et validation préalable** est interdit. _(Art.15-2)_
+Utiliser la ferme d’un joueur **sans autorisation et validation préalable** est interdit. _(Art.15-2)_
 
 
 
-**La construction de ferme contre un paiement quelconque** est également prohibé. _(Art.15-3)_&#x20;
+**Construire une ferme ou un système pour un autre joueur** — que ce soit gratuitement ou contre paiement, le filtre est le même — suit le schéma ci-dessous. _(Art.15-3)_
 
-Si vous voulez vous enrichir grâce aux fermes, il va falloir vous renseigner seul pour ce qui est de la construction. L’entraide gratuite est tolérée, mais il est important de faire preuve de bon sens. Ne faites pas tout à la place des autres, afin de ne pas trop leur simplifier la tâche. Aidez-les, mais laissez-les également découvrir et construire par eux-mêmes.
+<figure><img src=".gitbook/assets/vente-construction.png" alt="Schéma décisionnel : construire pour autrui, autorisé ou interdit"><figcaption></figcaption></figure>
+
+En résumé :
+
+* Une construction qui **ne produit aucune ressource** (trieur, transformateur, porte à pistons, éclairage, mini-jeu, décoration…) est **autorisée**, payante ou non : elle n’a aucun impact sur l’économie.
+* Une construction à **production AFK renouvelable** — une ferme lucrative, ou tout ce qui produit la matière première d’une ferme lucrative — est **interdite** dès qu’elle est **proposée comme un service** (offre ouverte à tous) **et** qu’elle **demande une réelle technicité**. On ne vend pas un savoir-faire : cela priverait l’acheteur de sa propre progression.
+* Restent **autorisées**, même sur une ferme lucrative : l’**entraide entre proches** (que l’on ne veut ni ne peut empêcher), et la simple **main-d’œuvre** lorsque c’est l’**acheteur qui conçoit** et le vendeur qui se contente d’exécuter — le savoir reste alors chez l’acheteur.
 
 
 
