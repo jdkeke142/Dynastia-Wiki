@@ -25,7 +25,7 @@ description: >-
 
 En cas de doute, demande à la modération. En cas de litige, ouvre un ticket sur le [Discord](https://discord.gg/qqBCWgpRDc).
 
-<p align="center"><img src=".gitbook/assets/sep-slim.png" alt=""></p>
+<p align="center"><img src=".gitbook/assets/sep-dynastia.png" alt=""></p>
 
 <h2 align="center"><mark style="color:yellow;">📖 Définitions</mark></h2>
 
@@ -39,7 +39,7 @@ Dans tout le règlement, ces termes ont le sens défini ici :
 | **PW (warp joueur)** | Point de téléportation public créé par un joueur. |
 | **Design technique public** | Plan de construction librement accessible (tutoriels, vidéos...), qu'aucun joueur ne peut revendiquer comme sa création. |
 
-<p align="center"><img src=".gitbook/assets/sep-slim.png" alt=""></p>
+<p align="center"><img src=".gitbook/assets/sep-dynastia.png" alt=""></p>
 
 <h2 align="center"><mark style="color:yellow;">0. Principes généraux</mark></h2>
 
@@ -50,7 +50,7 @@ Dans tout le règlement, ces termes ont le sens défini ici :
 * **Tous les joueurs sont égaux**, quel que soit leur grade. _(Art.0-5)_
 * **Un problème avec la modération ?** Réfère-toi à l'administration en dernier recours. L'équipe est bénévole, merci d'en tenir compte. _(Art.0-6)_
 
-<p align="center"><img src=".gitbook/assets/sep-slim.png" alt=""></p>
+<p align="center"><img src=".gitbook/assets/sep-dynastia.png" alt=""></p>
 
 <h2 align="center"><mark style="color:yellow;">1. Sécurité et partage des comptes</mark></h2>
 
@@ -60,14 +60,14 @@ Dans tout le règlement, ces termes ont le sens défini ici :
 * **Jouer avec un proche du même foyer** est <mark style="color:green;">**autorisé**</mark> à condition de prévenir la modération en amont. _(Art.1-4)_
 * **Un compte banni le reste**, même si l'infraction vient d'un proche. _(Art.1-5)_
 
-<p align="center"><img src=".gitbook/assets/sep-slim.png" alt=""></p>
+<p align="center"><img src=".gitbook/assets/sep-dynastia.png" alt=""></p>
 
 <h2 align="center"><mark style="color:yellow;">2. Publicité</mark></h2>
 
 * **Promouvoir un autre serveur Minecraft** est <mark style="color:red;">**interdit**</mark>, sur toutes nos plateformes et sous toute forme (lien, IP, nom, image...). _(Art.2-1)_
 * **Les annonces relatives à Dynastia** (événements de joueurs, recrutements d'équipe...) sont <mark style="color:green;">**autorisées**</mark>. _(Art.2-2)_
 
-<p align="center"><img src=".gitbook/assets/sep-slim.png" alt=""></p>
+<p align="center"><img src=".gitbook/assets/sep-dynastia.png" alt=""></p>
 
 <h2 align="center"><mark style="color:yellow;">3. Communication</mark></h2>
 
@@ -82,20 +82,20 @@ Dans tout le règlement, ces termes ont le sens défini ici :
 * **Divulguer une conversation privée** sans l'accord de tous ses participants est <mark style="color:red;">**interdit**</mark>, tout comme publier des informations privées. _(Art.3-9)_
 * **Tu es seul responsable de ce que tu publies.** _(Art.3-10)_
 
-<p align="center"><img src=".gitbook/assets/sep-slim.png" alt=""></p>
+<p align="center"><img src=".gitbook/assets/sep-dynastia.png" alt=""></p>
 
 <h2 align="center"><mark style="color:yellow;">4. Usurpation d'identité</mark></h2>
 
 * **Se faire passer pour un autre**, joueur ou, a fortiori, membre du staff, par pseudonyme, avatar ou comportement, est <mark style="color:red;">**interdit**</mark>. Sanction sévère. _(Art.4-1)_
 
-<p align="center"><img src=".gitbook/assets/sep-slim.png" alt=""></p>
+<p align="center"><img src=".gitbook/assets/sep-dynastia.png" alt=""></p>
 
 <h2 align="center"><mark style="color:yellow;">5. Skins, capes, pseudonymes et constructions</mark></h2>
 
 * **Skins, capes et pseudonymes suivent les critères de contenu des messages** (Art.3-2). Un compte en infraction est banni jusqu'au changement de l'élément concerné ; le débannissement se réclame une fois ce changement effectué. _(Art.5-1)_
 * **Les constructions aussi.** Une construction en infraction fait l'objet d'une demande de modification sous délai ; à défaut, destruction par l'équipe et sanction. _(Art.5-2)_
 
-<p align="center"><img src=".gitbook/assets/sep-slim.png" alt=""></p>
+<p align="center"><img src=".gitbook/assets/sep-dynastia.png" alt=""></p>
 
 <h2 align="center"><mark style="color:yellow;">6. Utilisation et modification du client</mark></h2>
 
@@ -109,14 +109,14 @@ Sont notamment <mark style="color:green;">**autorisés**</mark> :
 * les mods d'inventaire **non automatisés** ;
 * les mods purement visuels ou d'optimisation (Optifine, Sodium...), **sans avantage de vision souterraine ou dans la lave**.
 
-<p align="center"><img src=".gitbook/assets/sep-slim.png" alt=""></p>
+<p align="center"><img src=".gitbook/assets/sep-dynastia.png" alt=""></p>
 
 <h2 align="center"><mark style="color:yellow;">7. Exploitation de bug et abus du système</mark></h2>
 
 * **Exploiter volontairement un bug** est <mark style="color:red;">**interdit**</mark>. Signale tout bug rencontré via un ticket sur le [Discord](https://discord.gg/qqBCWgpRDc). _(Art.7-1)_
 * **Contourner les limites de vente de l'AdminShop** est <mark style="color:red;">**interdit**</mark>, notamment par échanges intermédiaires (ex. : échanger un shulker de citrouilles contre du bambou pour vendre au-delà de la limite). Dans toute vente entre joueurs, HDV compris, tes prix doivent être supérieurs au prix auquel l'AdminShop **achète** la ressource. _(Art.7-2)_
 
-<p align="center"><img src=".gitbook/assets/sep-slim.png" alt=""></p>
+<p align="center"><img src=".gitbook/assets/sep-dynastia.png" alt=""></p>
 
 <h2 align="center"><mark style="color:yellow;">11. Achats et boutique</mark></h2>
 
@@ -139,7 +139,7 @@ Sont notamment <mark style="color:green;">**autorisés**</mark> :
 | Prestige et rang VIP (sans la progression) | Tout élément hors de la colonne « Transféré » |
 | Warps joueur | |
 
-<p align="center"><img src=".gitbook/assets/sep-slim.png" alt=""></p>
+<p align="center"><img src=".gitbook/assets/sep-dynastia.png" alt=""></p>
 
 <h2 align="center"><mark style="color:yellow;">13. Vols et griefs</mark></h2>
 
@@ -149,13 +149,13 @@ Sont notamment <mark style="color:green;">**autorisés**</mark> :
 * **Copier, reproduire ou revendre une création originale** (build, map-art...) sans l'accord préalable de son auteur est <mark style="color:red;">**interdit**</mark> ; garde une preuve de l'accord. Les designs techniques publics (fermes, trieurs, systèmes issus de tutoriels) ne sont la création de personne : les reproduire est libre. _(Art.13-4)_
 * **Contribuer au combat ou récolter les gains de l'EnderDragon d'un autre joueur** sans son accord est <mark style="color:red;">**interdit**</mark> sur l'île principale de l'End. Attends la fin de sa session pour prendre sa place. _(Art.13-5)_
 
-<p align="center"><img src=".gitbook/assets/sep-slim.png" alt=""></p>
+<p align="center"><img src=".gitbook/assets/sep-dynastia.png" alt=""></p>
 
 <h2 align="center"><mark style="color:yellow;">14. Player versus Player</mark></h2>
 
 * **Toute forme de PvP** est <mark style="color:red;">**interdite**</mark>, y compris tout moyen indirect d'infliger des dégâts (monstres, lave ou toute autre chose). _(Art.14)_
 
-<p align="center"><img src=".gitbook/assets/sep-slim.png" alt=""></p>
+<p align="center"><img src=".gitbook/assets/sep-dynastia.png" alt=""></p>
 
 <h2 align="center"><mark style="color:yellow;">15. Fermes, warps et résidences</mark></h2>
 
@@ -181,7 +181,7 @@ Suite de la section :
 * **Les PW trop proches les uns des autres** seront supprimés pour ne pas encombrer le menu. _(Art.15-9)_
 * **Définir une résidence dans ou près de la construction d'un autre joueur** sans son accord écrit préalable est <mark style="color:red;">**interdit**</mark>. Garde une preuve de cet accord. _(Art.15-10)_
 
-<p align="center"><img src=".gitbook/assets/sep-slim.png" alt=""></p>
+<p align="center"><img src=".gitbook/assets/sep-dynastia.png" alt=""></p>
 
 <h2 align="center"><mark style="color:yellow;">16. Têtes décoratives et objets légendaires</mark></h2>
 
@@ -189,7 +189,7 @@ Suite de la section :
 * **Louer un objet légendaire** (caisse légendaire) est <mark style="color:red;">**interdit**</mark> ; le vendre est <mark style="color:green;">**autorisé**</mark>. _(Art.16-2)_
 * **Le propriétaire d'un objet légendaire reste seul responsable** de sa casse ou de sa perte, même prêté gratuitement. _(Art.16-3)_
 
-<p align="center"><img src=".gitbook/assets/sep-slim.png" alt=""></p>
+<p align="center"><img src=".gitbook/assets/sep-dynastia.png" alt=""></p>
 
 <mark style="color:red;">**► Contourner l'esprit du règlement, par quelque moyen que ce soit, est strictement interdit. (Art.17)**</mark>
 
