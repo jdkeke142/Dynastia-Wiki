@@ -127,7 +127,7 @@ Sont notamment <mark style="color:green;">**autorisés**</mark> :
 * **Erreur de pseudonyme lors d'un achat ?** L'administration restaure l'achat sur le bon pseudonyme, contre preuve d'achat de moins de 48 heures. _(Art.11-5)_
 * **Mineur ?** L'autorisation de ton tuteur légal est requise avant tout achat ; Dynastia n'est pas responsable des achats faits sans elle. _(Art.11-6)_
 * **Vendre contre de la monnaie réelle** est <mark style="color:red;">**interdit**</mark>, qu'il s'agisse d'objets, de services ou de tâches sur Dynastia. Les cadeaux restent possibles, leur revente non. Les articles de la boutique ne se vendent que sur la boutique officielle. _(Art.11-7)_
-* **Transférer les données de ton compte vers le compte d'un autre joueur** (inventaire complet, solde, grades, progression...) est <mark style="color:red;">**interdit**</mark> : elles sont liées à leur propriétaire et ne migrent qu'entre tes propres comptes, par l'administration, dans les cas des Art.11-9 et 11-10. Les échanges de jeu (ventes, dons, /pay...) ne sont pas des transferts de compte et ne sont pas concernés. _(Art.11-8)_
+* **Transferts de compte** : l'administration peut migrer les données d'un compte vers un autre **uniquement si les deux appartiennent à la même personne**, dans les deux cas ci-dessous. Aucun transfert vers le compte d'une autre personne, même sur demande. _(Art.11-8)_
 * **Changement de pseudonyme** : le serveur conserve tout automatiquement, sauf les dollars ($), transférés par l'administration via un ticket précisant l'ancien et le nouveau pseudonyme. _(Art.11-9)_
 * **Compte perdu** : l'administration peut migrer vers ton nouveau compte, sur ticket, uniquement les éléments ci-dessous. Tout le reste est définitivement perdu. _(Art.11-10)_
 
@@ -214,7 +214,7 @@ La numérotation reprend celle du règlement actuel : un article inchangé garde
 | 6-3 | Abrogé : doublon de l'Art.0-3 (réclamation contre un modérateur), mal rangé dans la section client |
 | 7-2 | « Prix du shop admin » précisé : prix d'**achat** de l'AdminShop ; le HDV est explicitement inclus |
 | 11-7 | « plausible » corrigé |
-| 11-8, 11-9 | Réécrits : l'ancien 11-8 interdisait littéralement tout échange d'objets entre joueurs |
+| 11-8, 11-9 | Réécrits : le 11-8 devient une limite de service (migration par l'administration entre comptes d'une même personne uniquement) au lieu d'une interdiction joueur qui semblait couvrir /pay et les dons |
 | 11-10 | Nouveau : migration en cas de compte perdu (liste fermée des éléments transférables) |
 | 13-1 | « sans reconstruire » supprimé : la reconstruction devient une atténuante, plus une exonération |
 | 13-2 | Reformulé en interdiction (garder l'objet) plutôt qu'en obligation, pour un verdict unique |
