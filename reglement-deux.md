@@ -175,7 +175,7 @@ En résumé :
 
 Suite de la section :
 
-* **Une ferme qui nuit à l'expérience de jeu des autres peut être détruite** par l'<mark style="color:red;">Administration</mark>, si son propriétaire refuse les modifications demandées. _(Art.15-4)_
+* **L'Administration peut détruire une ferme** qui nuit à l'expérience de jeu des autres, si son propriétaire refuse les modifications demandées. _(Art.15-4)_
 * **Louer une ferme ou vendre son accès** est <mark style="color:red;">**interdit**</mark>. _(Art.15-5)_
 * **Définir un warp joueur dans une ferme** est <mark style="color:red;">**interdit**</mark> : suppression et sanction. _(Art.15-6)_
 * **Une distance de 10 chunks minimum** doit séparer une ferme des limites d'un PW, pour qu'elle ne soit pas chargée par les visiteurs ; exception possible pour les fermes non lucratives de taille modeste, à l'appréciation de la modération. _(Art.15-7)_
