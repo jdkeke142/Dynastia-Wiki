@@ -133,11 +133,13 @@ Sont notamment <mark style="color:green;">**autorisés**</mark> :
 
 | ✅ Transféré | ❌ Perdu |
 | --- | --- |
-| Inventaire et Ender Chest | Avancement déjà accompli vers le prestige suivant |
+| Inventaire et Ender Chest | Statistiques d'avancement vers le prestige suivant (kills, minage, crafts, objets...) |
 | Dollars ($) | Crédits |
 | Claims et les shops qu'ils contiennent | Votes et récompenses en attente |
 | Niveau de prestige atteint et rang VIP | Tout élément hors de la colonne « Transféré » |
 | Warps joueur | |
+
+_Ce périmètre est une limitation technique : au-delà de cette liste, une migration fiable n'est pas réalisable sans risque pour le serveur._
 
 <p align="center"><img src=".gitbook/assets/sep-dynastia.png" alt=""></p>
 
