@@ -86,15 +86,18 @@ Dans tout le règlement, ces termes ont le sens défini ici :
 <h2 align="center"><mark style="color:yellow;">5. Triche</mark></h2>
 
 * **R23** · **Toute modification du client procurant un avantage sur les autres joueurs** est <mark style="color:red;">**interdite**</mark>. Ce critère fait foi pour tout mod, y compris hors liste ; en cas de doute, demande à la modération avant utilisation.
-* **R24** · **L'autoclick**, et tout autre moyen de cliquer sans action manuelle, est <mark style="color:red;">**interdit**</mark>.
-* **R25** · **Exploiter volontairement un bug** est <mark style="color:red;">**interdit**</mark>. Signale tout bug rencontré via un ticket sur le [Discord](https://discord.gg/qqBCWgpRDc).
 
-Sont notamment <mark style="color:green;">**autorisés**</mark> :
+Au titre de R23, sont notamment <mark style="color:green;">**autorisés**</mark> :
 
 * les mods de carte, **sans visibilité sur les sous-sols et les minerais** ;
 * Litematica, **aide visuelle uniquement** ;
 * les mods d'inventaire **non automatisés** ;
 * les mods purement visuels ou d'optimisation (Optifine, Sodium...), **sans avantage de vision souterraine ou dans la lave**.
+
+Suite de la section :
+
+* **R24** · **L'autoclick**, et tout autre moyen de cliquer sans action manuelle, est <mark style="color:red;">**interdit**</mark>.
+* **R25** · **Exploiter volontairement un bug** est <mark style="color:red;">**interdit**</mark>. Signale tout bug rencontré via un ticket sur le [Discord](https://discord.gg/qqBCWgpRDc).
 
 <p align="center"><img src=".gitbook/assets/sep-dynastia.png" alt=""></p>
 
