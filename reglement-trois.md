@@ -21,7 +21,6 @@ Dans tout le règlement, ces termes ont le sens défini ici :
 | Terme | Définition |
 | --- | --- |
 | **Ferme** | Construction conçue pour produire une ressource de manière répétable, en réduisant au maximum l'intervention du joueur. |
-| **Ferme lucrative** | Ferme dont la production peut être vendue à l'AdminShop, directement ou en chaîne : produire la matière première d'une ferme lucrative est lucratif aussi. |
 | **Cercle proche** | Personnes avec lesquelles tu entretiens une relation préexistante. Une relation nouée pour l'occasion (par exemple pour obtenir une construction) n'en fait pas partie. |
 | **PW (warp joueur)** | Point de téléportation public créé par un joueur. |
 | **Design technique public** | Plan de construction librement accessible (tutoriels, vidéos...), qu'aucun joueur ne peut revendiquer comme sa création. |
@@ -126,15 +125,15 @@ _Ce périmètre est une limitation technique : au-delà de cette liste, une migr
 <h2 align="center"><mark style="color:yellow;">8. Fermes</mark></h2>
 
 * **R39** · **Utiliser la ferme d'un autre joueur** est <mark style="color:red;">**interdit**</mark>, sauf si tu en es contributeur ou membre du cercle proche du propriétaire, **et** qu'il t'y a autorisé. Ces deux conditions sont cumulatives : hors contributeurs et cercle proche, l'accès est interdit même si le propriétaire veut l'accorder.
-* **R40** · **Construire une ferme ou un système pour un autre joueur** suit le schéma ci-dessous. Gratuit ou payé : même filtre.
+* **R40** · **Construire tout ou partie d'une ferme en service pour un autre joueur** est <mark style="color:red;">**interdit**</mark> : job ou offre ouverte, hors de ton cercle, gratuit ou payé, technique ou non. Le schéma ci-dessous résume les trois cas.
 
-<p align="center"><img src=".gitbook/assets/vente-construction.png" alt="Schéma décisionnel : construire pour autrui, autorisé ou interdit" width="520"></p>
+<p align="center"><img src=".gitbook/assets/construction-autrui.png" alt="Schéma décisionnel : construire pour autrui, autorisé ou interdit" width="520"></p>
 
 En résumé :
 
-* <mark style="color:green;">**Autorisé**</mark> : toute construction qui ne produit aucune ressource (trieur, porte à pistons, éclairage, mini-jeu, décoration...), payante ou non. Zéro impact sur l'économie.
-* <mark style="color:red;">**Interdit**</mark> : une ferme lucrative proposée comme un service (offre ouverte à tous) et demandant une réelle technicité. On ne vend pas un savoir-faire, cela priverait l'acheteur de sa progression.
-* <mark style="color:green;">**Autorisé**</mark> : l'entraide au sein du cercle proche, et la simple main-d'œuvre quand c'est l'acheteur qui conçoit et le vendeur qui exécute. Le savoir reste chez l'acheteur.
+* <mark style="color:green;">**Autorisé**</mark> : tout ce qui n'est pas une ferme (trieur, porte à pistons, éclairage, mini-jeu, décoration...), payant ou non.
+* <mark style="color:red;">**Interdit**</mark> : une ferme construite en service pour autrui, rémunéré ou non, technique ou non.
+* <mark style="color:green;">**Autorisé**</mark> : la collaboration au sein du cercle (contributeurs et cercle proche du propriétaire, le même cercle que R39), l'aide ponctuelle et les conseils.
 
 Suite de la section :
 
@@ -145,7 +144,7 @@ Suite de la section :
 
 <h2 align="center"><mark style="color:yellow;">9. Warps joueurs (PW)</mark></h2>
 
-* **R43** · **Un PW doit se trouver à 10 chunks minimum de toute ferme, la tienne comprise**, pour qu'elle ne soit pas chargée par les visiteurs ; exception possible pour les fermes non lucratives de taille modeste, à l'appréciation de la modération.
+* **R43** · **Un PW doit se trouver à 10 chunks minimum de toute ferme, la tienne comprise**, pour qu'elle ne soit pas chargée par les visiteurs ; exception possible pour les fermes de taille modeste sans vocation de revente, à l'appréciation de la modération.
 * **R44** · **Un PW doit être un point d'intérêt pour tous** : ne définis pas plusieurs PW autour d'une même zone quand un seul suffit, cela encombre la liste pour rien ; et ne t'en sers pas comme résidence supplémentaire. Les PW sans intérêt propre seront supprimés.
 
 <p align="center"><img src=".gitbook/assets/sep-dynastia.png" alt=""></p>
@@ -185,6 +184,8 @@ Suite de la section :
 | Accès aux fermes (ex 15-1, 15-2) | Conditions **cumulatives** en R39 : éligibilité (contributeur ou cercle proche) ET autorisation ; le propriétaire ne peut pas élargir |
 | Annonces Dynastia (ex 2-2) | Devenue la borne de R17, plus une règle autonome |
 | « L'essentiel en 10 réflexes » | Supprimé : dix paraphrases de normes qui désynchronisent à chaque édition (démontré dès la première) ; la lecture rapide est assurée par le format lui-même (titres, gras, verdicts colorés) |
+| Schéma construction pour autrui (R40) | La question « technicité » disparaît (subjective, débat staff du 02/08) : une ferme ne se construit jamais en service pour autrui, technique ou non ; la collaboration dans le cercle reste libre. Philosophie retenue : on protège l'effort, pas le savoir |
+| « Ferme lucrative » | Terme supprimé du lexique : indécidable par le joueur (liste AdminShop + chaînes de transformation) et distinction presque vide. Le critère devient « ferme » tout court ; la règle de chaîne n'a plus de raison d'être |
 
 **Table de correspondance** (ancien règlement → v3) :
 
