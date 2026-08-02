@@ -81,6 +81,7 @@ Dans tout le règlement, ces termes ont le sens défini ici :
 * **Le staff se respecte comme tout autre joueur.** Ses membres jouent avec toi, sans permission supplémentaire sur le gameplay. _(Art.3-8)_
 * **Divulguer une conversation privée** sans l'accord de tous ses participants est <mark style="color:red;">**interdit**</mark>, tout comme publier des informations privées. _(Art.3-9)_
 * **Tu es seul responsable de ce que tu publies.** _(Art.3-10)_
+* **Les moyens de communication du serveur ne sont pas confidentiels** (chat, /msg, /mail...) : pour la sécurité des joueurs et le respect du règlement, ils peuvent faire l'objet de contrôles par l'équipe. Ce qui est consulté n'est jamais partagé en dehors du staff et du joueur concerné. _(Art.3-11)_
 
 <p align="center"><img src=".gitbook/assets/sep-dynastia.png" alt=""></p>
 
@@ -211,6 +212,7 @@ La numérotation reprend celle du règlement actuel : un article inchangé garde
 | 3-1 | La langue (le français) est enfin écrite |
 | 3-2 | Liste d'adjectifs remplacée par un principe, la liste devient illustrative |
 | 3-3 | Statut clarifié (interdiction) et périmètre borné (les désaccords courtois ne sont pas des « conflits ») |
+| 3-11 | Nouveau : transparence sur les contrôles des moyens de communication (chat, /msg, /mail), formulé indépendamment du mécanisme de contrôle |
 | 5-1, 5-2 | Sanction rendue applicable : un banni ne pouvait pas modifier sa construction ; le 5-2 reprend la mécanique du 15-4 |
 | 6-1 | Le principe tranche pour les mods hors liste : la zone « à vos risques et périls » disparaît |
 | 6-3 | Abrogé : doublon de l'Art.0-3 (réclamation contre un modérateur), mal rangé dans la section client |
