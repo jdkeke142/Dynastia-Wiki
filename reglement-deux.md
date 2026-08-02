@@ -162,8 +162,8 @@ _Ce périmètre est une limitation technique : au-delà de cette liste, une migr
 
 <h2 align="center"><mark style="color:yellow;">15. Fermes, warps et résidences</mark></h2>
 
-* **L'accès à une ferme** est réservé par défaut à ses contributeurs et au cercle proche de son propriétaire. _(Art.15-1)_
-* **Utiliser une ferme sans l'autorisation explicite et gratuite de son propriétaire** est <mark style="color:red;">**interdit**</mark> ; cette autorisation peut élargir le cercle par défaut. _(Art.15-2)_
+* **L'accès à une ferme** est réservé à ses contributeurs et au cercle proche de son propriétaire. _(Art.15-1)_
+* **Utiliser la ferme d'un autre joueur** est <mark style="color:red;">**interdit**</mark>, sauf si tu en es contributeur ou membre du cercle proche du propriétaire, **et** qu'il t'y a autorisé. Ces deux conditions sont cumulatives : hors contributeurs et cercle proche, l'accès est interdit même si le propriétaire veut l'accorder. _(Art.15-2)_
 * **Construire une ferme ou un système pour un autre joueur** suit le schéma ci-dessous. Gratuit ou payé : même filtre. _(Art.15-3)_
 
 <p align="center"><img src=".gitbook/assets/vente-construction.png" alt="Schéma décisionnel : construire pour autrui, autorisé ou interdit" width="520"></p>
@@ -223,7 +223,7 @@ La numérotation reprend celle du règlement actuel : un article inchangé garde
 | 13-1 | « sans reconstruire » supprimé : la reconstruction devient une atténuante, plus une exonération |
 | 13-2 | Reformulé en interdiction (garder l'objet) plutôt qu'en obligation, pour un verdict unique |
 | 13-4 | Périmètre précisé : créations originales protégées, designs techniques publics explicitement libres |
-| 15-1, 15-2 | Une norme chacun : le 15-1 pose le régime par défaut, le 15-2 devient une interdiction unique dont l'autorisation du propriétaire définit le périmètre ; « validation » supprimé |
+| 15-1, 15-2 | Conditions **cumulatives** : éligibilité (contributeur ou cercle proche) ET autorisation du propriétaire ; celui-ci ne peut pas élargir au-delà. Le « avec ou » de l'ancien 15-2 encodait maladroitement ce plafond ; « validation » supprimé |
 | 15-3 | Prose remplacée par le schéma décisionnel et son résumé |
 | 15-5 | La vente d'accès est explicitement incluse dans l'interdiction de location |
 | 15-7 | L'exception « petites fermes » est adossée à la définition de ferme lucrative ; article séparé du 15-6 |
