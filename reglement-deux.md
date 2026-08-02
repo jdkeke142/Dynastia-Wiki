@@ -127,16 +127,16 @@ Sont notamment <mark style="color:green;">**autorisés**</mark> :
 * **Erreur de pseudonyme lors d'un achat ?** L'administration restaure l'achat sur le bon pseudonyme, contre preuve d'achat de moins de 48 heures. _(Art.11-5)_
 * **Mineur ?** L'autorisation de ton tuteur légal est requise avant tout achat ; Dynastia n'est pas responsable des achats faits sans elle. _(Art.11-6)_
 * **Vendre contre de la monnaie réelle** est <mark style="color:red;">**interdit**</mark>, qu'il s'agisse d'objets, de services ou de tâches sur Dynastia. Les cadeaux restent possibles, leur revente non. Les articles de la boutique ne se vendent que sur la boutique officielle. _(Art.11-7)_
-* **Transférer les données d'un compte** (objets, monnaies, grades, progression...) vers le compte d'un autre joueur, ou par tes propres moyens entre deux comptes, est <mark style="color:red;">**interdit**</mark> : elles sont liées à leur propriétaire. _(Art.11-8)_
+* **Transférer les données de ton compte vers le compte d'un autre joueur** (inventaire complet, solde, grades, progression...) est <mark style="color:red;">**interdit**</mark> : elles sont liées à leur propriétaire et ne migrent qu'entre tes propres comptes, par l'administration, dans les cas des Art.11-9 et 11-10. Les échanges de jeu (ventes, dons, /pay...) ne sont pas des transferts de compte et ne sont pas concernés. _(Art.11-8)_
 * **Changement de pseudonyme** : le serveur conserve tout automatiquement, sauf les dollars ($), transférés par l'administration via un ticket précisant l'ancien et le nouveau pseudonyme. _(Art.11-9)_
 * **Compte perdu** : l'administration peut migrer vers ton nouveau compte, sur ticket, uniquement les éléments ci-dessous. Tout le reste est définitivement perdu. _(Art.11-10)_
 
 | ✅ Transféré | ❌ Perdu |
 | --- | --- |
-| Inventaire et Ender Chest | Progression du prestige en cours |
+| Inventaire et Ender Chest | Avancement déjà accompli vers le prestige suivant |
 | Dollars ($) | Crédits |
 | Claims et les shops qu'ils contiennent | Votes et récompenses en attente |
-| Prestige et rang VIP (sans la progression) | Tout élément hors de la colonne « Transféré » |
+| Niveau de prestige atteint et rang VIP | Tout élément hors de la colonne « Transféré » |
 | Warps joueur | |
 
 <p align="center"><img src=".gitbook/assets/sep-dynastia.png" alt=""></p>
@@ -173,7 +173,7 @@ En résumé :
 
 Suite de la section :
 
-* **L'**<mark style="color:red;">**Administration**</mark>** peut détruire une ferme** qui nuit à l'expérience de jeu des autres, si son propriétaire refuse les modifications demandées. _(Art.15-4)_
+* **Une ferme qui nuit à l'expérience de jeu des autres peut être détruite** par l'<mark style="color:red;">Administration</mark>, si son propriétaire refuse les modifications demandées. _(Art.15-4)_
 * **Louer une ferme ou vendre son accès** est <mark style="color:red;">**interdit**</mark>. _(Art.15-5)_
 * **Définir un warp joueur dans une ferme** est <mark style="color:red;">**interdit**</mark> : suppression et sanction. _(Art.15-6)_
 * **Une distance de 10 chunks minimum** doit séparer une ferme des limites d'un PW, pour qu'elle ne soit pas chargée par les visiteurs ; exception possible pour les fermes non lucratives de taille modeste, à l'appréciation de la modération. _(Art.15-7)_
