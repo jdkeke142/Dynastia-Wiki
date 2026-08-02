@@ -10,19 +10,6 @@ description: >-
 **Page temporaire.** Deuxième itération de la refonte : architecture, numérotation et inventaire des règles repensés de zéro. À comparer au [Règlement Général](reglement.md) actuel et à la [v2](reglement-deux.md). Seul le règlement actuel fait foi. La table de correspondance est en bas de page.
 {% endhint %}
 
-<h2 align="center"><mark style="color:yellow;">⚡ L'essentiel en 10 réflexes</mark></h2>
-
-1. **Un seul compte** par joueur.
-2. **Aucun PvP**, même indirect (monstres, lave...).
-3. **Les constructions et objets des autres sont intouchables**, même non protégés ; un objet trouvé se rend.
-4. **Fermes** : accès sur autorisation du propriétaire, et l'on ne vend pas son savoir-faire de construction.
-5. **Entre joueurs, vends toujours plus cher** que le prix auquel l'AdminShop achète.
-6. **Rien ne se vend** contre de l'argent réel.
-7. **Aucune triche** : ni mod avantageux, ni autoclick, ni exploitation de bug.
-8. **Le chat et les MPs ne sont pas confidentiels** : l'équipe peut les contrôler.
-9. **Aucun contenu** haineux, sexuel ou discriminatoire, nulle part.
-10. **Français uniquement**, sans spam ni pub pour d'autres serveurs.
-
 En cas de doute, demande à la modération. En cas de litige, ouvre un ticket sur le [Discord](https://discord.gg/qqBCWgpRDc).
 
 <p align="center"><img src=".gitbook/assets/sep-dynastia.png" alt=""></p>
@@ -177,7 +164,7 @@ Suite de la section :
 
 ## Notes de version (à retirer si adoption)
 
-**Ce que la v3 change par rapport à la v2** : architecture redessinée (sections thématiques pleines), **numérotation plate R1 à R48** (l'identité d'une règle est découplée de sa position), purge des règles sans contenu opératoire et du boilerplate autoritaire, portée des règles enfin écrite (R2), Essentiel reclassé par valeur de piège. Les arbitrages de fond sont documentés sur la [page v2](reglement-deux.md).
+**Ce que la v3 change par rapport à la v2** : architecture redessinée (sections thématiques pleines), **numérotation plate R1 à R48** (l'identité d'une règle est découplée de sa position), purge des règles sans contenu opératoire et du boilerplate autoritaire, portée des règles enfin écrite (R2), résumé d'accueil supprimé. Les arbitrages de fond sont documentés sur la [page v2](reglement-deux.md).
 
 **Convention d'entretien** (à conserver) : une nouvelle règle prend le numéro libre suivant (R49, R50...), quelle que soit sa section ; une règle supprimée est marquée abrogée et son numéro n'est jamais réutilisé ; une règle peut changer de section sans changer de numéro. Le numéro est une identité, pas une position.
 
@@ -197,6 +184,7 @@ Suite de la section :
 | Menaces (R13) vs contenus (R11) | Chevauchement assumé : régimes différents (escalade réelle possible), deux règles |
 | Accès aux fermes (ex 15-1, 15-2) | Conditions **cumulatives** en R39 : éligibilité (contributeur ou cercle proche) ET autorisation ; le propriétaire ne peut pas élargir |
 | Annonces Dynastia (ex 2-2) | Devenue la borne de R17, plus une règle autonome |
+| « L'essentiel en 10 réflexes » | Supprimé : dix paraphrases de normes qui désynchronisent à chaque édition (démontré dès la première) ; la lecture rapide est assurée par le format lui-même (titres, gras, verdicts colorés) |
 
 **Table de correspondance** (ancien règlement → v3) :
 

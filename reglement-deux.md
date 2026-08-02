@@ -10,19 +10,6 @@ description: >-
 **Page temporaire.** Cette version est une proposition de refonte, à comparer au [Règlement Général](reglement.md) actuel, qui seul fait foi tant qu'elle n'est pas adoptée. Les changements sont listés en bas de page.
 {% endhint %}
 
-<h2 align="center"><mark style="color:yellow;">⚡ L'essentiel en 10 réflexes</mark></h2>
-
-1. **Respecte tout le monde** : aucun contenu haineux, sexuel, discriminatoire ou menaçant.
-2. **Parle français**, sans spam ni querelle publique.
-3. **Un seul compte** par joueur.
-4. **Aucune publicité** pour d'autres serveurs.
-5. **Aucune triche** : ni mod avantageux, ni autoclick, ni exploitation de bug.
-6. **Aucun PvP**, même indirect.
-7. **Ne touche pas** aux constructions et aux biens des autres.
-8. **Rien ne se vend** contre de l'argent réel.
-9. **Fermes** : accès sur autorisation du propriétaire, et l'on ne vend pas son savoir-faire de construction.
-10. **L'esprit du règlement prime sur sa lettre** : le contourner est une infraction.
-
 En cas de doute, demande à la modération. En cas de litige, ouvre un ticket sur le [Discord](https://discord.gg/qqBCWgpRDc).
 
 <p align="center"><img src=".gitbook/assets/sep-dynastia.png" alt=""></p>
@@ -229,4 +216,4 @@ La numérotation reprend celle du règlement actuel : un article inchangé garde
 | 15-7 | L'exception « petites fermes » est adossée à la définition de ferme lucrative ; article séparé du 15-6 |
 | 16-1 | Fusion du 16-1 et du 16-1' autour du principe de non-substitution à l'achat |
 | 17 | « via des sous-entendus (etc.) » remplacé par « l'esprit du règlement, par quelque moyen que ce soit » |
-| Définitions, Essentiel | Nouvelles sections : lexique en tableau et résumé en 10 points |
+| Définitions | Nouvelle section : lexique en tableau. Le résumé d'accueil en 10 points a été supprimé : des paraphrases de normes désynchronisent à chaque édition |
