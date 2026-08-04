@@ -61,7 +61,7 @@ Dans tout le règlement, ces termes ont le sens défini ici :
 * **R16** · **Le spam et le flood** sont <mark style="color:red;">**interdits**</mark> : tout message dont le seul effet est de gêner les autres. Comptent notamment comme du spam : les majuscules rendant le chat illisible, et la publicité pour des PW au-delà d'un message par heure **par joueur**, tous PW confondus ; un même PW ne peut par ailleurs être annoncé qu'une fois par heure, tous annonceurs confondus.
 * **R17** · **Divulguer une conversation privée** sans l'accord de tous ses participants est <mark style="color:red;">**interdit**</mark>, tout comme publier des informations privées.
 * **R18** · **Les moyens de communication du serveur ne sont pas confidentiels** (chat, /msg, /mail...) : pour la sécurité des joueurs et le respect du règlement, ils peuvent faire l'objet de contrôles par l'équipe. Ce qui est consulté n'est jamais partagé en dehors de l'équipe et du joueur concerné.
-* **R19** · **Promouvoir un autre serveur Minecraft** est <mark style="color:red;">**interdit**</mark>, sous toute forme (lien, IP, nom, image...) ; les annonces relatives à Dynastia (événements de joueurs, recrutements...) ne sont pas concernées.
+* **R19** · **Promouvoir un autre serveur ou une autre communauté** (Minecraft, Discord ou autre) est <mark style="color:red;">**interdit**</mark>, sous toute forme (lien, IP, nom, image...) ; les annonces relatives à Dynastia (événements de joueurs, recrutements...) ne sont pas concernées.
 
 <p align="center"><img src=".gitbook/assets/sep-dynastia.png" alt=""></p>
 
