@@ -83,14 +83,17 @@ Dans tout le règlement, ces termes ont le sens défini ici :
 
 <p align="center"><img src=".gitbook/assets/sep-dynastia.png" alt=""></p>
 
-<h2 align="center"><mark style="color:yellow;">6. Économie et achats</mark></h2>
-
-La boutique du serveur (grades, objets, clés, monnaies) contribue à son maintien ; les achats ne sont jamais obligatoires.
+<h2 align="center"><mark style="color:yellow;">6. Économie du jeu</mark></h2>
 
 * **R27** · **Contourner les limites de vente de l'AdminShop** est <mark style="color:red;">**interdit**</mark>, notamment par échanges intermédiaires (ex. : échanger un shulker de citrouilles contre du bambou pour vendre au-delà de la limite). Dans toute vente entre joueurs, HDV compris, tes prix doivent être supérieurs au prix auquel l'AdminShop **achète** la ressource.
-* **R28** · **Échanger quoi que ce soit du serveur contre une contrepartie extérieure** est <mark style="color:red;">**interdit**</mark>, à la vente comme à l'achat : argent réel, monnaies ou biens d'autres plateformes, services hors serveur. Les articles de la boutique ne se vendent que sur la boutique officielle.
-* **R29** · **Les achats en boutique sont définitifs** : aucun remboursement.
-* **R30** · **Les pertes en jeu** ne sont compensées qu'en cas de bug imputable au serveur, via ticket ; dans tous les autres cas, la protection de tes biens t'incombe.
+* **R28** · **Les pertes en jeu** ne sont compensées qu'en cas de bug imputable au serveur, via ticket ; dans tous les autres cas, la protection de tes biens t'incombe.
+
+<p align="center"><img src=".gitbook/assets/sep-dynastia.png" alt=""></p>
+
+<h2 align="center"><mark style="color:yellow;">7. Boutique et transferts de compte</mark></h2>
+
+* **R29** · **Échanger quoi que ce soit du serveur contre une contrepartie extérieure** est <mark style="color:red;">**interdit**</mark>, à la vente comme à l'achat : argent réel, monnaies ou biens d'autres plateformes, services hors serveur. Les articles de la boutique ne se vendent que sur la boutique officielle.
+* **R30** · **Les achats en boutique sont définitifs** : aucun remboursement.
 * **R31** · **Erreur de pseudonyme lors d'un achat ?** L'administration restaure l'achat sur le bon pseudonyme, contre preuve d'achat de moins de 48 heures.
 * **R32** · **Mineur ?** L'autorisation de ton tuteur légal est requise avant tout achat.
 * **R33** · **Transferts de compte** : l'administration peut migrer les données d'un compte vers un autre **uniquement si les deux appartiennent à la même personne**, dans les deux cas ci-dessous. Aucun transfert vers le compte d'une autre personne, même sur demande.
@@ -109,7 +112,7 @@ _Ce périmètre est une limitation technique : au-delà de cette liste, une migr
 
 <p align="center"><img src=".gitbook/assets/sep-dynastia.png" alt=""></p>
 
-<h2 align="center"><mark style="color:yellow;">7. Respect des joueurs et de leurs biens</mark></h2>
+<h2 align="center"><mark style="color:yellow;">8. Respect des joueurs et de leurs biens</mark></h2>
 
 * **R36** · **Toute forme de PvP** est <mark style="color:red;">**interdite**</mark>, y compris tout moyen indirect d'infliger des dégâts (monstres, lave ou toute autre chose).
 * **R37** · **Enfermer ou piéger un joueur contre son gré** est <mark style="color:red;">**interdit**</mark>, avec ou sans dégâts.
@@ -123,7 +126,7 @@ _Ce périmètre est une limitation technique : au-delà de cette liste, une migr
 
 <p align="center"><img src=".gitbook/assets/sep-dynastia.png" alt=""></p>
 
-<h2 align="center"><mark style="color:yellow;">8. Fermes</mark></h2>
+<h2 align="center"><mark style="color:yellow;">9. Fermes</mark></h2>
 
 * **R45** · **Utiliser la ferme d'un autre joueur** est <mark style="color:red;">**interdit**</mark>, sauf si tu en es contributeur ou membre du cercle proche du propriétaire, **et** qu'il t'y a autorisé. Ces deux conditions sont cumulatives : hors contributeurs et cercle proche, l'accès est interdit même si le propriétaire veut l'accorder.
 * **R46** · **Construire tout ou partie d'une ferme en service pour un autre joueur** est <mark style="color:red;">**interdit**</mark> : job ou offre ouverte, hors de ton cercle, gratuit ou payé, technique ou non.
@@ -140,14 +143,14 @@ Le filtre de R46, en schéma :
 
 <p align="center"><img src=".gitbook/assets/sep-dynastia.png" alt=""></p>
 
-<h2 align="center"><mark style="color:yellow;">9. Warps joueurs (PW)</mark></h2>
+<h2 align="center"><mark style="color:yellow;">10. Warps joueurs (PW)</mark></h2>
 
 * **R49** · **Un PW doit se trouver à 10 chunks minimum de toute ferme, la tienne comprise**, pour qu'elle ne soit pas chargée par les visiteurs ; exception possible pour les fermes de taille modeste sans vocation de revente, à l'appréciation de la modération. En cas de conflit, l'antériorité prime : celui qui s'installe en second se met en conformité.
 * **R50** · **Un PW doit être un point d'intérêt pour tous** : ne définis pas plusieurs PW autour d'une même zone quand un seul suffit, cela encombre la liste pour rien ; et ne t'en sers pas comme résidence supplémentaire. Les PW sans intérêt propre seront supprimés.
 
 <p align="center"><img src=".gitbook/assets/sep-dynastia.png" alt=""></p>
 
-<h2 align="center"><mark style="color:yellow;">10. Têtes décoratives et objets légendaires</mark></h2>
+<h2 align="center"><mark style="color:yellow;">11. Têtes décoratives et objets légendaires</mark></h2>
 
 * **R51** · **Le don de têtes décoratives (/hdb) ne doit pas se substituer à l'achat de la commande** : le commerce et les dons répétés vers un joueur n'y ayant pas accès sont <mark style="color:red;">**interdits**</mark> ; le don occasionnel, notamment à une équipe t'aidant sur une construction, est <mark style="color:green;">**toléré**</mark>. La modération apprécie au cas par cas selon ce principe.
 * **R52** · **Louer un objet légendaire** (caisse légendaire) est <mark style="color:red;">**interdit**</mark> ; le vendre est <mark style="color:green;">**autorisé**</mark>.
@@ -165,7 +168,7 @@ Le filtre de R46, en schéma :
 
 **Convention d'entretien** (à conserver) : tant que le règlement n'est pas adopté, toute insertion se fait par renumérotation continue, un brouillon n'ayant pas de citations à protéger. À l'adoption, les numéros deviennent définitifs : une nouvelle règle s'insère alors sous un numéro suffixé de la règle qui la précède (après R8 : R8-2, puis R8-3...), une règle supprimée est marquée abrogée, et aucun numéro n'est jamais réutilisé ni renuméroté. Le numéro est une identité, pas une position.
 
-**Fournée anti-failles du 05/08** (décisions de l'Administration) : non-rétroactivité intégrée à R3, nouvelles règles R5 (impartialité, escalade Administration), R7 (mensonge à la modération), R26 (machines à lag), R37 (piégeage de joueurs), R39 (entités d'autrui), R41 (arnaque, interdite : décision de principe) ; R28 étendu à toute contrepartie extérieure dans les deux sens ; R42 protège les designs techniques non publics ; R43 redéfini par dragon (invocation → mort, dragon abandonné libre) ; R44 étendu à toute construction près d'autrui ; R49 antériorité ; R16 double plafond de publicité PW (par joueur et par PW, exploits documentés par ZelouiX) ; « contributeur » défini au lexique (ferme le contournement par contribution symbolique). Rejetés en connaissance de cause : l'engagement de l'équipe par la réponse d'un modérateur (un modérateur peut se tromper et être contredit ; la bonne foi s'apprécie via R3), l'obligation d'annoncer chaque modification (risque d'oubli), la réglementation de l'abus de vote (plafonné techniquement, indétectable).
+**Fournée anti-failles du 05/08** (décisions de l'Administration) : non-rétroactivité intégrée à R3, nouvelles règles R5 (impartialité, escalade Administration), R7 (mensonge à la modération), R26 (machines à lag), R37 (piégeage de joueurs), R39 (entités d'autrui), R41 (arnaque, interdite : décision de principe) ; R29 étendu à toute contrepartie extérieure dans les deux sens ; R42 protège les designs techniques non publics ; R43 redéfini par dragon (invocation → mort, dragon abandonné libre) ; R44 étendu à toute construction près d'autrui ; R49 antériorité ; R16 double plafond de publicité PW (par joueur et par PW, exploits documentés par ZelouiX) ; « contributeur » défini au lexique (ferme le contournement par contribution symbolique). Rejetés en connaissance de cause : l'engagement de l'équipe par la réponse d'un modérateur (un modérateur peut se tromper et être contredit ; la bonne foi s'apprécie via R3), l'obligation d'annoncer chaque modification (risque d'oubli), la réglementation de l'abus de vote (plafonné techniquement, indétectable).
 
 **Décisions de la passe de purge** (validées une à une) :
 
@@ -192,11 +195,11 @@ Le filtre de R46, en schéma :
 
 | Ancien | v3 | Ancien | v3 |
 | --- | --- | --- | --- |
-| 0-1 | R1 | 11-2 | R29 |
-| 0-2 | R3 | 11-3, 11-4 | R30 |
+| 0-1 | R1 | 11-2 | R30 |
+| 0-2 | R3 | 11-3, 11-4 | R28 |
 | 0-3 | R4 | 11-5 | R31 |
 | 0-4, 0-6 | R6 | 11-6 | R32 |
-| 0-5 | R8 | 11-7 | R28 |
+| 0-5 | R8 | 11-7 | R29 |
 | 1-1, 1-2, 1-3 (bis) | R9 | 11-8 | R33 |
 | 1-3 | R10 | 11-9 | R34 |
 | (foyer, non numéroté) | R11 | (compte perdu, nouveau) | R35 |
