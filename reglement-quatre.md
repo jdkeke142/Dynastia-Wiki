@@ -73,7 +73,7 @@ Dans tout le règlement, ces termes ont le sens défini ici :
 
 <p align="center"><img src=".gitbook/assets/sep-dynastia.png" alt=""></p>
 
-<h2 align="center"><mark style="color:yellow;">5. Triche</mark></h2>
+<h2 align="center"><mark style="color:yellow;">5. Triche et abus techniques</mark></h2>
 
 * **R23** · **Tout mod qui révèle des informations que le jeu cache, ou qui automatise des actions du joueur**, est <mark style="color:red;">**interdit**</mark> ; les mods de confort, purement visuels ou d'optimisation sont libres. Ce double critère fait foi pour tout mod, y compris hors liste ; en cas de doute, consulter la modération avant utilisation. Sont notamment <mark style="color:green;">**autorisés**</mark> :
   * les mods de carte, **sans visibilité sur les sous-sols et les minerais** ;
@@ -89,16 +89,21 @@ Dans tout le règlement, ces termes ont le sens défini ici :
 <h2 align="center"><mark style="color:yellow;">6. Économie du jeu</mark></h2>
 
 * **R27** · **Contourner les limites de vente de l'AdminShop** est <mark style="color:red;">**interdit**</mark>, notamment par échanges intermédiaires (ex. : échanger un shulker de citrouilles contre du bambou pour vendre au-delà de la limite). Dans toute vente entre joueurs, HDV compris, les prix pratiqués sont supérieurs au prix auquel l'AdminShop **achète** la ressource.
-* **R28** · **Les pertes en jeu** ne sont compensées qu'en cas de bug imputable au serveur, via ticket ; dans tous les autres cas, la protection des biens incombe à leur propriétaire.
+* **R28** · **Échanger quoi que ce soit du serveur contre une contrepartie extérieure** est <mark style="color:red;">**interdit**</mark>, à la vente comme à l'achat : argent réel, monnaies ou biens d'autres plateformes, services hors serveur. Les articles de la boutique ne se vendent que sur la boutique officielle.
 
 <p align="center"><img src=".gitbook/assets/sep-dynastia.png" alt=""></p>
 
-<h2 align="center"><mark style="color:yellow;">7. Boutique et transferts de compte</mark></h2>
+<h2 align="center"><mark style="color:yellow;">7. Boutique</mark></h2>
 
-* **R29** · **Échanger quoi que ce soit du serveur contre une contrepartie extérieure** est <mark style="color:red;">**interdit**</mark>, à la vente comme à l'achat : argent réel, monnaies ou biens d'autres plateformes, services hors serveur. Les articles de la boutique ne se vendent que sur la boutique officielle.
-* **R30** · **Les achats en boutique sont définitifs** : aucun remboursement.
-* **R31** · **En cas d'erreur de pseudonyme lors d'un achat**, l'<mark style="color:red;">Administration</mark> restaure l'achat sur le pseudonyme voulu, contre preuve d'achat de moins de 48 heures.
-* **R32** · **Tout achat par un joueur mineur requiert l'autorisation de son tuteur légal.**
+* **R29** · **Les achats en boutique sont définitifs** : aucun remboursement.
+* **R30** · **En cas d'erreur de pseudonyme lors d'un achat**, l'<mark style="color:red;">Administration</mark> restaure l'achat sur le pseudonyme voulu, contre preuve d'achat de moins de 48 heures.
+* **R31** · **Tout achat par un joueur mineur requiert l'autorisation de son tuteur légal.**
+
+<p align="center"><img src=".gitbook/assets/sep-dynastia.png" alt=""></p>
+
+<h2 align="center"><mark style="color:yellow;">8. Compensations et transferts de compte</mark></h2>
+
+* **R32** · **Les pertes en jeu** ne sont compensées qu'en cas de bug imputable au serveur, via ticket ; dans tous les autres cas, la protection des biens incombe à leur propriétaire.
 * **R33** · **Transferts de compte** : l'<mark style="color:red;">Administration</mark> peut migrer les données d'un compte vers un autre **uniquement si les deux appartiennent à la même personne**, dans les deux cas ci-dessous. Aucun transfert vers le compte d'une autre personne, même sur demande.
 * **R34** · **En cas de changement de pseudonyme**, le serveur conserve tout automatiquement, sauf les dollars ($), transférés par l'<mark style="color:red;">Administration</mark> via un ticket précisant l'ancien et le nouveau pseudonyme.
 * **R35** · **En cas de compte perdu**, l'<mark style="color:red;">Administration</mark> peut migrer vers le nouveau compte du même joueur, sur ticket, uniquement les éléments ci-dessous. Tout le reste est définitivement perdu.
@@ -115,7 +120,7 @@ _Ce périmètre est une limitation technique : au-delà de cette liste, une migr
 
 <p align="center"><img src=".gitbook/assets/sep-dynastia.png" alt=""></p>
 
-<h2 align="center"><mark style="color:yellow;">8. Respect des joueurs et de leurs biens</mark></h2>
+<h2 align="center"><mark style="color:yellow;">9. Respect des joueurs et de leurs biens</mark></h2>
 
 * **R36** · **Toute forme de PvP** est <mark style="color:red;">**interdite**</mark>, y compris tout moyen indirect d'infliger des dégâts (monstres, lave ou toute autre chose).
 * **R37** · **Enfermer ou piéger un joueur contre son gré** est <mark style="color:red;">**interdit**</mark>, avec ou sans dégâts.
@@ -129,7 +134,7 @@ _Ce périmètre est une limitation technique : au-delà de cette liste, une migr
 
 <p align="center"><img src=".gitbook/assets/sep-dynastia.png" alt=""></p>
 
-<h2 align="center"><mark style="color:yellow;">9. Fermes</mark></h2>
+<h2 align="center"><mark style="color:yellow;">10. Fermes</mark></h2>
 
 * **R45** · **Utiliser la ferme d'un autre joueur** est <mark style="color:red;">**interdit**</mark>, sauf pour ses contributeurs et le cercle proche de son propriétaire, avec son autorisation. Les deux conditions sont cumulatives : hors contributeurs et cercle proche, l'accès reste interdit même si le propriétaire veut l'accorder.
 * **R46** · **Construire tout ou partie d'une ferme en service pour un autre joueur** est <mark style="color:red;">**interdit**</mark> : job ou offre ouverte, hors du cercle du propriétaire, gratuit ou payé, technique ou non.
@@ -146,14 +151,14 @@ Le filtre de R46, en schéma :
 
 <p align="center"><img src=".gitbook/assets/sep-dynastia.png" alt=""></p>
 
-<h2 align="center"><mark style="color:yellow;">10. Warps joueurs (PW)</mark></h2>
+<h2 align="center"><mark style="color:yellow;">11. Warps joueurs (PW)</mark></h2>
 
 * **R49** · **Un PW se trouve à 10 chunks minimum de toute ferme, y compris celle de son créateur**, pour qu'elle ne soit pas chargée par les visiteurs ; exception possible pour les fermes de taille modeste sans vocation de revente, à l'appréciation de la modération. En cas de conflit, l'antériorité prime : celui qui s'installe en second se met en conformité.
 * **R50** · **Un PW est un point d'intérêt pour tous** : plusieurs PW autour d'une même zone quand un seul suffit encombrent la liste pour rien, et un PW ne sert pas de résidence supplémentaire. Les PW sans intérêt propre sont supprimés.
 
 <p align="center"><img src=".gitbook/assets/sep-dynastia.png" alt=""></p>
 
-<h2 align="center"><mark style="color:yellow;">11. Têtes décoratives et objets légendaires</mark></h2>
+<h2 align="center"><mark style="color:yellow;">12. Têtes décoratives et objets légendaires</mark></h2>
 
 * **R51** · **Le don de têtes décoratives (/hdb) ne se substitue pas à l'achat de la commande** : le commerce et les dons répétés vers un joueur n'y ayant pas accès sont <mark style="color:red;">**interdits**</mark> ; le don occasionnel, notamment aux joueurs aidant le donateur sur une construction, est <mark style="color:green;">**toléré**</mark>. La modération apprécie au cas par cas selon ce principe.
 * **R52** · **Louer un objet légendaire** (caisse légendaire) est <mark style="color:red;">**interdit**</mark> ; le vendre est <mark style="color:green;">**autorisé**</mark>.
@@ -171,4 +176,4 @@ Le filtre de R46, en schéma :
 
 **Convention d'entretien** (à conserver) : tant que le règlement n'est pas adopté, toute insertion se fait par renumérotation continue, un brouillon n'ayant pas de citations à protéger. À l'adoption, les numéros deviennent définitifs : une nouvelle règle s'insère alors sous un numéro suffixé de la règle qui la précède (après R8 : R8-2, puis R8-3...), une règle supprimée est marquée abrogée, et aucun numéro n'est jamais réutilisé ni renuméroté. Toute règle respecte le cadre : **une norme par règle, indicatif présent, verdict explicite, termes du lexique, registre impersonnel, aucune phrase sans effet**.
 
-**Fournée anti-failles du 05/08** (décisions de l'Administration) : non-rétroactivité intégrée à R3, nouvelles règles R5 (impartialité, escalade Administration), R7 (mensonge à la modération), R26 (machines à lag), R37 (piégeage de joueurs), R39 (entités d'autrui), R41 (arnaque, interdite : décision de principe) ; R29 étendu à toute contrepartie extérieure dans les deux sens ; R42 protège les designs techniques non publics ; R43 redéfini par dragon (invocation → mort, dragon abandonné libre) ; R44 étendu à toute construction près d'autrui ; R49 antériorité ; R16 double plafond de publicité PW (par joueur et par PW) ; « contributeur » défini au lexique. Rejetés en connaissance de cause : l'engagement de l'équipe par la réponse d'un modérateur (un modérateur peut se tromper et être contredit ; la bonne foi s'apprécie via R3), l'obligation d'annoncer chaque modification (risque d'oubli), la réglementation de l'abus de vote (plafonné techniquement, indétectable).
+**Fournée anti-failles du 05/08** (décisions de l'Administration) : non-rétroactivité intégrée à R3, nouvelles règles R5 (impartialité, escalade Administration), R7 (mensonge à la modération), R26 (machines à lag), R37 (piégeage de joueurs), R39 (entités d'autrui), R41 (arnaque, interdite : décision de principe) ; R28 étendu à toute contrepartie extérieure dans les deux sens ; R42 protège les designs techniques non publics ; R43 redéfini par dragon (invocation → mort, dragon abandonné libre) ; R44 étendu à toute construction près d'autrui ; R49 antériorité ; R16 double plafond de publicité PW (par joueur et par PW) ; « contributeur » défini au lexique. Rejetés en connaissance de cause : l'engagement de l'équipe par la réponse d'un modérateur (un modérateur peut se tromper et être contredit ; la bonne foi s'apprécie via R3), l'obligation d'annoncer chaque modification (risque d'oubli), la réglementation de l'abus de vote (plafonné techniquement, indétectable).
