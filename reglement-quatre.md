@@ -75,17 +75,11 @@ Dans tout le règlement, ces termes ont le sens défini ici :
 
 <h2 align="center"><mark style="color:yellow;">5. Triche</mark></h2>
 
-* **R23** · **Toute modification du client procurant un avantage sur les autres joueurs** est <mark style="color:red;">**interdite**</mark>. Ce critère fait foi pour tout mod, y compris hors liste ; en cas de doute, consulter la modération avant utilisation.
-
-Au titre de R23, sont notamment <mark style="color:green;">**autorisés**</mark> :
-
-* les mods de carte, **sans visibilité sur les sous-sols et les minerais** ;
-* Litematica, **aide visuelle uniquement** ;
-* les mods de tri et de gestion d'inventaire, **tant qu'une action du joueur déclenche chaque opération** ;
-* les mods purement visuels ou d'optimisation (Optifine, Sodium...), **sans avantage de vision souterraine ou dans la lave**.
-
-Suite de la section :
-
+* **R23** · **Toute modification du client procurant un avantage sur les autres joueurs** est <mark style="color:red;">**interdite**</mark>. Ce critère fait foi pour tout mod, y compris hors liste ; en cas de doute, consulter la modération avant utilisation. Sont notamment <mark style="color:green;">**autorisés**</mark> :
+  * les mods de carte, **sans visibilité sur les sous-sols et les minerais** ;
+  * Litematica, **aide visuelle uniquement** ;
+  * les mods de tri et de gestion d'inventaire, **tant qu'une action du joueur déclenche chaque opération** ;
+  * les mods purement visuels ou d'optimisation (Optifine, Sodium...), **sans avantage de vision souterraine ou dans la lave**.
 * **R24** · **L'autoclick est** <mark style="color:red;">**interdit**</mark> : tout mécanisme, logiciel ou matériel, générant des clics sans action manuelle. Maintenir un clic enfoncé via les mécanismes natifs du jeu n'est pas de l'autoclick ; le joueur reste néanmoins présent derrière son écran et répond à tout contrôle de la modération.
 * **R25** · **Exploiter volontairement un bug** est <mark style="color:red;">**interdit**</mark>. Tout bug rencontré se signale via un ticket sur le [Discord](https://discord.gg/qqBCWgpRDc).
 * **R26** · **Dégrader volontairement les performances du serveur** est <mark style="color:red;">**interdit**</mark> : machines à lag, accumulations d'entités, systèmes conçus pour surcharger, qu'une mécanique de jeu soit détournée ou non.
@@ -135,20 +129,17 @@ _Ce périmètre est une limitation technique : au-delà de cette liste, une migr
 <h2 align="center"><mark style="color:yellow;">8. Fermes</mark></h2>
 
 * **R45** · **Utiliser la ferme d'un autre joueur** est <mark style="color:red;">**interdit**</mark>, sauf pour ses contributeurs et le cercle proche de son propriétaire, avec son autorisation. Les deux conditions sont cumulatives : hors contributeurs et cercle proche, l'accès reste interdit même si le propriétaire veut l'accorder.
-* **R46** · **Construire tout ou partie d'une ferme en service pour un autre joueur** est <mark style="color:red;">**interdit**</mark> : job ou offre ouverte, hors du cercle du propriétaire, gratuit ou payé, technique ou non. Le schéma ci-dessous résume les trois cas.
+* **R46** · **Construire tout ou partie d'une ferme en service pour un autre joueur** est <mark style="color:red;">**interdit**</mark> : job ou offre ouverte, hors du cercle du propriétaire, gratuit ou payé, technique ou non.
+* **R47** · **L'<mark style="color:red;">Administration</mark> peut détruire une ferme** qui nuit à l'expérience de jeu des autres, si son propriétaire refuse les modifications demandées.
+* **R48** · **Louer une ferme ou vendre son accès** est <mark style="color:red;">**interdit**</mark>.
+
+Le filtre de R46, en schéma :
 
 <p align="center"><img src=".gitbook/assets/construction-autrui-v4.png" alt="Schéma décisionnel : construire pour autrui, autorisé ou interdit" width="520"></p>
-
-En résumé :
 
 * <mark style="color:green;">**Autorisé**</mark> : tout ce qui n'est pas une ferme (trieur, porte à pistons, éclairage, mini-jeu, décoration...), payant ou non.
 * <mark style="color:red;">**Interdit**</mark> : une ferme construite en service pour autrui, rémunéré ou non, technique ou non.
 * <mark style="color:green;">**Autorisé**</mark> : la collaboration au sein du cercle (contributeurs et cercle proche du propriétaire, le même cercle que R45), l'aide ponctuelle et les conseils.
-
-Suite de la section :
-
-* **R47** · **L'<mark style="color:red;">Administration</mark> peut détruire une ferme** qui nuit à l'expérience de jeu des autres, si son propriétaire refuse les modifications demandées.
-* **R48** · **Louer une ferme ou vendre son accès** est <mark style="color:red;">**interdit**</mark>.
 
 <p align="center"><img src=".gitbook/assets/sep-dynastia.png" alt=""></p>
 
