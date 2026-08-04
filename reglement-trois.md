@@ -75,12 +75,12 @@ Au titre de R21, sont notamment <mark style="color:green;">**autorisés**</mark>
 
 * les mods de carte, **sans visibilité sur les sous-sols et les minerais** ;
 * Litematica, **aide visuelle uniquement** ;
-* les mods d'inventaire **non automatisés** ;
+* les mods de tri et de gestion d'inventaire, **tant qu'une action du joueur déclenche chaque opération** ;
 * les mods purement visuels ou d'optimisation (Optifine, Sodium...), **sans avantage de vision souterraine ou dans la lave**.
 
 Suite de la section :
 
-* **R22** · **L'autoclick**, et tout autre moyen de cliquer sans action manuelle, est <mark style="color:red;">**interdit**</mark>.
+* **R22** · **L'autoclick est** <mark style="color:red;">**interdit**</mark> : tout mécanisme, logiciel ou matériel, générant des clics sans action manuelle. Maintenir un clic enfoncé via les mécanismes natifs du jeu n'est pas de l'autoclick ; reste néanmoins présent derrière ton écran et réponds à tout contrôle de la modération.
 * **R23** · **Exploiter volontairement un bug** est <mark style="color:red;">**interdit**</mark>. Signale tout bug rencontré via un ticket sur le [Discord](https://discord.gg/qqBCWgpRDc).
 
 <p align="center"><img src=".gitbook/assets/sep-dynastia.png" alt=""></p>
@@ -186,6 +186,7 @@ Suite de la section :
 | « L'essentiel en 10 réflexes » | Supprimé : dix paraphrases de normes qui désynchronisent à chaque édition (démontré dès la première) ; la lecture rapide est assurée par le format lui-même (titres, gras, verdicts colorés) |
 | Schéma construction pour autrui (R40) | La question « technicité » disparaît (subjective, débat staff du 02/08) : une ferme ne se construit jamais en service pour autrui, technique ou non ; la collaboration dans le cercle reste libre. Philosophie retenue : on protège l'effort, pas le savoir |
 | « Ferme lucrative » | Terme supprimé du lexique : indécidable par le joueur (liste AdminShop + chaînes de transformation) et distinction presque vide. Le critère devient « ferme » tout court ; la règle de chaîne n'a plus de raison d'être |
+| R21, R22 | Précisés suite aux retours de Stalmi (04/08) : « non automatisés » défini (une action du joueur par opération), autoclick borné (clic maintenu natif autorisé, présence et réponse au contrôle obligatoires) |
 
 **Table de correspondance** (ancien règlement → v3) :
 

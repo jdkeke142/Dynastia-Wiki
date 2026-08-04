@@ -4,6 +4,7 @@
 * [🔉 Règlement Général​](reglement.md)
 * [🧪 Règlement Général v2 (proposition)](reglement-deux.md)
 * [🚀 Règlement Général v3 (proposition)](reglement-trois.md)
+* [⚖️ Règlement Général v4 (proposition)](reglement-quatre.md)
 
 ## 📗 Fonctionnalités
 
