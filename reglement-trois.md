@@ -21,7 +21,8 @@ Dans tout le règlement, ces termes ont le sens défini ici :
 | Terme | Définition |
 | --- | --- |
 | **Ferme** | Construction conçue pour produire une ressource de manière répétable, en réduisant au maximum l'intervention du joueur. |
-| **Cercle proche** | Personnes avec lesquelles tu entretiens une relation préexistante. Une relation nouée pour l'occasion (par exemple pour obtenir une construction) n'en fait pas partie. |
+| **Cercle proche** | Personnes avec lesquelles tu entretiens une relation préexistante. Une relation nouée pour l'occasion (par exemple pour obtenir une construction) n'en fait pas partie. La modération l'apprécie sur des éléments antérieurs à la situation examinée : ancienneté des interactions, claims ou projets partagés, historique commun. |
+| **Contributeur** | Joueur ayant réellement participé à la construction d'une ferme. Une participation symbolique ou arrangée pour l'occasion ne crée pas ce statut ; il s'apprécie sur les mêmes éléments antérieurs que le cercle proche. |
 | **PW (warp joueur)** | Point de téléportation public créé par un joueur. |
 | **Design technique public** | Plan de construction librement accessible (tutoriels, vidéos...), qu'aucun joueur ne peut revendiquer comme sa création. |
 
@@ -30,11 +31,14 @@ Dans tout le règlement, ces termes ont le sens défini ici :
 <h2 align="center"><mark style="color:yellow;">1. Principes généraux</mark></h2>
 
 * **R1** · **Tu acceptes ce règlement en te connectant** à l'une des plateformes de Dynastia. L'<mark style="color:red;">Administration</mark> peut le modifier à tout moment. Un compte utilisé pour contourner une sanction s'expose à la même sanction.
-* **R2** · **Sauf mention contraire, ces règles s'appliquent sur toutes les plateformes de Dynastia** : serveur de jeu, Discord et tout autre canal officiel. Les règles sur le PvP, les biens, les fermes et les warps ne concernent que le serveur de jeu.
+* **R2** · **Ces règles s'appliquent sur toutes les plateformes de Dynastia** : serveur de jeu, Discord et tout autre canal officiel. Les règles qui n'ont de sens qu'en jeu (triche, PvP, biens, fermes, warps) ne concernent que le serveur.
 * **R3** · **Une sanction est proportionnée** aux faits et aux antécédents du joueur. Le modérateur qui l'applique peut l'expliquer sur demande, sans obligation de divulguer les méthodes de détection.
-* **R4** · **Tu peux contester une sanction** via un ticket sur le [Discord](https://discord.gg/qqBCWgpRDc).
+* **R3-2** · **Une sanction ne vise que des faits interdits au moment où ils ont été commis.**
+* **R4** · **Tu peux contester une sanction** via un ticket sur le [Discord](https://discord.gg/qqBCWgpRDc) : la contestation est examinée par la modération, au besoin collégialement ou par l'administration.
+* **R4-2** · **Nul membre de l'équipe ne traite un cas qui l'affecte personnellement** : le cas revient à un autre modérateur ou à l'administration.
 * **R5** · **La modération est ton interlocuteur** pour toute question ; en cas de litige avec elle, l'administration est le dernier recours.
-* **R6** · **Aucun grade ne donne de droit supplémentaire**, VIP ou staff : mêmes règles pour tous, en jeu comme face à la modération. Les membres du staff jouent avec toi sans permission particulière sur le gameplay.
+* **R5-2** · **Mentir à la modération**, dans un ticket ou lors d'un contrôle, est <mark style="color:red;">**interdit**</mark>.
+* **R6** · **Aucun grade ne place au-dessus du règlement**, VIP ou staff : avantages de gameplay mis à part, mêmes règles et même modération pour tous. Les membres du staff jouent avec toi sans permission particulière sur le gameplay.
 
 <p align="center"><img src=".gitbook/assets/sep-dynastia.png" alt=""></p>
 
@@ -52,7 +56,7 @@ Dans tout le règlement, ces termes ont le sens défini ici :
 * **R11** · **Tout contenu portant atteinte à autrui ou inadapté à un public jeune** est <mark style="color:red;">**interdit**</mark> : sexuel, discriminatoire, haineux, violent, injurieux, notamment. La liste est illustrative : c'est le caractère du contenu qui constitue l'infraction.
 * **R12** · **Les débats politiques et les querelles personnelles** sur les canaux publics sont <mark style="color:red;">**interdits**</mark>. Un désaccord ordinaire (négociation, débat de jeu...) n'est pas concerné tant qu'il reste courtois.
 * **R13** · **Menacer une personne** (DDoS, incitation au suicide...) est <mark style="color:red;">**interdit**</mark>.
-* **R14** · **Le spam et le flood** sont <mark style="color:red;">**interdits**</mark> : tout message dont le seul effet est de gêner les autres. Comptent notamment comme du spam : les majuscules rendant le chat illisible, et la publicité pour un PW au-delà d'un message par heure.
+* **R14** · **Le spam et le flood** sont <mark style="color:red;">**interdits**</mark> : tout message dont le seul effet est de gêner les autres. Comptent notamment comme du spam : les majuscules rendant le chat illisible, et la publicité pour des PW au-delà d'un message par heure **par joueur**, tous PW confondus ; un même PW ne peut par ailleurs être annoncé qu'une fois par heure, tous annonceurs confondus.
 * **R15** · **Divulguer une conversation privée** sans l'accord de tous ses participants est <mark style="color:red;">**interdit**</mark>, tout comme publier des informations privées.
 * **R16** · **Les moyens de communication du serveur ne sont pas confidentiels** (chat, /msg, /mail...) : pour la sécurité des joueurs et le respect du règlement, ils peuvent faire l'objet de contrôles par l'équipe. Ce qui est consulté n'est jamais partagé en dehors du staff et du joueur concerné.
 * **R17** · **Promouvoir un autre serveur Minecraft** est <mark style="color:red;">**interdit**</mark>, sous toute forme (lien, IP, nom, image...) ; les annonces relatives à Dynastia (événements de joueurs, recrutements d'équipe...) ne sont pas concernées.
@@ -82,6 +86,7 @@ Suite de la section :
 
 * **R22** · **L'autoclick est** <mark style="color:red;">**interdit**</mark> : tout mécanisme, logiciel ou matériel, générant des clics sans action manuelle. Maintenir un clic enfoncé via les mécanismes natifs du jeu n'est pas de l'autoclick ; reste néanmoins présent derrière ton écran et réponds à tout contrôle de la modération.
 * **R23** · **Exploiter volontairement un bug** est <mark style="color:red;">**interdit**</mark>. Signale tout bug rencontré via un ticket sur le [Discord](https://discord.gg/qqBCWgpRDc).
+* **R23-2** · **Dégrader volontairement les performances du serveur** est <mark style="color:red;">**interdit**</mark> : machines à lag, accumulations d'entités, systèmes conçus pour surcharger, qu'une mécanique de jeu soit détournée ou non.
 
 <p align="center"><img src=".gitbook/assets/sep-dynastia.png" alt=""></p>
 
@@ -90,7 +95,7 @@ Suite de la section :
 La boutique du serveur (grades, objets, clés, monnaies) contribue à son maintien ; les achats ne sont jamais obligatoires.
 
 * **R24** · **Contourner les limites de vente de l'AdminShop** est <mark style="color:red;">**interdit**</mark>, notamment par échanges intermédiaires (ex. : échanger un shulker de citrouilles contre du bambou pour vendre au-delà de la limite). Dans toute vente entre joueurs, HDV compris, tes prix doivent être supérieurs au prix auquel l'AdminShop **achète** la ressource.
-* **R25** · **Vendre contre de la monnaie réelle** est <mark style="color:red;">**interdit**</mark>, qu'il s'agisse d'objets, de services ou de tâches sur Dynastia. Les articles de la boutique ne se vendent que sur la boutique officielle.
+* **R25** · **Échanger quoi que ce soit du serveur contre une contrepartie extérieure** est <mark style="color:red;">**interdit**</mark>, à la vente comme à l'achat : argent réel, monnaies ou biens d'autres plateformes, services hors serveur. Les articles de la boutique ne se vendent que sur la boutique officielle.
 * **R26** · **Les achats en boutique sont définitifs** : aucun remboursement.
 * **R27** · **Les pertes en jeu** ne sont compensées qu'en cas de bug imputable au serveur, via ticket ; dans tous les autres cas, la protection de tes biens t'incombe.
 * **R28** · **Erreur de pseudonyme lors d'un achat ?** L'administration restaure l'achat sur le bon pseudonyme, contre preuve d'achat de moins de 48 heures.
@@ -114,11 +119,14 @@ _Ce périmètre est une limitation technique : au-delà de cette liste, une migr
 <h2 align="center"><mark style="color:yellow;">7. Respect des joueurs et de leurs biens</mark></h2>
 
 * **R33** · **Toute forme de PvP** est <mark style="color:red;">**interdite**</mark>, y compris tout moyen indirect d'infliger des dégâts (monstres, lave ou toute autre chose).
+* **R33-2** · **Enfermer ou piéger un joueur contre son gré** est <mark style="color:red;">**interdit**</mark>, avec ou sans dégâts.
 * **R34** · **Détruire ou dégrader la construction d'un autre joueur** est <mark style="color:red;">**interdit**</mark>, protégée ou non. Reconstruire peut atténuer la sanction, jamais l'annuler. Dynastia enregistre les actions des joueurs.
+* **R34-2** · **Tuer, voler ou déplacer les entités apprivoisées ou détenues par un autre joueur** (animaux, villageois...) est <mark style="color:red;">**interdit**</mark>, en zone protégée ou non.
 * **R35** · **Garder un objet perdu, jeté ou posé par un autre joueur** est <mark style="color:red;">**interdit**</mark> : si son propriétaire est connu, rends-le.
-* **R36** · **Copier, reproduire ou revendre une création originale** (build, map-art...), y compris en la capturant sous forme de schematic, sans l'accord préalable de son auteur est <mark style="color:red;">**interdit**</mark> ; garde une preuve de l'accord. Les designs techniques publics (fermes, trieurs, systèmes issus de tutoriels) ne sont la création de personne : les reproduire est libre.
-* **R37** · **Contribuer au combat ou récolter les gains de l'EnderDragon d'un autre joueur** sans son accord est <mark style="color:red;">**interdit**</mark> sur l'île principale de l'End. Attends la fin de sa session pour prendre sa place.
-* **R38** · **Définir une résidence dans ou près de la construction d'un autre joueur** sans son accord écrit préalable est <mark style="color:red;">**interdit**</mark>. Garde une preuve de cet accord.
+* **R35-2** · **Obtenir un bien, un paiement ou un service par tromperie** sur ce qui est promis en échange est <mark style="color:red;">**interdit**</mark> : ce qui est convenu s'honore. La modération tranche sur preuves.
+* **R36** · **Copier, reproduire ou revendre une création originale** (build, map-art...), y compris en la capturant sous forme de schematic, sans l'accord préalable de son auteur est <mark style="color:red;">**interdit**</mark> ; garde une preuve de l'accord. Un design technique non public reste la création de son auteur. Les designs techniques publics (fermes, trieurs, systèmes issus de tutoriels) ne sont la création de personne : les reproduire est libre.
+* **R37** · **L'EnderDragon appartient à ceux qui l'ont fait apparaître**, de son invocation à sa mort : contribuer au combat ou récolter les gains sans leur accord est <mark style="color:red;">**interdit**</mark>. Un dragon en vie que plus personne ne combat est libre.
+* **R38** · **Construire ou définir une résidence dans ou près de la construction d'un autre joueur** sans son accord explicite préalable est <mark style="color:red;">**interdit**</mark> : les mondes sont vastes, installe-toi ailleurs. Garde une preuve de l'accord.
 
 <p align="center"><img src=".gitbook/assets/sep-dynastia.png" alt=""></p>
 
@@ -144,7 +152,7 @@ Suite de la section :
 
 <h2 align="center"><mark style="color:yellow;">9. Warps joueurs (PW)</mark></h2>
 
-* **R43** · **Un PW doit se trouver à 10 chunks minimum de toute ferme, la tienne comprise**, pour qu'elle ne soit pas chargée par les visiteurs ; exception possible pour les fermes de taille modeste sans vocation de revente, à l'appréciation de la modération.
+* **R43** · **Un PW doit se trouver à 10 chunks minimum de toute ferme, la tienne comprise**, pour qu'elle ne soit pas chargée par les visiteurs ; exception possible pour les fermes de taille modeste sans vocation de revente, à l'appréciation de la modération. En cas de conflit, l'antériorité prime : celui qui s'installe en second se met en conformité.
 * **R44** · **Un PW doit être un point d'intérêt pour tous** : ne définis pas plusieurs PW autour d'une même zone quand un seul suffit, cela encombre la liste pour rien ; et ne t'en sers pas comme résidence supplémentaire. Les PW sans intérêt propre seront supprimés.
 
 <p align="center"><img src=".gitbook/assets/sep-dynastia.png" alt=""></p>
@@ -165,7 +173,9 @@ Suite de la section :
 
 **Ce que la v3 change par rapport à la v2** : architecture redessinée (sections thématiques pleines), **numérotation plate R1 à R48** (l'identité d'une règle est découplée de sa position), purge des règles sans contenu opératoire et du boilerplate autoritaire, portée des règles enfin écrite (R2), résumé d'accueil supprimé. Les arbitrages de fond sont documentés sur la [page v2](reglement-deux.md).
 
-**Convention d'entretien** (à conserver) : une nouvelle règle prend le numéro libre suivant (R49, R50...), quelle que soit sa section ; une règle supprimée est marquée abrogée et son numéro n'est jamais réutilisé ; une règle peut changer de section sans changer de numéro. Le numéro est une identité, pas une position.
+**Convention d'entretien** (à conserver) : une nouvelle règle s'insère dans sa section sous un numéro suffixé de la règle qui la précède (après R6 : R6-2, puis R6-3...) ; une règle supprimée est marquée abrogée ; aucun numéro n'est jamais réutilisé ni renuméroté. Le numéro est une identité, pas une position.
+
+**Fournée anti-failles du 05/08** (décisions de l'Administration) : nouvelles règles R3-2 (non-rétroactivité), R4-2 (impartialité, escalade Administration), R5-2 (mensonge à la modération), R23-2 (machines à lag), R33-2 (piégeage de joueurs), R34-2 (entités d'autrui), R35-2 (arnaque, interdite : décision de principe) ; R25 étendu à toute contrepartie extérieure dans les deux sens ; R36 protège les designs techniques non publics ; R37 redéfini par dragon (invocation → mort, dragon abandonné libre) ; R38 étendu à toute construction près d'autrui ; R43 antériorité ; R14 double plafond de publicité PW (par joueur et par PW, exploits documentés par ZelouiX) ; « contributeur » défini au lexique (ferme le contournement par contribution symbolique). Rejetés en connaissance de cause : l'engagement de l'équipe par la réponse d'un modérateur (un modérateur peut se tromper et être contredit ; la bonne foi s'apprécie via R3), l'obligation d'annoncer chaque modification (risque d'oubli), la réglementation de l'abus de vote (plafonné techniquement, indétectable).
 
 **Décisions de la passe de purge** (validées une à une) :
 
