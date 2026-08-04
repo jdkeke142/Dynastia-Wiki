@@ -75,7 +75,7 @@ Dans tout le règlement, ces termes ont le sens défini ici :
 
 <h2 align="center"><mark style="color:yellow;">5. Triche</mark></h2>
 
-* **R23** · **Toute modification du client procurant un avantage sur les autres joueurs** est <mark style="color:red;">**interdite**</mark>. Ce critère fait foi pour tout mod, y compris hors liste ; en cas de doute, consulter la modération avant utilisation. Sont notamment <mark style="color:green;">**autorisés**</mark> :
+* **R23** · **Tout mod qui révèle des informations que le jeu cache, ou qui automatise des actions du joueur**, est <mark style="color:red;">**interdit**</mark> ; les mods de confort, purement visuels ou d'optimisation sont libres. Ce double critère fait foi pour tout mod, y compris hors liste ; en cas de doute, consulter la modération avant utilisation. Sont notamment <mark style="color:green;">**autorisés**</mark> :
   * les mods de carte, **sans visibilité sur les sous-sols et les minerais** ;
   * Litematica, **aide visuelle uniquement** ;
   * les mods de tri et de gestion d'inventaire, **tant qu'une action du joueur déclenche chaque opération** ;
