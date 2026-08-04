@@ -7,7 +7,7 @@ description: >-
 # ⚖️ Règlement Général v4 (proposition)
 
 {% hint style="warning" %}
-**Page temporaire.** Troisième itération de la refonte : le contenu et la numérotation sont ceux de la [v3](reglement-trois.md), convertis aux conventions légistiques (registre impersonnel, indicatif présent, terminologie unifiée). Seul le [Règlement Général](reglement.md) actuel fait foi. Les numéros R1 à R54 sont strictement identiques entre v3 et v4.
+**Page temporaire.** Troisième itération de la refonte : le contenu et la numérotation sont ceux de la [v3](reglement-trois.md), convertis aux conventions légistiques (registre impersonnel, indicatif présent, terminologie unifiée). Seul le [Règlement Général](reglement.md) actuel fait foi. Les numéros R1 à R53 sont strictement identiques entre v3 et v4.
 {% endhint %}
 
 En cas de doute, la modération répond à toute question. En cas de litige, un ticket sur le [Discord](https://discord.gg/qqBCWgpRDc).
@@ -80,7 +80,7 @@ Dans tout le règlement, ces termes ont le sens défini ici :
   * Litematica, **aide visuelle uniquement** ;
   * les mods de tri et de gestion d'inventaire, **tant qu'une action du joueur déclenche chaque opération** ;
   * les mods purement visuels ou d'optimisation (Optifine, Sodium...), **sans avantage de vision souterraine ou dans la lave**.
-* **R24** · **L'autoclick est** <mark style="color:red;">**interdit**</mark> : tout mécanisme, logiciel ou matériel, générant des clics sans action manuelle. Maintenir un clic enfoncé via les mécanismes natifs du jeu n'est pas de l'autoclick ; le joueur reste néanmoins présent derrière son écran et répond à tout contrôle de la modération.
+* **R24** · **Tout dispositif externe au jeu générant des clics** (logiciel ou matériel) est <mark style="color:red;">**interdit**</mark>. Les fonctionnalités natives de Minecraft sont autorisées ; le joueur reste néanmoins présent derrière son écran et répond à tout contrôle de la modération.
 * **R25** · **Exploiter volontairement un bug** est <mark style="color:red;">**interdit**</mark>. Tout bug rencontré se signale via un ticket sur le [Discord](https://discord.gg/qqBCWgpRDc).
 * **R26** · **Dégrader volontairement les performances du serveur** est <mark style="color:red;">**interdit**</mark> : machines à lag, accumulations d'entités, systèmes conçus pour surcharger, qu'une mécanique de jeu soit détournée ou non.
 
@@ -90,40 +90,39 @@ Dans tout le règlement, ces termes ont le sens défini ici :
 
 * **R27** · **Toute forme de PvP** est <mark style="color:red;">**interdite**</mark>, y compris tout moyen indirect d'infliger des dégâts (monstres, lave ou toute autre chose).
 * **R28** · **Enfermer ou piéger un joueur contre son gré** est <mark style="color:red;">**interdit**</mark>, avec ou sans dégâts.
-* **R29** · **Détruire ou dégrader la construction d'un autre joueur** est <mark style="color:red;">**interdit**</mark>, protégée ou non. Reconstruire peut atténuer la sanction, jamais l'annuler. Dynastia enregistre les actions des joueurs.
-* **R30** · **Tuer, voler ou déplacer les entités apprivoisées ou détenues par un autre joueur** (animaux, villageois...) est <mark style="color:red;">**interdit**</mark>, en zone protégée ou non.
-* **R31** · **Garder un objet perdu, jeté ou posé par un autre joueur** est <mark style="color:red;">**interdit**</mark> : si son propriétaire est identifiable, l'objet lui revient.
-* **R32** · **L'EnderDragon appartient à ceux qui l'ont fait apparaître**, de son invocation à sa mort : contribuer au combat ou récolter les gains sans leur accord est <mark style="color:red;">**interdit**</mark>. Un dragon en vie que plus personne ne combat est libre.
-* **R33** · **Copier, reproduire ou revendre une création originale** (build, map-art...), y compris en la capturant sous forme de schematic, sans l'accord préalable de son auteur est <mark style="color:red;">**interdit**</mark> ; une preuve de l'accord se conserve. Un design technique non public reste la création de son auteur. Les designs techniques publics (fermes, trieurs, systèmes issus de tutoriels) ne sont la création de personne : les reproduire est libre.
-* **R34** · **Construire ou définir une résidence dans ou près de la construction d'un autre joueur** sans son accord explicite préalable est <mark style="color:red;">**interdit**</mark> : les mondes sont vastes, s'installer ailleurs est toujours possible. Une preuve de l'accord se conserve.
+* **R29** · **Détruire ou dégrader la construction d'un autre joueur, ou tuer, voler et déplacer ses entités apprivoisées ou détenues** (animaux, villageois...), est <mark style="color:red;">**interdit**</mark>, en zone protégée ou non. Reconstruire peut atténuer la sanction, jamais l'annuler. Dynastia enregistre les actions des joueurs.
+* **R30** · **Garder un objet perdu, jeté ou posé par un autre joueur** est <mark style="color:red;">**interdit**</mark> : si son propriétaire est identifiable, l'objet lui revient.
+* **R31** · **L'EnderDragon appartient à ceux qui l'ont fait apparaître**, de son invocation à sa mort : contribuer au combat ou récolter les gains sans leur accord est <mark style="color:red;">**interdit**</mark>. Un dragon en vie que plus personne ne combat est libre.
+* **R32** · **Copier, reproduire ou revendre une création originale** (build, map-art...), y compris en la capturant sous forme de schematic, sans l'accord préalable de son auteur est <mark style="color:red;">**interdit**</mark> ; une preuve de l'accord se conserve. Un design technique non public reste la création de son auteur. Les designs techniques publics (fermes, trieurs, systèmes issus de tutoriels) ne sont la création de personne : les reproduire est libre.
+* **R33** · **Construire ou définir une résidence dans ou près de la construction d'un autre joueur** sans son accord explicite préalable est <mark style="color:red;">**interdit**</mark> : les mondes sont vastes, s'installer ailleurs est toujours possible. Une preuve de l'accord se conserve.
 
 <p align="center"><img src=".gitbook/assets/sep-dynastia.png" alt=""></p>
 
 <h2 align="center"><mark style="color:yellow;">7. Économie et échanges</mark></h2>
 
-* **R35** · **Contourner les limites de vente de l'AdminShop** est <mark style="color:red;">**interdit**</mark>, notamment par échanges intermédiaires (ex. : échanger un shulker de citrouilles contre du bambou pour vendre au-delà de la limite). Dans toute vente entre joueurs, HDV compris, les prix pratiqués sont supérieurs au prix auquel l'AdminShop **achète** la ressource.
-* **R36** · **Échanger quoi que ce soit du serveur contre une contrepartie extérieure** est <mark style="color:red;">**interdit**</mark>, à la vente comme à l'achat : argent réel, monnaies ou biens d'autres plateformes, services hors serveur. Les articles de la boutique ne se vendent que sur la boutique officielle.
-* **R37** · **Obtenir un bien, un paiement ou un service par tromperie** sur ce qui est promis en échange est <mark style="color:red;">**interdit**</mark> : un échange convenu s'honore. La modération tranche sur preuves.
-* **R38** · **Le don de têtes décoratives (/hdb) ne se substitue pas à l'achat de la commande** : le commerce et les dons répétés vers un joueur n'y ayant pas accès sont <mark style="color:red;">**interdits**</mark> ; le don occasionnel, notamment aux joueurs aidant le donateur sur une construction, est <mark style="color:green;">**toléré**</mark>. La modération apprécie au cas par cas selon ce principe.
-* **R39** · **Louer un objet légendaire** (caisse légendaire) est <mark style="color:red;">**interdit**</mark> ; le vendre est <mark style="color:green;">**autorisé**</mark>.
-* **R40** · **Le propriétaire d'un objet légendaire reste seul responsable** de sa casse ou de sa perte, même prêté gratuitement.
+* **R34** · **Contourner les limites de vente de l'AdminShop** est <mark style="color:red;">**interdit**</mark>, notamment par échanges intermédiaires (ex. : échanger un shulker de citrouilles contre du bambou pour vendre au-delà de la limite). Dans toute vente entre joueurs, HDV compris, les prix pratiqués sont supérieurs au prix auquel l'AdminShop **achète** la ressource.
+* **R35** · **Échanger quoi que ce soit du serveur contre une contrepartie extérieure** est <mark style="color:red;">**interdit**</mark>, à la vente comme à l'achat : argent réel, monnaies ou biens d'autres plateformes, services hors serveur. Les articles de la boutique ne se vendent que sur la boutique officielle.
+* **R36** · **Obtenir un bien, un paiement ou un service par tromperie** sur ce qui est promis en échange est <mark style="color:red;">**interdit**</mark> : un échange convenu s'honore. La modération tranche sur preuves.
+* **R37** · **Le don de têtes décoratives (/hdb) ne se substitue pas à l'achat de la commande** : le commerce et les dons répétés vers un joueur n'y ayant pas accès sont <mark style="color:red;">**interdits**</mark> ; le don occasionnel, notamment aux joueurs aidant le donateur sur une construction, est <mark style="color:green;">**toléré**</mark>. La modération apprécie au cas par cas selon ce principe.
+* **R38** · **Louer un objet légendaire** (caisse légendaire) est <mark style="color:red;">**interdit**</mark> ; le vendre est <mark style="color:green;">**autorisé**</mark>.
+* **R39** · **Le propriétaire d'un objet légendaire reste seul responsable** de sa casse ou de sa perte, même prêté gratuitement.
 
 <p align="center"><img src=".gitbook/assets/sep-dynastia.png" alt=""></p>
 
 <h2 align="center"><mark style="color:yellow;">8. Boutique</mark></h2>
 
-* **R41** · **Les achats en boutique sont définitifs** : aucun remboursement.
-* **R42** · **En cas d'erreur de pseudonyme lors d'un achat**, l'<mark style="color:red;">Administration</mark> restaure l'achat sur le pseudonyme voulu, contre preuve d'achat de moins de 48 heures.
-* **R43** · **Tout achat par un joueur mineur requiert l'autorisation de son tuteur légal.**
+* **R40** · **Les achats en boutique sont définitifs** : aucun remboursement.
+* **R41** · **En cas d'erreur de pseudonyme lors d'un achat**, l'<mark style="color:red;">Administration</mark> restaure l'achat sur le pseudonyme voulu, contre preuve d'achat de moins de 48 heures.
+* **R42** · **Tout achat par un joueur mineur requiert l'autorisation de son tuteur légal.**
 
 <p align="center"><img src=".gitbook/assets/sep-dynastia.png" alt=""></p>
 
 <h2 align="center"><mark style="color:yellow;">9. Compensations et transferts de compte</mark></h2>
 
-* **R44** · **Les pertes en jeu** ne sont compensées qu'en cas de bug imputable au serveur, via ticket ; dans tous les autres cas, la protection des biens incombe à leur propriétaire.
-* **R45** · **Transferts de compte** : l'<mark style="color:red;">Administration</mark> peut migrer les données d'un compte vers un autre **uniquement si les deux appartiennent à la même personne**, dans les deux cas ci-dessous. Aucun transfert vers le compte d'une autre personne, même sur demande.
-* **R46** · **En cas de changement de pseudonyme**, le serveur conserve tout automatiquement, sauf les dollars ($), transférés par l'<mark style="color:red;">Administration</mark> via un ticket précisant l'ancien et le nouveau pseudonyme.
-* **R47** · **En cas de compte perdu**, l'<mark style="color:red;">Administration</mark> peut migrer vers le nouveau compte du même joueur, sur ticket, uniquement les éléments ci-dessous. Tout le reste est définitivement perdu.
+* **R43** · **Les pertes en jeu** ne sont compensées qu'en cas de bug imputable au serveur, via ticket ; dans tous les autres cas, la protection des biens incombe à leur propriétaire.
+* **R44** · **Transferts de compte** : l'<mark style="color:red;">Administration</mark> peut migrer les données d'un compte vers un autre **uniquement si les deux appartiennent à la même personne**, dans les deux cas ci-dessous. Aucun transfert vers le compte d'une autre personne, même sur demande.
+* **R45** · **En cas de changement de pseudonyme**, le serveur conserve tout automatiquement, sauf les dollars ($), transférés par l'<mark style="color:red;">Administration</mark> via un ticket précisant l'ancien et le nouveau pseudonyme.
+* **R46** · **En cas de compte perdu**, l'<mark style="color:red;">Administration</mark> peut migrer vers le nouveau compte du même joueur, sur ticket, uniquement les éléments ci-dessous. Tout le reste est définitivement perdu.
 
 | ✅ Transféré | ❌ Perdu |
 | --- | --- |
@@ -139,34 +138,34 @@ _Ce périmètre est une limitation technique : au-delà de cette liste, une migr
 
 <h2 align="center"><mark style="color:yellow;">10. Fermes</mark></h2>
 
-* **R48** · **Utiliser la ferme d'un autre joueur** est <mark style="color:red;">**interdit**</mark>, sauf pour ses contributeurs et le cercle proche de son propriétaire, avec son autorisation. Les deux conditions sont cumulatives : hors contributeurs et cercle proche, l'accès reste interdit même si le propriétaire veut l'accorder.
-* **R49** · **Construire tout ou partie d'une ferme en service pour un autre joueur** est <mark style="color:red;">**interdit**</mark> : job ou offre ouverte, hors du cercle du propriétaire, gratuit ou payé, technique ou non.
-* **R50** · **L'<mark style="color:red;">Administration</mark> peut détruire une ferme** qui nuit à l'expérience de jeu des autres, si son propriétaire refuse les modifications demandées.
-* **R51** · **Louer une ferme ou vendre son accès** est <mark style="color:red;">**interdit**</mark>.
+* **R47** · **Utiliser la ferme d'un autre joueur** est <mark style="color:red;">**interdit**</mark>, sauf pour ses contributeurs et le cercle proche de son propriétaire, avec son autorisation. Les deux conditions sont cumulatives : hors contributeurs et cercle proche, l'accès reste interdit même si le propriétaire veut l'accorder.
+* **R48** · **Construire tout ou partie d'une ferme en service pour un autre joueur** est <mark style="color:red;">**interdit**</mark> : job ou offre ouverte, hors du cercle du propriétaire, gratuit ou payé, technique ou non.
+* **R49** · **L'<mark style="color:red;">Administration</mark> peut détruire une ferme** qui nuit à l'expérience de jeu des autres, si son propriétaire refuse les modifications demandées.
+* **R50** · **Louer une ferme ou vendre son accès** est <mark style="color:red;">**interdit**</mark>.
 
-Le filtre de R49, en schéma :
+Le filtre de R48, en schéma :
 
 <p align="center"><img src=".gitbook/assets/construction-autrui-v4.png" alt="Schéma décisionnel : construire pour autrui, autorisé ou interdit" width="520"></p>
 
 * <mark style="color:green;">**Autorisé**</mark> : tout ce qui n'est pas une ferme (trieur, porte à pistons, éclairage, mini-jeu, décoration...), payant ou non.
 * <mark style="color:red;">**Interdit**</mark> : une ferme construite en service pour autrui, rémunéré ou non, technique ou non.
-* <mark style="color:green;">**Autorisé**</mark> : la collaboration au sein du cercle (contributeurs et cercle proche du propriétaire, le même cercle que R48), l'aide ponctuelle et les conseils.
+* <mark style="color:green;">**Autorisé**</mark> : la collaboration au sein du cercle (contributeurs et cercle proche du propriétaire, le même cercle que R47), l'aide ponctuelle et les conseils.
 
 <p align="center"><img src=".gitbook/assets/sep-dynastia.png" alt=""></p>
 
 <h2 align="center"><mark style="color:yellow;">11. Warps joueurs (PW)</mark></h2>
 
-* **R52** · **Un PW se trouve à 10 chunks minimum de toute ferme, y compris celle de son créateur**, pour qu'elle ne soit pas chargée par les visiteurs ; exception possible pour les fermes de taille modeste sans vocation de revente, à l'appréciation de la modération. En cas de conflit, l'antériorité prime : celui qui s'installe en second se met en conformité.
-* **R53** · **Un PW est un point d'intérêt pour tous** : plusieurs PW autour d'une même zone quand un seul suffit encombrent la liste pour rien, et un PW ne sert pas de résidence supplémentaire. Les PW sans intérêt propre sont supprimés.
+* **R51** · **Un PW se trouve à 10 chunks minimum de toute ferme, y compris celle de son créateur**, pour qu'elle ne soit pas chargée par les visiteurs ; exception possible pour les fermes de taille modeste sans vocation de revente, à l'appréciation de la modération. En cas de conflit, l'antériorité prime : celui qui s'installe en second se met en conformité.
+* **R52** · **Un PW est un point d'intérêt pour tous** : plusieurs PW autour d'une même zone quand un seul suffit encombrent la liste pour rien, et un PW ne sert pas de résidence supplémentaire. Les PW sans intérêt propre sont supprimés.
 
 <p align="center"><img src=".gitbook/assets/sep-dynastia.png" alt=""></p>
 
-<mark style="color:red;">**► R54 · Contourner l'esprit du règlement, par quelque moyen que ce soit, est strictement interdit.**</mark>
+<mark style="color:red;">**► R53 · Contourner l'esprit du règlement, par quelque moyen que ce soit, est strictement interdit.**</mark>
 
 ***
 
 ## Notes de version (à retirer si adoption)
 
-**Ce que la v4 change par rapport à la v3** : rien sur le fond, tout sur le registre. Conversion aux conventions légistiques : registre impersonnel (« le joueur », « chaque joueur » : un texte qui dispose ne tutoie ni ne vouvoie), indicatif présent à valeur impérative (plus aucun futur), terminologie unifiée (équipe / modération / Administration définies au lexique, « staff » retiré du texte normatif). **Les numéros R1 à R54 et l'architecture des sections sont strictement identiques à la v3.** Les décisions de fond, la retaxonomie et la table de correspondance sont documentées sur la [page v3](reglement-trois.md).
+**Ce que la v4 change par rapport à la v3** : rien sur le fond, tout sur le registre. Conversion aux conventions légistiques : registre impersonnel (« le joueur », « chaque joueur » : un texte qui dispose ne tutoie ni ne vouvoie), indicatif présent à valeur impérative (plus aucun futur), terminologie unifiée (équipe / modération / Administration définies au lexique, « staff » retiré du texte normatif). **Les numéros R1 à R53 et l'architecture des sections sont strictement identiques à la v3.** Les décisions de fond, la retaxonomie et la table de correspondance sont documentées sur la [page v3](reglement-trois.md).
 
 **Convention d'entretien** (à conserver) : tant que le règlement n'est pas adopté, toute insertion se fait par renumérotation continue, un brouillon n'ayant pas de citations à protéger. À l'adoption, les numéros deviennent définitifs : une nouvelle règle s'insère alors sous un numéro suffixé de la règle qui la précède (après R8 : R8-2, puis R8-3...), une règle supprimée est marquée abrogée, et aucun numéro n'est jamais réutilisé ni renuméroté. Toute règle respecte le cadre : **une norme par règle, indicatif présent, verdict explicite, termes du lexique, registre impersonnel, aucune phrase sans effet**.
