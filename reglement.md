@@ -1,329 +1,159 @@
 ---
 description: >-
-  Règlement Général​  Tous les points énumérés ci-dessous sont considérés comme
-  lus et acceptés par tous les utilisateurs des plateformes de Dynastia. Lors de
-  la connexion sur l'une des plateformes du s
+  Le règlement du serveur Dynastia. La connexion à l'une des plateformes vaut
+  acceptation de l'ensemble des règles ci-dessous.
 ---
 
-# 🔉 Règlement Général​
+# ⚖️ Règlement Général
 
+En cas de doute, la modération répond à toute question. En cas de litige, un ticket sur le [Discord](https://discord.gg/qqBCWgpRDc).
 
+<p align="center"><img src=".gitbook/assets/sep-dynastia.png" alt=""></p>
 
-_Tous les points énumérés ci-dessous sont considérés comme lus et acceptés par tous les utilisateurs des plateformes de_ _<mark style="color:red;">Dynastia</mark>. Lors de la connexion sur l'une des plateformes du serveur, toute transgression du règlement se verra durement réprimandée. S'il advient que l'<mark style="color:red;">Administration de Dynastia</mark> ait envie de modifier ce règlement pour une raison quelconque, elle en a pleinement le droit. De la même manière, l'<mark style="color:red;">Administration</mark> étant propriétaire du serveur, il est de leur droit de sanctionner sans vous fournir de raisons s'ils considèrent bon de vous exclure de la plateforme. Les comptes utilisés pour contourner une sanction peuvent également être sujets à ladite sanction si l'administration le juge nécessaire. (Art.0-1)_
+<h2 align="center"><mark style="color:yellow;">📖 Définitions</mark></h2>
 
-**Une sanction a pour but de faire respecter le règlement selon les erreurs et les antécédents du joueur fautif**. Toute sanction appliquée par un membre de la modération peut être expliquée et justifiée par celui-ci si le joueur coupable le souhaite car celle-ci est mise en place impartialement et respectueusement envers le joueur. Néanmoins, la modération n'est pas tenue de fournir de preuve. _(Art.0-2)_ Vous vous réservez tout de même le droit de contester une sanction vous ayant été appliquée en créant un ticket sur notre [Discord](https://discord.gg/qqBCWgpRDc). _(Art.0-3)_
+Dans tout le règlement, ces termes ont le sens défini ici :
 
+| Terme | Définition |
+| --- | --- |
+| **Ferme** | Construction conçue pour produire une ressource de manière répétable, en réduisant au maximum l'intervention du joueur. |
+| **Cercle proche** | Personnes avec lesquelles un joueur entretient une relation préexistante. Une relation nouée pour l'occasion (par exemple pour obtenir une construction) n'en fait pas partie. La modération l'apprécie sur des éléments antérieurs à la situation examinée : ancienneté des interactions, claims ou projets partagés, historique commun. |
+| **Contributeur** | Joueur ayant réellement participé à la construction d'une ferme. Une participation symbolique ou arrangée pour l'occasion ne crée pas ce statut ; il s'apprécie sur les mêmes éléments antérieurs que le cercle proche. |
+| **PW (warp joueur)** | Point de téléportation public créé par un joueur. |
+| **Design technique public** | Plan de construction librement accessible (tutoriels, vidéos...), qu'aucun joueur ne peut revendiquer comme sa création. |
+| **Équipe** | L'ensemble des membres au service du serveur : modération, développement, Administration. |
+| **Modération** | La partie de l'équipe chargée de faire appliquer le présent règlement. |
+| **Administration** | La direction du serveur, propriétaire de la plateforme. |
 
+<p align="center"><img src=".gitbook/assets/sep-dynastia.png" alt=""></p>
 
-**L'équipe de modération du serveur se tient à votre disposition** sur toutes nos plateformes pour répondre à l'intégralité de vos interrogations, si besoin est. A contrario, tous les autres membres du staff, eux, ne sont pas dans l'obligation de vous répondre. _(Art.0-4)_
+<h2 align="center"><mark style="color:yellow;">1. Principes généraux</mark></h2>
 
+* **R1** · **La connexion à l'une des plateformes de Dynastia vaut acceptation du présent règlement.** L'<mark style="color:red;">Administration</mark> peut le modifier à tout moment. Un compte utilisé pour contourner une sanction s'expose à la même sanction.
+* **R2** · **Le règlement s'applique sur toutes les plateformes de Dynastia** : serveur de jeu, Discord et tout autre canal officiel. Les règles qui n'ont de sens qu'en jeu (triche, PvP, biens, fermes, warps, End) ne concernent que le serveur.
+* **R3** · **Toute sanction est proportionnée** aux faits et aux antécédents du joueur, et ne vise que des faits interdits au moment où ils ont été commis. Le modérateur qui l'applique peut l'expliquer sur demande, sans obligation de divulguer les méthodes de détection.
+* **R4** · **Toute sanction peut être contestée** via un ticket sur le [Discord](https://discord.gg/qqBCWgpRDc) : la contestation est examinée par la modération, au besoin collégialement ou par l'<mark style="color:red;">Administration</mark>.
+* **R5** · **Nul membre de l'équipe ne traite un cas qui l'affecte personnellement** : le cas revient à un autre modérateur ou à l'<mark style="color:red;">Administration</mark>.
+* **R6** · **La modération est l'interlocuteur des joueurs** pour toute question ; en cas de litige avec elle, l'<mark style="color:red;">Administration</mark> est le dernier recours.
+* **R7** · **Mentir à la modération**, dans un ticket ou lors d'un contrôle, est <mark style="color:red;">**interdit**</mark>.
+* **R8** · **Aucun grade ne place au-dessus du règlement**, VIP ou membre de l'équipe : avantages de gameplay mis à part, mêmes règles et même modération pour tous. Les membres de l'équipe jouent sans permission particulière sur le gameplay.
 
+<p align="center"><img src=".gitbook/assets/sep-dynastia.png" alt=""></p>
 
-**Tous les utilisateurs de nos plateformes sont égaux, peu importe leur grade**. Ceux-ci disposent des mêmes droits dans le cadre de ce Règlement et c'est pour cette raison qu'il vous est demandé d'être respectueux les uns envers les autres. Le respect d'autrui est fondamental pour pouvoir profiter de notre serveur dans des conditions idylliques. _(Art.0-5)_
+<h2 align="center"><mark style="color:yellow;">2. Le compte</mark></h2>
 
+* **R9** · **Chaque joueur répond entièrement de son compte**, de sa sécurité comme de ses actes : les piratages ne sont pas couverts, les infractions du compte engagent son propriétaire même lorsqu'un tiers en est l'auteur, et un bannissement n'est pas levé au motif qu'un proche tenait le clavier. Les identifiants ne se communiquent à personne.
+* **R10** · **Utiliser plusieurs comptes** sur le serveur est <mark style="color:red;">**interdit**</mark>, connectés simultanément ou non.
+* **R11** · **Jouer avec un proche du même foyer** est <mark style="color:green;">**autorisé**</mark> à condition d'en prévenir la modération en amont.
 
+<p align="center"><img src=".gitbook/assets/sep-dynastia.png" alt=""></p>
 
-**Si vous rencontrez des problèmes avec la modération de Dynastia ou l'un des membres la constituant**, veuillez vous **référer à l’administration** s'il n'est pas possible de le résoudre autrement. L'équipe du serveur est constituée de bénévoles et ceux-ci ont beaucoup à faire, merci de bien vouloir prendre en compte cela. _(Art.0-6)_
+<h2 align="center"><mark style="color:yellow;">3. Communication</mark></h2>
 
-<p align="center"></p>
+* **R12** · **La langue du serveur est le français.** Les messages restent compréhensibles.
+* **R13** · **Tout contenu portant atteinte à autrui ou inadapté à un public jeune** est <mark style="color:red;">**interdit**</mark> : sexuel, discriminatoire, haineux, violent, injurieux, notamment. La liste est illustrative : c'est le caractère du contenu qui constitue l'infraction.
+* **R14** · **Les débats politiques et les querelles personnelles** sur les canaux publics sont <mark style="color:red;">**interdits**</mark>. Un désaccord ordinaire (négociation, débat de jeu...) n'est pas concerné tant qu'il reste courtois.
+* **R15** · **Menacer une personne** (DDoS, incitation au suicide...) est <mark style="color:red;">**interdit**</mark>.
+* **R16** · **Le spam et le flood** sont <mark style="color:red;">**interdits**</mark> : tout message dont le seul effet est de gêner les autres. Comptent notamment comme du spam : les majuscules rendant le chat illisible, et la publicité pour des PW au-delà d'un message par heure **par joueur**, tous PW confondus ; un même PW ne peut par ailleurs être annoncé qu'une fois par heure, tous annonceurs confondus.
+* **R17** · **Divulguer une conversation privée** sans l'accord de tous ses participants est <mark style="color:red;">**interdit**</mark>, tout comme publier des informations privées.
+* **R18** · **Les moyens de communication du serveur ne sont pas confidentiels** (chat, /msg, /mail...) : pour la sécurité des joueurs et le respect du règlement, ils peuvent faire l'objet de contrôles par l'équipe. Ce qui est consulté n'est jamais partagé en dehors de l'équipe et du joueur concerné.
+* **R19** · **Promouvoir un autre serveur ou une autre communauté** (Minecraft, Discord ou autre) est <mark style="color:red;">**interdit**</mark>, sous toute forme (lien, IP, nom, image...). Ne sont pas concernées : les annonces relatives à Dynastia (événements de joueurs, recrutements...), et l'invitation personnelle de proches dans un groupe privé : inviter ses amis n'est pas de la promotion.
 
-<p align="center"><br><img src=".gitbook/assets/sep 2.png" alt=""></p>
+<p align="center"><img src=".gitbook/assets/sep-dynastia.png" alt=""></p>
 
-<h2 align="center"><mark style="color:yellow;">Sécurité et Partage des comptes</mark></h2>
+<h2 align="center"><mark style="color:yellow;">4. Identité et apparence</mark></h2>
 
+* **R20** · **Se faire passer pour un autre**, joueur ou membre de l'équipe, par pseudonyme, avatar ou comportement, est <mark style="color:red;">**interdit**</mark>.
+* **R21** · **Skins, capes et pseudonymes suivent les critères de contenu des messages** (R13). Un compte en infraction est banni jusqu'au changement de l'élément concerné ; le débannissement se réclame une fois ce changement effectué.
+* **R22** · **Les constructions suivent les mêmes critères.** Une construction en infraction fait l'objet d'une demande de modification sous délai ; à défaut, destruction par l'équipe et sanction.
 
+<p align="center"><img src=".gitbook/assets/sep-dynastia.png" alt=""></p>
 
-**Vous êtes totalement responsable de la sécurité de votre compte Minecraft ainsi que celle de vos autres comptes sur nos plateformes**. Nous nous déchargeons de toute responsabilité si ces derniers venaient à être piratés. _(Art.1-1)_ Si votre compte est utilisé pour enfreindre le règlement, il en subira les conséquences. Veillez donc à ne jamais communiquer vos identifiants à qui que ce soit, un mot de passe est personnel et ne doit jamais être divulgué. _(Art.1-2)_
+<h2 align="center"><mark style="color:yellow;">5. Triche et abus techniques</mark></h2>
 
-Nous n'autorisons pas l'utilisation de plusieurs comptes sur le serveur, connectés ou non simultanément. _(Art.1-3)_ Si vous jouez avec un proche dans le même foyer, veillez à prévenir l'équipe de modération en amont.
+* **R23** · **Tout mod qui révèle des informations que le jeu cache, ou qui automatise des actions du joueur**, est <mark style="color:red;">**interdit**</mark> ; les mods de confort, purement visuels ou d'optimisation sont libres. Ce double critère fait foi pour tout mod, y compris hors liste ; en cas de doute, consulter la modération avant utilisation. Sont notamment <mark style="color:green;">**autorisés**</mark> :
+  * les mods de carte, **sans visibilité sur les sous-sols et les minerais** ;
+  * Litematica, **aide visuelle uniquement** ;
+  * les mods de tri et de gestion d'inventaire, **tant qu'une action du joueur déclenche chaque opération** ;
+  * les mods purement visuels ou d'optimisation (Optifine, Sodium...), **sans avantage de vision souterraine ou dans la lave**.
+* **R24** · **Tout dispositif externe au jeu générant des clics** (logiciel ou matériel) est <mark style="color:red;">**interdit**</mark>. Les fonctionnalités natives de Minecraft sont autorisées ; le joueur reste néanmoins présent derrière son écran et répond à tout contrôle de la modération.
+* **R25** · **Exploiter volontairement un bug** est <mark style="color:red;">**interdit**</mark>. Tout bug rencontré se signale via un ticket sur le [Discord](https://discord.gg/qqBCWgpRDc).
+* **R26** · **Dégrader volontairement les performances du serveur** est <mark style="color:red;">**interdit**</mark> : machines à lag, accumulations d'entités, systèmes conçus pour surcharger, qu'une mécanique de jeu soit détournée ou non.
 
-Il est important de noter que nous ne prenons pas en compte le partage de comptes Minecraft utilisés sur Dynastia. Votre compte est sous votre entière responsabilité. S'il venait à être interdit de se connecter à cause de l'un de vos proches, celui-ci le restera sans exceptions. _(Art.1-3)_
+<p align="center"><img src=".gitbook/assets/sep-dynastia.png" alt=""></p>
 
+<h2 align="center"><mark style="color:yellow;">6. Respect des joueurs et de leurs biens</mark></h2>
 
+* **R27** · **Toute forme de PvP** est <mark style="color:red;">**interdite**</mark>, y compris tout moyen indirect d'infliger des dégâts (monstres, lave ou toute autre chose).
+* **R28** · **Enfermer ou piéger un joueur contre son gré** est <mark style="color:red;">**interdit**</mark>, avec ou sans dégâts.
+* **R29** · **Détruire ou dégrader la construction d'un autre joueur, ou tuer, voler et déplacer ses entités apprivoisées ou détenues** (animaux, villageois...), est <mark style="color:red;">**interdit**</mark>, en zone protégée ou non. Reconstruire peut atténuer la sanction, jamais l'annuler. Dynastia enregistre les actions des joueurs.
+* **R30** · **Garder un objet perdu, jeté ou posé par un autre joueur** est <mark style="color:red;">**interdit**</mark> : si son propriétaire est identifiable, l'objet lui revient.
+* **R31** · **L'EnderDragon appartient à ceux qui l'ont fait apparaître**, de son invocation à sa mort : contribuer au combat ou récolter les gains sans leur accord est <mark style="color:red;">**interdit**</mark>. Un dragon en vie que plus personne ne combat est libre.
+* **R32** · **Copier, reproduire ou revendre une création originale** (build, map-art...), y compris en la capturant sous forme de schematic, sans l'accord préalable de son auteur est <mark style="color:red;">**interdit**</mark> ; une preuve de l'accord se conserve. Un design technique non public reste la création de son auteur. Les designs techniques publics (fermes, trieurs, systèmes issus de tutoriels) ne sont la création de personne : les reproduire est libre.
+* **R33** · **Construire ou définir une résidence dans ou près de la construction d'un autre joueur** sans son accord explicite préalable est <mark style="color:red;">**interdit**</mark> : les mondes sont vastes, s'installer ailleurs est toujours possible. Une preuve de l'accord se conserve.
 
+<p align="center"><img src=".gitbook/assets/sep-dynastia.png" alt=""></p>
 
+<h2 align="center"><mark style="color:yellow;">7. Économie et échanges</mark></h2>
 
-<p align="center"><img src=".gitbook/assets/sep 2.png" alt=""></p>
+* **R34** · **Contourner les limites de vente de l'AdminShop** est <mark style="color:red;">**interdit**</mark>, notamment par échanges intermédiaires (ex. : échanger un shulker de citrouilles contre du bambou pour vendre au-delà de la limite). Dans toute vente entre joueurs, HDV compris, les prix pratiqués sont supérieurs au prix auquel l'AdminShop **achète** la ressource.
+* **R35** · **Échanger quoi que ce soit du serveur contre une contrepartie extérieure** est <mark style="color:red;">**interdit**</mark>, à la vente comme à l'achat : argent réel, monnaies ou biens d'autres plateformes, services hors serveur. Les articles de la boutique ne se vendent que sur la boutique officielle.
+* **R36** · **Obtenir un bien, un paiement ou un service par tromperie** sur ce qui est promis en échange est <mark style="color:red;">**interdit**</mark> : un échange convenu s'honore. La modération tranche sur preuves.
+* **R37** · **Le don de têtes décoratives (/hdb) ne se substitue pas à l'achat de la commande** : le commerce et les dons répétés vers un joueur n'y ayant pas accès sont <mark style="color:red;">**interdits**</mark> ; le don occasionnel, notamment aux joueurs aidant le donateur sur une construction, est <mark style="color:green;">**toléré**</mark>. La modération apprécie au cas par cas selon ce principe.
+* **R38** · **Louer un objet légendaire** (caisse légendaire) est <mark style="color:red;">**interdit**</mark> ; le vendre est <mark style="color:green;">**autorisé**</mark>.
+* **R39** · **Le propriétaire d'un objet légendaire reste seul responsable** de sa casse ou de sa perte, même prêté gratuitement.
 
-<h2 align="center"><mark style="color:yellow;">La publicité</mark></h2>
+<p align="center"><img src=".gitbook/assets/sep-dynastia.png" alt=""></p>
 
+<h2 align="center"><mark style="color:yellow;">8. Boutique</mark></h2>
 
+* **R40** · **Les achats en boutique sont définitifs** : aucun remboursement.
+* **R41** · **En cas d'erreur de pseudonyme lors d'un achat**, l'<mark style="color:red;">Administration</mark> restaure l'achat sur le pseudonyme voulu, contre preuve d'achat de moins de 48 heures.
+* **R42** · **Tout achat par un joueur mineur requiert l'autorisation de son tuteur légal.**
 
-**La publicité pour d'autres serveurs** sur le Discord ou le serveur, débouchera sur une sanction. Cela inclut le partage de liens ou d'IPs associés à ces serveurs Minecraft, dans tous les systèmes de communication mis à votre disposition. _(Art.2-1)_<br>
+<p align="center"><img src=".gitbook/assets/sep-dynastia.png" alt=""></p>
 
-Toutes autres formes d'annonces telles que des événements privés ou des invitations d’équipe relatives à Dynastia sont permises sur le serveur. _(Art.2-2)​_
+<h2 align="center"><mark style="color:yellow;">9. Compensations et transferts de compte</mark></h2>
 
+* **R43** · **Les pertes en jeu** ne sont compensées qu'en cas de bug imputable au serveur, via ticket ; dans tous les autres cas, la protection des biens incombe à leur propriétaire.
+* **R44** · **Transferts de compte** : l'<mark style="color:red;">Administration</mark> peut migrer les données d'un compte vers un autre **uniquement si les deux appartiennent à la même personne**, dans les deux cas ci-dessous. Aucun transfert vers le compte d'une autre personne, même sur demande.
+* **R45** · **En cas de changement de pseudonyme**, le serveur conserve tout automatiquement, sauf les dollars ($), transférés par l'<mark style="color:red;">Administration</mark> via un ticket précisant l'ancien et le nouveau pseudonyme.
+* **R46** · **En cas de compte perdu**, l'<mark style="color:red;">Administration</mark> peut migrer vers le nouveau compte du même joueur, sur ticket, uniquement les éléments ci-dessous. Tout le reste est définitivement perdu.
 
+| ✅ Transféré | ❌ Perdu |
+| --- | --- |
+| Inventaire et Ender Chest | Statistiques d'avancement vers le prestige suivant (kills, minage, crafts, objets...) |
+| Dollars ($) | Crédits |
+| Claims et les shops qu'ils contiennent | Votes et récompenses en attente |
+| Niveau de prestige atteint et rang VIP | Tout élément hors de la colonne « Transféré » |
+| Warps joueur | |
 
+_Ce périmètre est une limitation technique : au-delà de cette liste, une migration fiable n'est pas réalisable sans risque pour le serveur._
 
+<p align="center"><img src=".gitbook/assets/sep-dynastia.png" alt=""></p>
 
-<p align="center"><img src=".gitbook/assets/sep 2.png" alt=""></p>
+<h2 align="center"><mark style="color:yellow;">10. Fermes</mark></h2>
 
-<h2 align="center"><mark style="color:yellow;">Communiquer libre, sans abus</mark></h2>
+* **R47** · **Utiliser la ferme d'un autre joueur** est <mark style="color:red;">**interdit**</mark>, sauf pour ses contributeurs et le cercle proche de son propriétaire, avec son autorisation. Les deux conditions sont cumulatives : hors contributeurs et cercle proche, l'accès reste interdit même si le propriétaire veut l'accorder.
+* **R48** · **Construire tout ou partie d'une ferme en service pour un autre joueur** est <mark style="color:red;">**interdit**</mark> : job ou offre ouverte, hors du cercle du propriétaire, gratuit ou payé, technique ou non.
+* **R49** · **L'<mark style="color:red;">Administration</mark> peut détruire une ferme** qui nuit à l'expérience de jeu des autres, si son propriétaire refuse les modifications demandées.
+* **R50** · **Louer une ferme ou vendre son accès** est <mark style="color:red;">**interdit**</mark>.
 
+Le filtre de R48, en schéma :
 
+<p align="center"><img src=".gitbook/assets/construction-autrui-v4.png" alt="Schéma décisionnel : construire pour autrui, autorisé ou interdit" width="520"></p>
 
-De nombreux moyens de communication sont à disposition des joueurs afin de leur offrir une expérience de jeu optimale sur notre serveur. Les messages doivent être écrits de manière compréhensible tout en respectant la langue de la plate-forme. _(Art.3-1)_
+* <mark style="color:green;">**Autorisé**</mark> : tout ce qui n'est pas une ferme (trieur, porte à pistons, éclairage, mini-jeu, décoration...), payant ou non.
+* <mark style="color:red;">**Interdit**</mark> : une ferme construite en service pour autrui, rémunéré ou non, technique ou non.
+* <mark style="color:green;">**Autorisé**</mark> : la collaboration au sein du cercle (contributeurs et cercle proche du propriétaire, le même cercle que R47), l'aide ponctuelle et les conseils.
 
+<p align="center"><img src=".gitbook/assets/sep-dynastia.png" alt=""></p>
 
+<h2 align="center"><mark style="color:yellow;">11. Warps joueurs (PW)</mark></h2>
 
-**Dialoguez calmement et respectueusement. Pensez aux plus jeunes !**
+* **R51** · **Un PW se trouve à 10 chunks minimum de toute ferme, y compris celle de son créateur**, pour qu'elle ne soit pas chargée par les visiteurs ; exception possible pour les fermes de taille modeste sans vocation de revente, à l'appréciation de la modération. En cas de conflit, l'antériorité prime : celui qui s'installe en second se met en conformité.
+* **R52** · **Un PW est un point d'intérêt pour tous** : plusieurs PW autour d'une même zone quand un seul suffit encombrent la liste pour rien, et un PW ne sert pas de résidence supplémentaire. Les PW sans intérêt propre sont supprimés.
 
-Il va de soi qu'il est formellement exclu d'écrire des messages ou envoyer des images à caractère sexuel, discriminatoire, violent, xénophobe, haineux, grossier, injurieux, raciste ou homophobe. _(Art.3-2)_ Nous vous demanderons d'éviter de rendre public tout débat politique ou conflit, dans le cas contraire une punition vous sera attribuée. Et de ce fait, il semble indispensable d'effectuer un rappel du respect d'autrui ici. _(Art.3-3)_
+<p align="center"><img src=".gitbook/assets/sep-dynastia.png" alt=""></p>
 
-
-
-**Toute menace** (DDoS, suicide, etc) contre une personne est prohibée sur le serveur. _(Art. 3-4)_
-
-
-
-**Le spam, le flood et les majuscules abusives sont interdits.**
-
-Il est  interdit de poster une série de messages dénués de sens et inutiles, ayant pour seul effet de gêner les autres joueurs. _(Art.3-5)_ Les messages contenant un nombre trop important de majuscules allant jusqu'à rendre le chat illisible sont considérés comme du spam. _(Art.3-6)_.
-
-Aussi, la publicité pour un PW sur le chat est limité à un message par heure. Si vous venez à ne pas respecter cette règle, cela sera considéré comme du spam et sanctionné comme tel. _(Art.3-7)_
-
-
-
-**Les membres de l'équipe doivent être respectés au même titre que les autres**. Les membres du staff font tout leur possible pour vous permettre de passer de bons moments sur le serveur et jouent en tant que joueurs avec vous sans permission supplémentaire sur le gameplay. _(Art.3-8)_
-
-
-
-**Une conversation à caractère personnelle ne doit être divulguée sans l'accord de tous les membres la constituant.**
-
-Cela semble évident mais de nombreuses personnes s'en servent pour unique but de se venger ou de se moquer tandis que dans certaines situations, cela peut porter atteinte à la vie privée d'un individu. Les messages comportant des informations privées sont prohibés. _(Art.3-9)_
-
-
-
-**Chaque membre est le seul et unique responsable du contenu qu'il publie**, Dynastia ne pourra pas en être tenu pour responsable. (Art.3-10)
-
-
-
-
-
-<p align="center"><img src=".gitbook/assets/sep 2.png" alt=""></p>
-
-<h2 align="center"><mark style="color:yellow;">Usurpation d'identité</mark></h2>
-
-
-
-**L’usurpation d’identité est formellement interdite,** qu’il s’agisse d’un joueur ou, a fortiori, d’un Modérateur ou d’un membre du staff de Dynastia.&#x20;
-
-Toute tentative par pseudonyme, avatar ou comportement visant à **se faire passer pour un autre** ou un membre de l’équipe sera sanctionnée sévèrement. _(Art.4-1)_
-
-
-
-
-
-<p align="center"><img src=".gitbook/assets/sep 2.png" alt=""></p>
-
-<h2 align="center"><mark style="color:yellow;">Skin, Capes et Pseudonymes</mark></h2>
-
-
-
-**Avoir un skin, une cape ou un pseudonyme vulgaire, sexuellement explicite, discriminatoire, violent, xénophobe, haineux, grossier, injurieux, raciste, homophobe ou comportant des informations privées** n'est pas permis sur Dynastia. Le port de skins incorrects, l'utilisation de pseudonymes déplacés ainsi que le port de capes grossières sont bannis définitivement de nos plateformes avec possibilité de réclamer un dé-bannissement lors du changement de ceux-ci. _(Art.5-1)_<br>
-
-**Il en va de même pour les constructions**. _(Art.5-2)​_
-
-
-
-
-
-<p align="center"><img src=".gitbook/assets/sep 2.png" alt=""></p>
-
-<h2 align="center"><mark style="color:yellow;">Utilisation et Modification du Client​</mark></h2>
-
-
-
-
-
-**Les modifications de vos clients susceptibles de vous procurer un quelconque avantage face aux autres membres sont interdites et bannies de Dynastia**. _(Art. 6-1)_
-
-
-
-**Certains mods restent néanmoins&#x20;**<mark style="color:green;">**autorisés**</mark>:​
-
-* Les mods de maps en tout genre, **à condition qu'ils n'apportent pas de visibilité sur les sous-terrains et les minerais**.
-* **L’aide visuelle uniquement**, de Litematica.
-* Les mods d’inventaire **non automatisés**.
-* Les mods **purement visuels ou d'optimisation** (Optifine,Sodium…) , **à condition qu'ils ne donnent pas un avantage concernant la vision souterraine ou dans la lave**.
-
-**L’utilisation de modifications ne faisant pas partie de la liste ci-dessus peut faire l’objet de sanctions. Vous les utilisez donc à vos risques et périls. En cas de doute, demandez à un membre de la modération.**
-
-
-
-L’utilisation d’un **autoclick ou toute autre façon détournée permettant de cliquer sans action manuelle de votre part** est interdit. _(Art. 6-2)_<br>
-
-**En cas d'erreur de la part d'un Modérateur**, la procédure consiste à effectuer une réclamation en créant un ticket sur le Discord tout en apportant des preuves tangibles. _(Art. 6-3)_
-
-
-
-
-
-<p align="center"><img src=".gitbook/assets/sep 2.png" alt=""></p>
-
-<h2 align="center"><mark style="color:yellow;">Exploitation de bug​ et Abus du système</mark></h2>
-
-
-
-Certaines fonctionnalités du serveur peuvent comporter des bugs. Si vous venez à rencontrer un problème, vous devez créer un ticket en vous rendant dans la section appropriée sur le [Discord](https://discord.gg/qqBCWgpRDc).
-
-
-
-Il est donc strictement interdit d'**exploiter volontairement** des bugs sur le serveur de jeu, autrement une sanction vous sera attribuée. _(Art.7-1)_
-
-
-
-Aussi, il est interdit de dépasser la limite du shop admin en échangeant ou en vendant des ressources (ex. : shulker de citrouilles contre bambou) afin d’obtenir plus que le montant autorisé avec une seule ressource. En cas de vente entre joueurs, vos prix doivent être supérieurs à ceux du shop admin. _(Art.7-2)_
-
-
-
-<p align="center"><img src=".gitbook/assets/sep 2.png" alt=""></p>
-
-<h2 align="center"><mark style="color:yellow;">Achat et Ventes</mark></h2>
-
-
-
-La boutique du serveur permet d'obtenir différents grades, objets, clés ou monnaies. Les achats nous permettront de maintenir le serveur dans des bonnes conditions sur le long terme, dans certains cas ils peuvent s'avérer nécessaires pour améliorer le serveur en ajoutant et en étoffant certaines fonctionnalités., mais cela n'est en aucun cas obligatoire. _(Art.11-1)_
-
-
-
-**Aucun achat n'est remboursé**. Les achats sont considérés comme définitifs et l'acheteur est responsable de son erreur dans le cas présent. _(Art.11-2)_ Les achats en jeu ne sont remboursés qu'en cas de perte ou de bug provenant du serveur. La procédure consiste à créer un ticket sur le [Discord](https://discord.gg/qqBCWgpRDc). _(Art.11-3)_ En cas de perte de données, il est donc en la responsabilité du joueur d'effectuer les démarches nécessaires. _(Art.11-4)_<br>
-
-Si vous veniez par mégarde à vous tromper de pseudonyme lors de vos achats sur notre boutique, **l’administration s’engage à restaurer** ceux-ci sur le pseudonyme initialement voulu à condition que vous fournissiez une preuve d'achat de moins de 48H. _(Art.11-5)_<br>
-
-**Les mineurs doivent avoir l'autorisation de leur tuteur légal**. Dynastia n'est en aucun cas responsable des actes commis par les mineurs sans l'autorisation de leur tuteur légal. Veuillez consulter votre tuteur avant d'effectuer un achat sur la boutique du serveur. _(Art.11-6)_
-
-
-
-**Aucune vente provenant d’objet ou tâche quelconque sur Dynastia n'est autorisée avec de la monnaie réelle**. Il vous est tout à fait plausible de faire un cadeau à vos amis mais aucune revente ne sera tolérée. La vente de tout article vendu par Dynastia est proscrite en dehors de la Boutique officielle du site. _(Art.11-7)_<br>
-
-**Aucun transfert de données** (crédits, objets, grades...) ne peut être effectué d'un compte Minecraft à un autre. _(Art.11-8)_
-
-
-
-Le transfert de dollars ($) **est pris en charge par l’administration uniquement suite à un changement de pseudonyme**. La procédure consiste à créer un ticket sur le [Discord](https://discord.gg/qqBCWgpRDc) tout en précisant l’ancien et le nouveau pseudonyme. _(Art.11-9)_
-
-
-
-
-
-<p align="center"><img src=".gitbook/assets/sep 2.png" alt=""></p>
-
-<h2 align="center"><mark style="color:yellow;">Vols et Griefs</mark></h2>
-
-
-
-Il peut arriver que vous trouviez **des constructions appartenant à d’autres joueurs qui ne soient pas protégées** par le système de protection. Si vous êtes amenés à **détruire l’une de celles-ci sans reconstruire, vous serez sanctionné**. _(Art.13-1)_
-
-Dynastia possède un outils d’analyse et d’enregistrement des actions qui permettront de retrouver les joueurs fautifs, sans aucun doute possible.
-
-
-
-**Il en va de même pour les vols**. Si un joueur jette ou pose un objet, vous êtes tenus de lui rendre.  _(Art.13-2)_<br>
-
-**Le vol, la revente ou l’appropriation de créations protégées par des droits d’auteur**, qu’il s’agisse de builds, de map-art, de farms ou de tout autre contenu Minecraft, est formellement interdit. _(Art.13-3)_ Chaque création réalisée par un joueur est **unique et reste sa propriété** : elle ne peut **en aucun cas être copiée, reproduite, réutilisée ou revendue** par un autre joueur sans **son accord préalable**. Toute reproduction, modification ou redistribution de contenus dont vous n’êtes pas l’auteur, ou pour lesquels vous ne disposez pas d’une autorisation explicite, entraînera des sanctions. Veillez à toujours respecter le travail des autres. _(Art.13-4)_
-
-Aussi, lorsqu’un joueur est déjà présent en train de tuer un EnderDragon sur l'île principale de l’End, **il est interdit de contribuer à sa mort et de récolter les gains sans l’accord du joueur qui l’a fait apparaître**. Vous êtes prié d’attendre que le joueur précédent ait terminé sa session de farm pour prendre sa place. _(Art.13-5)_
-
-
-
-
-
-<p align="center"><img src=".gitbook/assets/sep 2.png" alt=""></p>
-
-<h2 align="center"><mark style="color:yellow;">Player Versus Player</mark></h2>
-
-
-
-Dynastia est un serveur qui **ne tolère aucune forme de PvP entre les joueurs**. Il est donc strictement interdit de **trouver une quelconque manière indirecte d’infliger des dégâts aux autres joueurs** (par les monstres, la lave ou toute autre chose). _(Art.14)_
-
-
-
-
-
-<p align="center"><img src=".gitbook/assets/sep 2.png" alt=""></p>
-
-<h2 align="center"><mark style="color:yellow;">Fermes, Warps et Résidences</mark></h2>
-
-
-
-Sur Dynastia, **l’accès à une ferme est réservé aux joueurs ayant contribué à sa construction** ou faisant partie de votre cercle proche. _(Art.15-1)_
-
-
-
-Utiliser la ferme d’un joueur **sans autorisation et validation préalable** est interdit. _(Art.15-2)_
-
-
-
-**Construire une ferme ou un système pour un autre joueur** suit le schéma ci-dessous. Que ce soit gratuitement ou contre paiement, le filtre appliqué reste le même. _(Art.15-3)_
-
-<figure><img src=".gitbook/assets/vente-construction.png" alt="Schéma décisionnel : construire pour autrui, autorisé ou interdit"><figcaption></figcaption></figure>
-
-En résumé :
-
-* Une construction qui **ne produit aucune ressource** (trieur, transformateur, porte à pistons, éclairage, mini-jeu, décoration...) est **autorisée**, payante ou non, car elle n'a aucun impact sur l'économie.
-* Une construction à **production AFK renouvelable**, qu'il s'agisse d'une ferme lucrative ou de tout ce qui produit la matière première d'une ferme lucrative, est **interdite** dès lors qu'elle est **proposée comme un service** (offre ouverte à tous) **et** qu'elle **demande une réelle technicité**. On ne vend pas un savoir-faire, cela priverait l'acheteur de sa propre progression.
-* Restent **autorisées**, même sur une ferme lucrative, l'**entraide au sein du cercle proche** (que l'on ne veut ni ne peut empêcher) ainsi que la simple **main-d'œuvre**, lorsque c'est l'**acheteur qui conçoit** et le vendeur qui se contente d'exécuter. Le savoir reste alors chez l'acheteur.
-
-
-
-L’<mark style="color:red;">Administration</mark> se réserve un droit de destruction si elle décide que **votre ferme nuit à l’expérience de jeu des autres joueurs, et que vous refusez d’effectuer les modifications** que l’on pourrait être amené à vous demander d’apporter. _(Art.15-4)_
-
-
-
-**La location de ferme est également prohibée**.  _(Art.15-5)_
-
-
-
-Les **warps joueurs définis dans une ferme** ne sont donc pas autorisés et susceptibles d’être supprimés et sanctionnés par l’équipe de modération.  _(Art.15-6)_
-
-En effet, une distance minimale entre les limites d’un PW et une ferme doit être de 10 chunks pour éviter qu’elle soit chargée par un joueur venant visiter le PW. Une exception est possible pour les petites fermes n’ayant pas pour objectif de revente (active ou passive) à l’AdminShop. _(Art.15-7)_
-
-
-
-Également, un warp joueur doit être un point d’intérêt pour tous les joueurs. Il est **interdit d’utiliser cette fonctionnalité pour s’en servir comme augmentation du nombre de points de résidences personnelles**. _(Art.15-8)_
-
-
-
-Aussi, les PW **trop proches** les uns des autres seront supprimés pour éviter d’**encombrer le menu**. _(Art.15-9)_
-
-
-
-Enfin, il est strictement interdit de définir une résidence dans ou aux alentours d'une construction d'un autre joueur sans un accord écrit de sa part au préalable. Veillez à prendre une preuve de cet accord pour le prouver si nécessaire. _(Art.15-10)_
-
-
-
-
-
-
-
-
-
-<p align="center"><img src=".gitbook/assets/sep 2.png" alt=""></p>
-
-<h2 align="center"><mark style="color:yellow;">Têtes décoratives et objets légendaires</mark></h2>
-
-
-
-<br>
-
-Vous avez la possibilité d’utiliser des têtes décoratives via la commande /hdb (achetable sur la boutique en ligne) pour approfondir vos constructions.&#x20;
-
-
-
-Cependant, **le commerce ou les dons réguliers de ces têtes envers un joueur n’ayant pas accès à cette commande** est interdit. _(Art.16-1)_
-
-Il est toléré de donner de temps à autre ces têtes uniquement aux joueurs disposants de la commande ou bien à l’équipe vous aidant à réaliser une construction précise. _(Art.16-1')_
-
-
-
-Les objets légendaires pouvant être obtenus uniquement par le biais de la caisse légendaire **peuvent être vendus mais ne peuvent pas être loués** à d’autres joueurs. _(Art.16-2)_
-
-\
-Également, **seul le joueur propriétaire d'un objet légendaire est responsable de la casse ou de la perte de celui-ci** même lors d’un prêt non rémunéré. _(Art.16-3)_
-
-
-
-<mark style="color:red;">**► Contourner le Règlement Officiel via des sous-entendus (etc.) est strictement interdit. (Art.17)**</mark>​
-
+<mark style="color:red;">**► R53 · Contourner l'esprit du règlement, par quelque moyen que ce soit, est strictement interdit.**</mark>
