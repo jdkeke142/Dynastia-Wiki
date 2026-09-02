@@ -17,3 +17,4 @@
 * [🎲 Téléportation aléatoire](fonctionnalites/rtp.md)
 * [⌨️ Zone AFK](fonctionnalites/zone-afk.md)
 * [🌌 Ender](fonctionnalites/ender.md)
+* [🎨 Mettre en forme le chat](fonctionnalites/formatage-chat.md)
