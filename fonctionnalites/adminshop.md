@@ -36,6 +36,8 @@ Le SellHopper est un bloc prenant la forme d'un entonnoir. Il te permet d'automa
 Un SellHopper coûte 25,000$ à l'achat.
 {% endhint %}
 
+Tu peux poser au maximum <mark style="color:red;">15 SellHoppers</mark> dans une même zone de <mark style="color:red;">384x384x384 blocs</mark>.
+
 En entrée, il agit comme un entonnoir régulier. C'est à dire tu peux directement lier un conteneur quelconque au SellHopper. Tu peux également jeter les items sur le SellHopper, c'est d'ailleurs la manière la plus rapide de vendre, car elle n'est pas limitée par la vitesse de transit des items à travers les conteneurs.&#x20;
 
 Lorsque l'item entre dans le SellHopper, si les conditions suivantes sont remplies:

@@ -16,7 +16,7 @@ Le dollar s'obtient  des manières suivantes :
 
 * En vendant à l'[AdminShop](adminshop.md).
 * En pratiquant un [métier](metiers.md).
-* Un vendant à l'[Hôtel des Ventes](hdv.md).
+* En vendant à l'[Hôtel des Ventes](hdv.md).
 * En vendant dans tes shops joueur.
 * En votant pour le serveur.
 * En restant dans la [zone AFK](zone-afk.md).

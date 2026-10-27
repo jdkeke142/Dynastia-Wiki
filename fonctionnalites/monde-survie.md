@@ -17,4 +17,4 @@ Les caractéristiques de ce monde sont les suivantes :
 
 ### <mark style="color:yellow;">Accessibilité</mark>
 
-Le moyen le plus simple d'accéder à ce monde est d'utiliser la [téléportation aléatoire](rtp.md), via la commande <mark style="color:yellow;">`/rtp world world_survival`</mark>.
+Le moyen le plus simple d'accéder à ce monde est d'utiliser la [téléportation aléatoire](rtp.md), via la commande <mark style="color:yellow;">`/rtp`</mark>, en choisissant l'Overworld dans la fenêtre qui s'ouvre.
