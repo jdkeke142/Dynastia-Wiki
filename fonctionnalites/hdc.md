@@ -10,7 +10,7 @@ C'est l'inverse de l'[Hôtel des Ventes](hdv.md) : ici, tu ne vends pas ce que t
 
 <a href="#creer-un-contrat" id="creer-un-contrat"></a>
 
-Depuis le tableau, clique sur le bouton de création. Tu devras définir :
+Depuis le tableau, clique sur « Créer un contrat ». Tu devras définir :
 
 * **L'objet demandé** — glisse un exemplaire dans l'emplacement prévu. L'objet doit être intact, non renommé et non rempli (pas de shulker déjà pleine, par exemple).
 * **L'unité** — soit **à l'item** (chaque objet compte pour 1), soit **à la shulker** (une shulker entièrement remplie de cet objet compte pour 1).
@@ -19,12 +19,12 @@ Depuis le tableau, clique sur le bouton de création. Tu devras définir :
 * **La durée** — de <mark style="color:red;">1 à 14 jours</mark>.
 
 {% hint style="warning" %}
-Une taxe de <mark style="color:red;">5%</mark> s'ajoute au prix total au moment de la publication. Cette taxe n'est jamais remboursée, même si tu annules le contrat.
+Une taxe de <mark style="color:red;">15%</mark> s'ajoute au prix total au moment de la publication. Cette taxe n'est jamais remboursée, même si tu annules le contrat.
 {% endhint %}
 
-L'intégralité du prix (+ taxe) est prélevée à la publication : l'argent est mis de côté pour payer les livreurs.
+Une fois tout réglé, clique sur « Publier le contrat ». L'intégralité du prix (+ taxe) est prélevée à ce moment-là : l'argent est mis de côté pour payer les livreurs.
 
-Tu peux avoir jusqu'à <mark style="color:red;">5 contrats</mark> ouverts en même temps.
+Tu peux avoir jusqu'à <mark style="color:red;">2 contrats</mark> ouverts en même temps.
 
 ***
 
@@ -39,7 +39,7 @@ Depuis le tableau, clique sur un contrat ouvert puis sur « Livrer ». Une fenê
 
 Un bouton « Tout déposer » récupère automatiquement les objets compatibles depuis ton inventaire.
 
-Clique sur « Livrer et être payé » pour valider. **Le paiement est immédiat** : tu reçois ta part directement, calculée proportionnellement au nombre d'unités livrées.
+Clique sur « Livrer » pour valider. **Le paiement est immédiat** : tu reçois ta part directement, calculée proportionnellement au nombre d'unités livrées.
 
 {% hint style="info" %}
 Tu ne peux pas livrer ton propre contrat. Les adjoints non plus.
@@ -70,10 +70,10 @@ Après expiration ou annulation, tu as <mark style="color:red;">15 jours</mark> 
 
 <a href="#gerer-tes-contrats" id="gerer-tes-contrats"></a>
 
-Le bouton « Mes contrats » du tableau affiche tous tes contrats, filtrables par état. Pour chacun, tu peux :
+Le bouton « Mes contrats » du tableau affiche tous tes contrats, filtrables par état. Chacun indique l'argent qu'il reste à verser aux livreurs, ce qu'il te reste à retirer et, s'il est terminé, la date limite pour le faire. Pour chacun, tu peux :
 
 * **Retirer les livraisons** — récupérer les objets déjà livrés dans ton inventaire. Pour les contrats à la shulker, des shulkers vides sont prises depuis ta réserve (voir plus bas).
-* **Voir les livreurs** — qui a livré combien, et ce qu'ils ont gagné.
+* **Voir les livreurs** — le classement de ceux qui t'ont livré, du plus gros au plus petit, avec pour chacun la quantité livrée, sa part de la commande, ce qu'il a gagné et sa dernière livraison.
 * **Gérer tes adjoints** — voir la section suivante.
 * **Copier le contrat** — créer un nouveau contrat identique (même objet, quantité et prix).
 * **Annuler** — stoppe les livraisons. L'argent restant t'est rendu, mais pas la taxe.
@@ -99,6 +99,8 @@ Les contrats dont tu es adjoint apparaissent dans la section « Contrats confié
 
 Accessible depuis le tableau, la réserve est un espace de stockage personnel pour tes **shulkers vides**. Quand tu retires les livraisons d'un contrat à la shulker, les objets sont automatiquement rangés dans des shulkers prises depuis ta réserve.
 
+Selon ton grade, ta réserve peut compter plusieurs pages.
+
 Si ta réserve est vide, tu ne pourras pas retirer les livraisons d'un contrat à la shulker — pense à la remplir à l'avance.
 
 ***
@@ -116,7 +118,7 @@ Le tableau principal affiche tous les contrats ouverts. Tu peux les trier par :
 
 Tu peux aussi filtrer par unité (item ou shulker), ou rechercher un objet précis par son nom.
 
-Chaque contrat affiché montre l'objet demandé, le nom de l'auteur, le temps restant, la progression des livraisons, le prix par unité et l'argent restant à gagner.
+Chaque contrat affiché montre l'objet demandé, le nom de l'auteur, le temps restant, la progression des livraisons, le prix par unité, le prix par pile et l'argent restant à gagner.
 
 {% hint style="info" %}
 Les contrats à moins de <mark style="color:red;">24 heures</mark> de l'échéance sont signalés en rouge.
