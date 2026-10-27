@@ -37,7 +37,7 @@ La balise s'applique jusqu'à la fin de ton message. Pour l'arrêter avant, refe
 
 Tu as les 16 couleurs du jeu :
 
-`black` · `dark_blue` · `dark_green` · `dark_aqua` · `dark_red` · `dark_purple` · `gold` · `gray` · `dark_gray` · `blue` · `green` · `aqua` · `light_purple` · `yellow` · `white`
+`black` · `dark_blue` · `dark_green` · `dark_aqua` · `dark_red` · `dark_purple` · `gold` · `gray` · `dark_gray` · `blue` · `green` · `aqua` · `red` · `light_purple` · `yellow` · `white`
 
 ```
 <gold>Bonjour <aqua>tout le monde
