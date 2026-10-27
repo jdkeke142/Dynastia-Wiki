@@ -9,6 +9,7 @@
 * [⛏️ Métiers](fonctionnalites/metiers.md)
 * [🛒 AdminShop](fonctionnalites/adminshop.md)
 * [🏨 Hôtel des Ventes](fonctionnalites/hdv.md)
+* [📜 Hôtel des Contrats](fonctionnalites/hdc.md)
 * [⚙️ Fermes et entités](fonctionnalites/fermes-et-entites.md)
 * [🌎 Monde survie](fonctionnalites/monde-survie.md)
 * [🎲 Téléportation aléatoire](fonctionnalites/rtp.md)
