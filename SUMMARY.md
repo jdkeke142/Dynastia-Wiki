@@ -11,6 +11,7 @@
 * [🏨 Hôtel des Ventes](fonctionnalites/hdv.md)
 * [📜 Hôtel des Contrats](fonctionnalites/hdc.md)
 * [⚙️ Fermes et entités](fonctionnalites/fermes-et-entites.md)
+* [🛡️ Claims](fonctionnalites/claims.md)
 * [🌎 Monde survie](fonctionnalites/monde-survie.md)
 * [🎲 Téléportation aléatoire](fonctionnalites/rtp.md)
 * [⌨️ Zone AFK](fonctionnalites/zone-afk.md)
