@@ -77,7 +77,7 @@ Dans tout le règlement, ces termes ont le sens défini ici :
   * les mods de tri et de gestion d'inventaire, **tant qu'une action du joueur déclenche chaque opération** ;
   * les mods purement visuels ou d'optimisation (Optifine, Sodium...), **sans avantage de vision souterraine ou dans la lave**.
 * **R24** · **Tout dispositif externe au jeu générant des clics** (logiciel ou matériel) est <mark style="color:red;">**interdit**</mark>. Les fonctionnalités natives de Minecraft sont autorisées ; le joueur reste néanmoins présent derrière son écran et répond à tout contrôle de la modération.
-* **R25** · **Exploiter volontairement un bug** est <mark style="color:red;">**interdit**</mark>. Tout bug rencontré se signale via un ticket sur le [Discord](https://discord.gg/qqBCWgpRDc).
+* **R25** · **Exploiter volontairement un bug provenant du serveur** est <mark style="color:red;">**interdit**</mark>. Les bugs présents dans Minecraft vanilla sont autorisés tant qu'ils ne sont pas bloqués automatiquement ; le lavaclear fait toutefois exception et reste <mark style="color:red;">**interdit**</mark>. Tout bug rencontré se signale via un ticket sur le [Discord](https://discord.gg/qqBCWgpRDc).
 * **R26** · **Dégrader volontairement les performances du serveur** est <mark style="color:red;">**interdit**</mark> : machines à lag, accumulations d'entités, systèmes conçus pour surcharger, qu'une mécanique de jeu soit détournée ou non.
 
 <p align="center"><img src=".gitbook/assets/sep-dynastia.png" alt=""></p>
