@@ -19,7 +19,7 @@ Depuis le tableau, clique sur « Créer un contrat ». Tu devras définir :
 * **La durée** — de <mark style="color:red;">1 à 14 jours</mark>.
 
 {% hint style="warning" %}
-Une taxe de <mark style="color:red;">15%</mark> s'ajoute au prix total au moment de la publication. Cette taxe n'est jamais remboursée, même si tu annules le contrat.
+Une taxe de <mark style="color:red;">10%</mark> s'ajoute au prix total au moment de la publication. Cette taxe n'est jamais remboursée, même si tu annules le contrat.
 {% endhint %}
 
 Une fois tout réglé, clique sur « Publier le contrat ». L'intégralité du prix (+ taxe) est prélevée à ce moment-là : l'argent est mis de côté pour payer les livreurs.
