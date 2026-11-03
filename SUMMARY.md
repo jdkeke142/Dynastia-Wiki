@@ -2,6 +2,7 @@
 
 * [🎮 Dynastia](README.md)
 * [⚖️ Règlement Général](reglement.md)
+* [🚨 Modération](moderation.md)
 
 ## 📗 Fonctionnalités
 
