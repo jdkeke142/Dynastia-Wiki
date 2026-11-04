@@ -19,13 +19,15 @@ Toute sanction est proportionnée aux faits et aux antécédents du joueur (R3).
 | `/unmute <joueur> <raison>` | Lui rend la parole. |
 | `/unban <joueur> <raison>` | Lève son bannissement. |
 | **Suivre** | |
-| `/casier <joueur>` | Ouvre l'historique de ses sanctions. [Détails](#casier) |
+| `/casier <joueur>` | Ouvre l'historique de ses sanctions. Raccourcis : `/c`, `/history`. [Détails](#casier) |
 | `/banlist` | Ouvre la liste des bannissements du serveur. [Détails](#listes) |
 | `/mutelist` | Ouvre la liste des réductions au silence du serveur. [Détails](#listes) |
-| `/comptes <joueur>` | Liste ses comptes liés (même adresse). [Détails](#doubles-comptes) |
+| `/comptes <joueur>` | Liste ses comptes liés (même adresse). Raccourci : `/alts`. [Détails](#doubles-comptes) |
 | **Rester discret** | [Détails](#modes) |
 | `/afk` | Active ou désactive le mode AFK. |
-| `/vanish` | Active ou désactive le mode spectateur. |
+| `/vanish` | Active ou désactive le mode spectateur. Raccourci : `/v`. |
+
+Ajoute `help` après une commande pour afficher son aide en jeu, par exemple `/ban help`.
 
 ## <mark style="color:yellow;">Sanctionner</mark> <a href="#sanctionner" id="sanctionner"></a>
 
@@ -106,7 +108,14 @@ N'ajoute au foyer que des personnes <mark style="color:red;">réellement différ
 
 ### <mark style="color:yellow;">Le mode AFK</mark> <a href="#afk" id="afk"></a>
 
-`/afk` l'active ou le désactive. Tu disparais de la liste des joueurs, et un joueur qui t'écrit en privé lit « Ce joueur n'est pas connecté ». Ton personnage reste visible et tu joues normalement.
+`/afk` l'active ou le désactive. Pour les joueurs, tu as l'air déconnecté :
+
+* tu disparais de la liste des joueurs, et tu n'es pas compté dans le nombre de joueurs connectés ;
+* ton pseudo ne leur est pas proposé quand ils tapent un nom ;
+* ils ne voient pas ton message de connexion ni de déconnexion ;
+* un joueur qui t'écrit en privé lit « Ce joueur n'est pas connecté ».
+
+Ton personnage reste pourtant visible dans le monde, et tu joues normalement.
 
 Tu passes en mode AFK automatiquement à chaque connexion, et après <mark style="color:red;">5 minutes</mark> d'inactivité. Dans ce second cas, il se retire dès que tu bouges.
 
