@@ -6,17 +6,28 @@ Ce guide présente les outils de l'équipe de modération : sanctionner, suivre 
 Toute sanction est proportionnée aux faits et aux antécédents du joueur (R3). Tu ne traites jamais un cas qui te concerne personnellement (R5).
 {% endhint %}
 
-## <mark style="color:yellow;">Sanctionner</mark> <a href="#sanctionner" id="sanctionner"></a>
+## <mark style="color:yellow;">Les commandes</mark> <a href="#commandes" id="commandes"></a>
 
-| Commande | Effet pour le joueur |
+| Commande | Ce qu'elle fait |
 | --- | --- |
-| `/warn <joueur> <motif>` | Un message l'avertit. Aucun effet sur le jeu. |
-| `/kick <joueur> <motif>` | Il est déconnecté, et peut revenir aussitôt. Il doit être en ligne. |
-| `/mute <joueur> <durée> <motif>` | Il ne peut plus écrire dans le chat ni envoyer de messages privés. |
-| `/ban <joueur> <durée> <motif>` | Il est déconnecté et ne peut plus revenir avant la fin de la durée. |
+| **Sanctionner** | [Détails](#sanctionner) |
+| `/warn <joueur> <motif>` | Avertit le joueur par un message. Aucun effet sur le jeu. |
+| `/kick <joueur> <motif>` | Déconnecte le joueur, qui peut revenir aussitôt. Il doit être en ligne. |
+| `/mute <joueur> <durée> <motif>` | L'empêche d'écrire dans le chat et d'envoyer des messages privés. |
+| `/ban <joueur> <durée> <motif>` | Le déconnecte et l'empêche de revenir avant la fin de la durée. |
 | `/unwarn <joueur> <raison>` | Retire son dernier avertissement. |
 | `/unmute <joueur> <raison>` | Lui rend la parole. |
 | `/unban <joueur> <raison>` | Lève son bannissement. |
+| **Suivre** | |
+| `/casier <joueur>` | Ouvre l'historique de ses sanctions. [Détails](#casier) |
+| `/banlist` | Ouvre la liste des bannissements du serveur. [Détails](#listes) |
+| `/mutelist` | Ouvre la liste des réductions au silence du serveur. [Détails](#listes) |
+| `/comptes <joueur>` | Liste ses comptes liés (même adresse). [Détails](#doubles-comptes) |
+| **Rester discret** | [Détails](#modes) |
+| `/afk` | Active ou désactive le mode AFK. |
+| `/vanish` | Active ou désactive le mode spectateur. |
+
+## <mark style="color:yellow;">Sanctionner</mark> <a href="#sanctionner" id="sanctionner"></a>
 
 Le joueur sanctionné voit toujours ton nom et le motif. Un joueur banni voit aussi le temps restant à chaque tentative de connexion, et l'invitation à contester sur le Discord. Un joueur réduit au silence voit le temps restant chaque fois qu'il essaie d'écrire. Quiconque lui envoie un message privé est prévenu qu'il ne pourra pas répondre.
 
