@@ -29,11 +29,22 @@ Le menu se consulte avec la commande <mark style="color:yellow;">`/prestige`</ma
 Les sommes grimpent vite : <mark style="color:red;">5 000 $</mark> pour le premier palier, mais <mark style="color:red;">120 000 000 $</mark> pour le dernier. Gagner de l'argent — par les [métiers](metiers.md), l'[Hôtel des Ventes](hdv.md) ou le commerce — est le nerf de la progression.
 {% endhint %}
 
-## <mark style="color:yellow;">Ce que débloque chaque palier</mark> <a href="#avantages" id="avantages"></a>
+## <mark style="color:yellow;">Palier par palier</mark> <a href="#detail" id="detail"></a>
 
-Les avantages s'accumulent : à chaque palier tu gardes tout ce que tu avais, et tu ajoutes les nouveautés ci-dessous.
+Pour chaque palier : les conditions exactes à remplir, et les avantages qu'il débloque. Les avantages s'accumulent — à chaque palier tu gardes tout ce que tu avais et tu ajoutes les nouveautés.
 
 ### 🟢 <mark style="color:yellow;">Novice</mark>
+
+**Conditions**
+
+* Tuer 100 créatures, toutes confondues
+* Miner 2 000 Roches
+* 128 Pierres
+* 32 Lingots de fer
+* 16 Lingots d'or
+* <mark style="color:red;">5 000 $</mark>
+
+**Avantages**
 
 * 3 résidences
 * 8 emplacements à l'[Hôtel des Ventes](hdv.md)
@@ -41,6 +52,17 @@ Les avantages s'accumulent : à chaque palier tu gardes tout ce que tu avais, et
 * Ouvrir un métier à tisser depuis n'importe où
 
 ### 🟩 <mark style="color:yellow;">Initié</mark>
+
+**Conditions**
+
+* 100 Zombies, 100 Creepers, 100 Squelettes, 15 Gardiens
+* Fabriquer 5 000 objets
+* 64 Diamants
+* 128 Lingots de fer, 128 Lingots d'or
+* 4 Minerais d'émeraude
+* <mark style="color:red;">20 000 $</mark>
+
+**Avantages**
 
 * 5 résidences, 12 emplacements à l'Hôtel des Ventes
 * 1 warp joueur
@@ -50,6 +72,18 @@ Les avantages s'accumulent : à chaque palier tu gardes tout ce que tu avais, et
 
 ### 🔵 <mark style="color:yellow;">Adepte</mark>
 
+**Conditions**
+
+* 4 Ender Dragons, 10 Withers, 20 Wither squelettes, 2 Ravageurs
+* Infliger 100 000 points de dégâts
+* 16 Blocs de diamant, 2 Blocs de Netherite
+* 16 Minerais d'émeraude
+* 64 Pommes dorées
+* 5 Têtes de dragon
+* <mark style="color:red;">100 000 $</mark>
+
+**Avantages**
+
 * 8 résidences, 18 emplacements à l'Hôtel des Ventes, 2 warps joueur
 * Un deuxième [métier](metiers.md) en même temps
 * Ouvrir un établi, une enclume et une meule à distance
@@ -57,11 +91,34 @@ Les avantages s'accumulent : à chaque palier tu gardes tout ce que tu avais, et
 
 ### 🔷 <mark style="color:yellow;">Expert</mark>
 
+**Conditions**
+
+* 20 Withers, 50 Phantoms, 25 Shulkers, 10 Évocateurs
+* Fabriquer 50 000 objets
+* 64 Blocs de diamant, 64 Blocs d'or, 9 Blocs de Netherite
+* 32 Minerais d'émeraude
+* 5 Têtes de dragon
+* <mark style="color:red;">500 000 $</mark>
+
+**Avantages**
+
 * 15 résidences, 20 emplacements à l'Hôtel des Ventes, 3 warps joueur
 * Ouvrir ton coffre de l'Ender depuis n'importe où
 * Demander à un joueur de se téléporter vers toi
 
 ### 🟠 <mark style="color:yellow;">Élite</mark>
+
+**Conditions**
+
+* 100 Ghasts, 20 Withers, 100 Phantoms, 50 Shulkers, 9 Ender Dragons
+* Fabriquer 100 000 objets
+* 128 Blocs de diamant, 256 Blocs d'or, 128 Blocs de fer, 16 Blocs de Netherite
+* 64 Minerais d'émeraude
+* 500 Fleurs de chorus
+* 10 Têtes de dragon, 5 Têtes de squelette, 5 Têtes de Creeper, 5 Têtes de zombie
+* <mark style="color:red;">3 000 000 $</mark>
+
+**Avantages**
 
 * 30 résidences, 25 emplacements à l'Hôtel des Ventes, 6 warps joueur
 * Un troisième métier en même temps
@@ -72,10 +129,37 @@ Les avantages s'accumulent : à chaque palier tu gardes tout ce que tu avais, et
 
 ### 🟡 <mark style="color:yellow;">Maître</mark>
 
+**Conditions**
+
+* 500 Ghasts, 40 Withers, 200 Phantoms, 50 Vex, 20 Ender Dragons, 100 Noyés
+* Fabriquer 1 000 000 d'objets
+* 256 Blocs de diamant, 512 Blocs d'or, 512 Blocs de fer, 16 Blocs de Netherite
+* 64 Minerais d'émeraude
+* 4 Pommes dorées enchantées
+* 20 Têtes de Creeper
+* 20 Étoiles du Nether
+* 1 Motif de bannière Globe
+* <mark style="color:red;">10 000 000 $</mark>
+
+**Avantages**
+
 * 40 résidences, 28 emplacements à l'Hôtel des Ventes, 8 warps joueur
 * Retourner à l'endroit de ta dernière mort
 
 ### 🔴 <mark style="color:yellow;">Légende</mark>
+
+**Conditions**
+
+* 50 Wardens, 50 Ravageurs, 5 000 Endermen
+* 32 Blocs de Netherite
+* 124 Minerais d'émeraude
+* 10 Pommes dorées enchantées
+* 1 900 Fleurs de chorus
+* 1 Œuf de dragon
+* 1 Tête de Piglin
+* <mark style="color:red;">15 000 000 $</mark>
+
+**Avantages**
 
 * 50 résidences, 30 emplacements à l'Hôtel des Ventes, 10 warps joueur
 * **Voler** librement sur le serveur
@@ -83,22 +167,23 @@ Les avantages s'accumulent : à chaque palier tu gardes tout ce que tu avais, et
 
 ### 🟣 <mark style="color:yellow;">Mythe</mark>
 
+**Conditions**
+
+* <mark style="color:red;">60 000 000 $</mark>
+
+**Avantages**
+
 * 75 résidences
 * Vitesse de vol doublée
 * Désactiver l'attaque des phantoms sur toi
 
 ### 💠 <mark style="color:yellow;">Divinité</mark>
 
+**Conditions**
+
+* <mark style="color:red;">120 000 000 $</mark>
+
+**Avantages**
+
 * 100 résidences
 * Vitesse de vol triplée, vitesse de marche triplée
-
-## <mark style="color:yellow;">Le prestige entre deux versions du jeu</mark> <a href="#versions" id="versions"></a>
-
-À chaque nouvelle version de Minecraft, certains éléments sont réinitialisés et d'autres conservés. Concernant le prestige :
-
-* **Le palier que tu as atteint est conservé.** Tu ne repars jamais de zéro sur ce point.
-* **En revanche, ta progression en cours vers le palier suivant** — les accomplissements accumulés depuis ton dernier palier — **repart à zéro.**
-
-{% hint style="info" %}
-Pour le détail complet de ce qui est transféré ou non entre deux versions, consulte le [Règlement Général](../reglement.md).
-{% endhint %}
