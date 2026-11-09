@@ -53,96 +53,44 @@ L'argent est le nerf de la progression : il grimpe de <mark style="color:red;">5
 
 ## <mark style="color:yellow;">Palier par palier</mark> <a href="#detail" id="detail"></a>
 
-Les avantages **s'accumulent** : à chaque palier tu conserves tout ce que tu avais et tu ajoutes les nouveautés listées.
+Les avantages **s'accumulent** : à chaque palier tu conserves tout ce que tu avais et tu ajoutes les nouveautés. Chaque bloc montre ses **conditions** à gauche et ce qu'il **débloque** à droite.
 
 ### 🟢 <mark style="color:yellow;">Novice</mark>
 
-| Catégorie | À réaliser |
-| --- | --- |
-| 🏹 Chasse | Tuer 100 créatures, toutes confondues |
-| ⛏️ Minage | Miner 2 000 Roches |
-| 📦 Collecte | 128 Pierres · 32 Lingots de fer · 16 Lingots d'or |
-| 💰 Économie | 5 000 $ |
-
-**Tu débloques :** 3 résidences · 8 emplacements à l'[Hôtel des Ventes](hdv.md) · porter un objet comme chapeau · ouvrir un métier à tisser où que tu sois.
+<table data-full-width="true"><thead><tr><th width="50%">🎯 Conditions</th><th>🎁 Avantages</th></tr></thead><tbody><tr><td>🏹 <strong>Chasse</strong> — Tuer 100 créatures, toutes confondues<br>⛏️ <strong>Minage</strong> — Miner 2 000 Roches<br>📦 <strong>Collecte</strong> — 128 Pierres · 32 Lingots de fer · 16 Lingots d'or<br>💰 <strong>Économie</strong> — 5 000 $</td><td>🏡 3 résidences<br>🏪 8 emplacements à l'hôtel des ventes<br>🎩 Porter un objet comme chapeau<br>🧵 Métier à tisser à distance</td></tr></tbody></table>
 
 ### 🟩 <mark style="color:yellow;">Initié</mark>
 
-| Catégorie | À réaliser |
-| --- | --- |
-| 🏹 Chasse | 100 Zombies · 100 Creepers · 100 Squelettes · 15 Gardiens |
-| 🔨 Artisanat | Fabriquer 5 000 objets |
-| 📦 Collecte | 64 Diamants · 128 Lingots de fer · 128 Lingots d'or · 4 Minerais d'émeraude |
-| 💰 Économie | 20 000 $ |
-
-**Tu débloques :** 5 résidences · 12 emplacements à l'Hôtel des Ventes · 1 warp joueur · s'asseoir, s'allonger et ramper · ouvrir une table de cartographie et un tailleur de pierre à distance · une poubelle pour jeter tes objets.
+<table data-full-width="true"><thead><tr><th width="50%">🎯 Conditions</th><th>🎁 Avantages</th></tr></thead><tbody><tr><td>🏹 <strong>Chasse</strong> — 100 Zombies · 100 Creepers · 100 Squelettes · 15 Gardiens<br>🔨 <strong>Artisanat</strong> — Fabriquer 5 000 objets<br>📦 <strong>Collecte</strong> — 64 Diamants · 128 Lingots de fer · 128 Lingots d'or · 4 Minerais d'émeraude<br>💰 <strong>Économie</strong> — 20 000 $</td><td>🏡 5 résidences<br>🏪 12 emplacements à l'hôtel des ventes<br>🧭 1 warp joueur<br>🪑 S'asseoir, s'allonger et ramper<br>🧰 Table de cartographie et tailleur de pierre à distance<br>🗑️ Une poubelle pour jeter tes objets</td></tr></tbody></table>
 
 ### 🔵 <mark style="color:yellow;">Adepte</mark>
 
-| Catégorie | À réaliser |
-| --- | --- |
-| 🏹 Chasse | 4 Ender Dragons · 10 Withers · 20 Wither squelettes · 2 Ravageurs |
-| ⚔️ Combat | Infliger 100 000 points de dégâts |
-| 📦 Collecte | 16 Blocs de diamant · 2 Blocs de Netherite · 16 Minerais d'émeraude · 64 Pommes dorées · 5 Têtes de dragon |
-| 💰 Économie | 100 000 $ |
-
-**Tu débloques :** 8 résidences · 18 emplacements à l'Hôtel des Ventes · 2 warps joueur · un deuxième [métier](metiers.md) en même temps · ouvrir un établi, une enclume et une meule à distance · restaurer ta faim instantanément.
+<table data-full-width="true"><thead><tr><th width="50%">🎯 Conditions</th><th>🎁 Avantages</th></tr></thead><tbody><tr><td>🏹 <strong>Chasse</strong> — 4 Ender Dragons · 10 Withers · 20 Wither squelettes · 2 Ravageurs<br>⚔️ <strong>Combat</strong> — Infliger 100 000 points de dégâts<br>📦 <strong>Collecte</strong> — 16 Blocs de diamant · 2 Blocs de Netherite · 16 Minerais d'émeraude · 64 Pommes dorées · 5 Têtes de dragon<br>💰 <strong>Économie</strong> — 100 000 $</td><td>🏡 8 résidences<br>🏪 18 emplacements à l'hôtel des ventes<br>🧭 2 warps joueur<br>💼 Un deuxième métier en même temps<br>🧰 Établi, enclume et meule à distance<br>🍗 Restaurer ta faim instantanément</td></tr></tbody></table>
 
 ### 🔷 <mark style="color:yellow;">Expert</mark>
 
-| Catégorie | À réaliser |
-| --- | --- |
-| 🏹 Chasse | 20 Withers · 50 Phantoms · 25 Shulkers · 10 Évocateurs |
-| 🔨 Artisanat | Fabriquer 50 000 objets |
-| 📦 Collecte | 64 Blocs de diamant · 64 Blocs d'or · 9 Blocs de Netherite · 32 Minerais d'émeraude · 5 Têtes de dragon |
-| 💰 Économie | 500 000 $ |
-
-**Tu débloques :** 15 résidences · 20 emplacements à l'Hôtel des Ventes · 3 warps joueur · ouvrir ton coffre de l'Ender depuis n'importe où · demander à un joueur de se téléporter vers toi.
+<table data-full-width="true"><thead><tr><th width="50%">🎯 Conditions</th><th>🎁 Avantages</th></tr></thead><tbody><tr><td>🏹 <strong>Chasse</strong> — 20 Withers · 50 Phantoms · 25 Shulkers · 10 Évocateurs<br>🔨 <strong>Artisanat</strong> — Fabriquer 50 000 objets<br>📦 <strong>Collecte</strong> — 64 Blocs de diamant · 64 Blocs d'or · 9 Blocs de Netherite · 32 Minerais d'émeraude · 5 Têtes de dragon<br>💰 <strong>Économie</strong> — 500 000 $</td><td>🏡 15 résidences<br>🏪 20 emplacements à l'hôtel des ventes<br>🧭 3 warps joueur<br>🌌 Coffre de l'Ender à distance<br>🙋 Demander à un joueur de se téléporter vers toi</td></tr></tbody></table>
 
 ### 🟠 <mark style="color:yellow;">Élite</mark>
 
-| Catégorie | À réaliser |
-| --- | --- |
-| 🏹 Chasse | 100 Ghasts · 20 Withers · 100 Phantoms · 50 Shulkers · 9 Ender Dragons |
-| 🔨 Artisanat | Fabriquer 100 000 objets |
-| 📦 Collecte | 128 Blocs de diamant · 256 Blocs d'or · 128 Blocs de fer · 16 Blocs de Netherite · 64 Minerais d'émeraude · 500 Fleurs de chorus · 10 Têtes de dragon · 5 Têtes de squelette · 5 Têtes de Creeper · 5 Têtes de zombie |
-| 💰 Économie | 3 000 000 $ |
-
-**Tu débloques :** 30 résidences · 25 emplacements à l'Hôtel des Ventes · 6 warps joueur · un troisième métier en même temps · écrire en couleur et avec des effets dans le [chat](formatage-chat.md) · ouvrir une table de forge à distance · retourner à ta dernière position · te soigner instantanément · conserver ton expérience à la mort.
+<table data-full-width="true"><thead><tr><th width="50%">🎯 Conditions</th><th>🎁 Avantages</th></tr></thead><tbody><tr><td>🏹 <strong>Chasse</strong> — 100 Ghasts · 20 Withers · 100 Phantoms · 50 Shulkers · 9 Ender Dragons<br>🔨 <strong>Artisanat</strong> — Fabriquer 100 000 objets<br>📦 <strong>Collecte</strong> — 128 Blocs de diamant · 256 Blocs d'or · 128 Blocs de fer · 16 Blocs de Netherite · 64 Minerais d'émeraude · 500 Fleurs de chorus · 10 Têtes de dragon · 5 Têtes de squelette · 5 Têtes de Creeper · 5 Têtes de zombie<br>💰 <strong>Économie</strong> — 3 000 000 $</td><td>🏡 30 résidences<br>🏪 25 emplacements à l'hôtel des ventes<br>🧭 6 warps joueur<br>💼 Un troisième métier en même temps<br>💬 Écrire en couleur et avec des effets dans le chat<br>🧰 Table de forge à distance<br>↩️ Retour à ta dernière position<br>❤️ Te soigner instantanément<br>✨ Conserver ton expérience à la mort</td></tr></tbody></table>
 
 ### 🟡 <mark style="color:yellow;">Maître</mark>
 
-| Catégorie | À réaliser |
-| --- | --- |
-| 🏹 Chasse | 500 Ghasts · 40 Withers · 200 Phantoms · 50 Vex · 20 Ender Dragons · 100 Noyés |
-| 🔨 Artisanat | Fabriquer 1 000 000 d'objets |
-| 📦 Collecte | 256 Blocs de diamant · 512 Blocs d'or · 512 Blocs de fer · 16 Blocs de Netherite · 64 Minerais d'émeraude · 4 Pommes dorées enchantées · 20 Têtes de Creeper · 20 Étoiles du Nether · 1 Motif de bannière Globe |
-| 💰 Économie | 10 000 000 $ |
-
-**Tu débloques :** 40 résidences · 28 emplacements à l'Hôtel des Ventes · 8 warps joueur · retourner à l'endroit de ta dernière mort.
+<table data-full-width="true"><thead><tr><th width="50%">🎯 Conditions</th><th>🎁 Avantages</th></tr></thead><tbody><tr><td>🏹 <strong>Chasse</strong> — 500 Ghasts · 40 Withers · 200 Phantoms · 50 Vex · 20 Ender Dragons · 100 Noyés<br>🔨 <strong>Artisanat</strong> — Fabriquer 1 000 000 d'objets<br>📦 <strong>Collecte</strong> — 256 Blocs de diamant · 512 Blocs d'or · 512 Blocs de fer · 16 Blocs de Netherite · 64 Minerais d'émeraude · 4 Pommes dorées enchantées · 20 Têtes de Creeper · 20 Étoiles du Nether · 1 Motif de bannière Globe<br>💰 <strong>Économie</strong> — 10 000 000 $</td><td>🏡 40 résidences<br>🏪 28 emplacements à l'hôtel des ventes<br>🧭 8 warps joueur<br>⚰️ Retour à l'endroit de ta dernière mort</td></tr></tbody></table>
 
 ### 🔴 <mark style="color:yellow;">Légende</mark>
 
-| Catégorie | À réaliser |
-| --- | --- |
-| 🏹 Chasse | 50 Wardens · 50 Ravageurs · 5 000 Endermen |
-| 📦 Collecte | 32 Blocs de Netherite · 124 Minerais d'émeraude · 10 Pommes dorées enchantées · 1 900 Fleurs de chorus · 1 Œuf de dragon · 1 Tête de Piglin |
-| 💰 Économie | 15 000 000 $ |
+<table data-full-width="true"><thead><tr><th width="50%">🎯 Conditions</th><th>🎁 Avantages</th></tr></thead><tbody><tr><td>🏹 <strong>Chasse</strong> — 50 Wardens · 50 Ravageurs · 5 000 Endermen<br>📦 <strong>Collecte</strong> — 32 Blocs de Netherite · 124 Minerais d'émeraude · 10 Pommes dorées enchantées · 1 900 Fleurs de chorus · 1 Œuf de dragon · 1 Tête de Piglin<br>💰 <strong>Économie</strong> — 15 000 000 $</td><td>🏡 50 résidences<br>🏪 30 emplacements à l'hôtel des ventes<br>🧭 10 warps joueur<br>✈️ <strong>Voler librement sur le serveur</strong><br>🎒 <strong>Conserver ton inventaire à la mort</strong></td></tr></tbody></table>
 
-**Tu débloques :** 50 résidences · 30 emplacements à l'Hôtel des Ventes · 10 warps joueur · **voler librement sur le serveur** · **conserver ton inventaire à la mort**.
+{% hint style="success" %}
+**Légende** est le palier qui change le quotidien : tu voles partout, et tu ne perds plus ton inventaire quand tu meurs.
+{% endhint %}
 
 ### 🟣 <mark style="color:yellow;">Mythe</mark>
 
-| Catégorie | À réaliser |
-| --- | --- |
-| 💰 Économie | 60 000 000 $ |
-
-**Tu débloques :** 75 résidences · vitesse de vol doublée · désactiver l'attaque des phantoms sur toi.
+<table data-full-width="true"><thead><tr><th width="50%">🎯 Conditions</th><th>🎁 Avantages</th></tr></thead><tbody><tr><td>💰 <strong>Économie</strong> — 60 000 000 $</td><td>🏡 75 résidences<br>💨 Vitesse de vol doublée<br>👻 Désactiver l'attaque des phantoms sur toi</td></tr></tbody></table>
 
 ### 💠 <mark style="color:yellow;">Divinité</mark>
 
-| Catégorie | À réaliser |
-| --- | --- |
-| 💰 Économie | 120 000 000 $ |
-
-**Tu débloques :** 100 résidences · vitesse de vol triplée · vitesse de marche triplée.
+<table data-full-width="true"><thead><tr><th width="50%">🎯 Conditions</th><th>🎁 Avantages</th></tr></thead><tbody><tr><td>💰 <strong>Économie</strong> — 120 000 000 $</td><td>🏡 100 résidences<br>💨 Vitesse de vol triplée<br>🏃 Vitesse de marche triplée</td></tr></tbody></table>
