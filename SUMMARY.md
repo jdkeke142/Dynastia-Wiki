@@ -5,6 +5,7 @@
 
 ## 📗 Fonctionnalités
 
+* [🏆 Prestige](fonctionnalites/prestige.md)
 * [💰 Monnaies et obtention ](fonctionnalites/monnaies-et-obtention.md)
 * [⛏️ Métiers](fonctionnalites/metiers.md)
 * [🛒 AdminShop](fonctionnalites/adminshop.md)
