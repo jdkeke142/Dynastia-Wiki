@@ -3,10 +3,6 @@
 * [🎮 Dynastia](README.md)
 * [⚖️ Règlement Général](reglement.md)
 
-## 📢 Annonces
-
-* [🛍️ La nouvelle boutique](annonces/nouvelle-boutique.md)
-
 ## 📗 Fonctionnalités
 
 * [🏆 Prestige](fonctionnalites/prestige.md)
