@@ -173,6 +173,33 @@ Tu peux **fusionner** plusieurs lootboxes pour en obtenir une d'un rang au-dessu
 
 La fusion s'arrête à ★★★★★ : la lootbox fabuleuse ne s'obtient pas de cette façon.
 
+### <mark style="color:yellow;">Les gros lots</mark> <a href="#gros-lots" id="gros-lots"></a>
+
+Chaque lot a une **rareté**, qui indique sa valeur : Commun, Peu commun, Rare, Épique, Légendaire et, tout en haut, **Exceptionnelle**. Les plus beaux lots se cachent dans les lootboxes les plus hautes :
+
+| Lot | Rareté | Où le trouver |
+| --- | --- | --- |
+| 👑 **Grade VIPMax** | Exceptionnelle | Fabuleuse |
+| ⛏️ **Pioche Divine** | Exceptionnelle | Fabuleuse |
+| ⛏️ **Pioche de Dynastia** | Légendaire | ★★★★★ · Fabuleuse |
+| ☁️ **Vol permanent** | Légendaire | ★★★★★ · Fabuleuse |
+| 🎒 **Garder l'inventaire** à la mort | Légendaire | ★★★★★ · Fabuleuse |
+| 🌙 **Sans phantoms** | Légendaire | ★★★★★ · Fabuleuse |
+| ⛁ **1 000 crédits** | Légendaire | ★★★★★ · Fabuleuse |
+| 💰 **1 500 000 $** et **1 000 000 $** | Légendaire | ★★★★★ · Fabuleuse |
+| 💰 **750 000 $** | Légendaire | ★★★★ · ★★★★★ · Fabuleuse |
+| 💎 **512 blocs de diamant** | Légendaire | ★★★★★ · Fabuleuse |
+| 💎 **256 blocs de diamant** | Légendaire | ★★★★ · ★★★★★ |
+| ⬛ **32 blocs de netherite** | Légendaire | ★★★★★ · Fabuleuse |
+| ⬛ **16 blocs de netherite** | Légendaire | ★★★★ · ★★★★★ |
+| 🥚 **Œuf de dragon** | Légendaire | ★★★★★ · Fabuleuse |
+
+La chance exacte de chaque lot est affichée dans le contenu de la lootbox (clic droit dessus).
+
+{% hint style="info" %}
+Un avantage que tu possèdes déjà — le vol permanent, par exemple — **ne peut pas sortir** de tes lootboxes : il est retiré de ton tirage, et sa chance est répartie entre les autres lots.
+{% endhint %}
+
 ### <mark style="color:yellow;">Les éditions limitées</mark> <a href="#editions-limitees" id="editions-limitees"></a>
 
 Certains lots n'existent qu'en **quelques exemplaires numérotés**. Une fois le dernier sorti, ils disparaissent des lootboxes pour de bon.
