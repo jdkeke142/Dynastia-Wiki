@@ -24,7 +24,7 @@ Une taxe de <mark style="color:red;">10%</mark> s'ajoute au prix total au moment
 
 Une fois tout réglé, clique sur « Publier le contrat ». L'intégralité du prix (+ taxe) est prélevée à ce moment-là : l'argent est mis de côté pour payer les livreurs.
 
-Tu peux avoir jusqu'à <mark style="color:red;">2 contrats</mark> ouverts en même temps.
+Tu peux avoir <mark style="color:red;">2 contrats</mark> ouverts en même temps. Des emplacements supplémentaires s'achètent dans la [boutique](../annonces/nouvelle-boutique.md#cumul), jusqu'à <mark style="color:red;">10 contrats</mark> au total.
 
 ***
 
@@ -99,7 +99,7 @@ Les contrats dont tu es adjoint apparaissent dans la section « Contrats confié
 
 Accessible depuis le tableau, la réserve est un espace de stockage personnel pour tes **shulkers vides**. Quand tu retires les livraisons d'un contrat à la shulker, les objets sont automatiquement rangés dans des shulkers prises depuis ta réserve.
 
-Selon ton grade, ta réserve peut compter plusieurs pages.
+Ta réserve compte <mark style="color:red;">1 page</mark> au départ. Des pages supplémentaires s'achètent dans la [boutique](../annonces/nouvelle-boutique.md#cumul), jusqu'à <mark style="color:red;">5 pages</mark> au total.
 
 Si ta réserve est vide, tu ne pourras pas retirer les livraisons d'un contrat à la shulker — pense à la remplir à l'avance.
 

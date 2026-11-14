@@ -2,7 +2,7 @@
 
 La zone AFK te permet d'obtenir des récompenses en étant inactif mais connecté sur le serveur. Tu es récompensé pour soutenir le serveur en restant sur celui-ci au lieu de de te déconnecter pendant tes pauses.&#x20;
 
-Les récompenses obtenables sont listées sur l'hologramme visible à l'entrée de la zone.
+Les récompenses obtenables sont listées sur l'hologramme visible à l'entrée de la zone. Tu y gagnes notamment des [crédits](monnaies-et-obtention.md#credit) et, plus rarement, une [lootbox](../annonces/nouvelle-boutique.md#lootboxes) ★★★★★.
 
 Tu peux y entrer à ta guise via la commande <mark style="color:yellow;">`/warp afk`</mark>.
 

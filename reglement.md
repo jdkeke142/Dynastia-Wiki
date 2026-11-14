@@ -100,7 +100,7 @@ Dans tout le règlement, ces termes ont le sens défini ici :
 * **R35** · **Échanger quoi que ce soit du serveur contre une contrepartie extérieure** est <mark style="color:red;">**interdit**</mark>, à la vente comme à l'achat : argent réel, monnaies ou biens d'autres plateformes, services hors serveur. Les articles de la boutique ne se vendent que sur la boutique officielle.
 * **R36** · **Obtenir un bien, un paiement ou un service par tromperie** sur ce qui est promis en échange est <mark style="color:red;">**interdit**</mark> : un échange convenu s'honore. La modération tranche sur preuves.
 * **R37** · **Le don de têtes décoratives (/hdb) ne se substitue pas à l'achat de la commande** : le commerce et les dons répétés vers un joueur n'y ayant pas accès sont <mark style="color:red;">**interdits**</mark> ; le don occasionnel, notamment aux joueurs aidant le donateur sur une construction, est <mark style="color:green;">**toléré**</mark>. La modération apprécie au cas par cas selon ce principe.
-* **R38** · **Louer un objet légendaire** (caisse légendaire) est <mark style="color:red;">**interdit**</mark> ; le vendre est <mark style="color:green;">**autorisé**</mark>.
+* **R38** · **Louer un objet légendaire** (lot légendaire ou exceptionnel des lootboxes) est <mark style="color:red;">**interdit**</mark> ; le vendre est <mark style="color:green;">**autorisé**</mark>.
 * **R39** · **Le propriétaire d'un objet légendaire reste seul responsable** de sa casse ou de sa perte, même prêté gratuitement.
 
 <p align="center"><img src=".gitbook/assets/sep-dynastia.png" alt=""></p>
@@ -117,7 +117,7 @@ Dans tout le règlement, ces termes ont le sens défini ici :
 
 * **R43** · **Les pertes en jeu** ne sont compensées qu'en cas de bug imputable au serveur, via ticket ; dans tous les autres cas, la protection des biens incombe à leur propriétaire.
 * **R44** · **Transferts de compte** : l'<mark style="color:red;">Administration</mark> peut migrer les données d'un compte vers un autre **uniquement si les deux appartiennent à la même personne**, dans les deux cas ci-dessous. Aucun transfert vers le compte d'une autre personne, même sur demande.
-* **R45** · **En cas de changement de pseudonyme**, le serveur conserve tout automatiquement, sauf les dollars ($), transférés par l'<mark style="color:red;">Administration</mark> via un ticket précisant l'ancien et le nouveau pseudonyme.
+* **R45** · **En cas de changement de pseudonyme**, le serveur conserve tout automatiquement, crédits et joyaux compris, sauf les dollars ($), transférés par l'<mark style="color:red;">Administration</mark> via un ticket précisant l'ancien et le nouveau pseudonyme.
 * **R46** · **En cas de compte perdu**, l'<mark style="color:red;">Administration</mark> peut migrer vers le nouveau compte du même joueur, sur ticket, uniquement les éléments ci-dessous. Tout le reste est définitivement perdu.
 
 | ✅ Transféré | ❌ Perdu |

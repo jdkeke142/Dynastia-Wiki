@@ -51,6 +51,8 @@ Les objectifs personnels sont accessibles depuis le menu principal de chaque mé
 
 Il y a un <mark style="color:red;">nombre maximum de métiers</mark> simultanés par joueur, qui dépend de ton grade sur le serveur. Plus ton grade est élevé plus tu pourras pratiquer de métiers simultanément.
 
+Ce que t'apportent ton [prestige](prestige.md) et ton grade VIP **s'additionne**, jusqu'à <mark style="color:red;">3 métiers</mark> en même temps.
+
 ## <mark style="color:yellow;">Commandes</mark>
 
 <mark style="color:yellow;">`/jobs`</mark> : Ouvrir le menu principal des Métiers.\

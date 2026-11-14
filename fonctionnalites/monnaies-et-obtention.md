@@ -25,13 +25,31 @@ Le dollar s'obtient  des manières suivantes :
 
 ### <mark style="color:yellow;">À quoi ça sert ?</mark> <a href="#usage" id="usage"></a>
 
-Le crédit est une monnaie secondaire qui te permet d'acheter du contenu dans la boutique annexe du serveur, sans nécessairement débourser le moindre argent réel.
+Le crédit (⛁) est une monnaie secondaire qui te permet d'acheter du contenu dans la [boutique](../annonces/nouvelle-boutique.md) du serveur (<mark style="color:yellow;">`/boutique`</mark>), **sans débourser le moindre argent réel**. Grades VIP, commandes, lootboxes : presque tout s'y achète aussi en crédits.
+
+Ton solde s'affiche avec la commande <mark style="color:yellow;">`/credits`</mark>.
 
 Le crédit est une monnaie non échangeable.
 
 ### <mark style="color:yellow;">Comment l'obtenir ?</mark> <a href="#obtention" id="obtention"></a>
 
-Le crédit s'obtient en réalisant toute action qui soutient le référencement du serveur. Actuellement le crédit s'obtient des manières suivantes :
+Le crédit ne s'achète pas : il s'obtient uniquement en réalisant des actions qui soutiennent le serveur. Actuellement le crédit s'obtient des manières suivantes :
 
 * En votant pour le serveur.
 * En restant dans la [zone AFK](zone-afk.md).
+
+## <mark style="color:yellow;">Le joyau</mark> <a href="#joyau" id="joyau"></a>
+
+### <mark style="color:yellow;">À quoi ça sert ?</mark> <a href="#joyau-usage" id="joyau-usage"></a>
+
+Le joyau (✦) est la monnaie de soutien du serveur. Il se dépense dans la [boutique](../annonces/nouvelle-boutique.md) (<mark style="color:yellow;">`/boutique`</mark>), comme le crédit. Quelques articles, comme la lootbox fabuleuse, ne s'achètent qu'en joyaux.
+
+Un même achat se paie avec **une seule** monnaie : on ne mélange jamais joyaux et crédits.
+
+Ton solde s'affiche avec la commande <mark style="color:yellow;">`/joyaux`</mark>.
+
+Le joyau est une monnaie non échangeable.
+
+### <mark style="color:yellow;">Comment l'obtenir ?</mark> <a href="#joyau-obtention" id="joyau-obtention"></a>
+
+Le joyau s'obtient uniquement en l'achetant sur la boutique en ligne, [boutique.dynastia.fr](https://boutique.dynastia.fr). Les plus gros paquets donnent des joyaux en bonus.
