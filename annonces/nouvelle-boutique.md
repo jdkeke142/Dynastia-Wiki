@@ -56,6 +56,10 @@ Ce que tu possèdes déjà apparaît comme **✔ Possédé** et ne peut pas êtr
 Comme avant, **tout achat est définitif** et ne peut pas être remboursé (voir le [Règlement](../reglement.md)). Vérifie bien le récapitulatif avant de payer.
 {% endhint %}
 
+### <mark style="color:yellow;">Des achats qui se fêtent</mark> <a href="#animations-achat" id="animations-achat"></a>
+
+Chaque achat est célébré par une petite animation, juste devant tes yeux. Les plus beaux achats — les **grades VIP**, le **vol permanent** et les **lootboxes**, fabuleuse en tête — ont même droit à une **animation travaillée rien que pour eux**.
+
 ## <mark style="color:yellow;">Grades VIP</mark> <a href="#grades" id="grades"></a>
 
 Deux changements importants :
@@ -149,6 +153,10 @@ Les anciennes caisses et leurs clés disparaissent. À leur place : les **lootbo
 * <mark style="color:yellow;">`/lootbox`</mark> ouvre ta réserve de lootboxes depuis n'importe où. Quand tu en ouvres une, tu es emmené devant le coffre pour assister au tirage.
 * **Clic droit** sur une lootbox pour voir **tout son contenu**, avec la chance de chaque lot. Tu peux consulter le contenu de chaque lootbox même sans en posséder.
 * Si ton inventaire est plein au moment de recevoir ton lot, il **t'attend au coffre** : rien n'est perdu.
+
+### <mark style="color:yellow;">L'ouverture</mark> <a href="#ouverture" id="ouverture"></a>
+
+Ouvrir une lootbox, c'est tout un spectacle : **plus le lot est rare, plus la célébration est grandiose**, et les lots **Exceptionnels** ont droit à une mise en scène qui leur est réservée. Les lots **Légendaires** et **Exceptionnels** sont en plus annoncés à tout le serveur.
 
 ### <mark style="color:yellow;">Tes clés sont converties</mark> <a href="#conversion" id="conversion"></a>
 
