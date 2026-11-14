@@ -28,7 +28,7 @@ Presque tout s'achète avec l'une **ou** l'autre monnaie. Un même achat se paie
 
 ## <mark style="color:yellow;">La boutique en jeu</mark> <a href="#boutique" id="boutique"></a>
 
-La boutique s'ouvre avec <mark style="color:yellow;">`/boutique`</mark> (ou <mark style="color:yellow;">`/shop`</mark>), qui remplace l'ancien <mark style="color:yellow;">`/credits`</mark>. Tu peux aussi parler à **Maru le roublard**, le marchand du spawn.
+La boutique s'ouvre avec <mark style="color:yellow;">`/boutique`</mark> : elle ne s'ouvre plus avec <mark style="color:yellow;">`/credits`</mark>, qui affiche désormais ton solde de crédits. Tu peux aussi parler à **Maru le roublard**, le marchand du spawn.
 
 Elle est rangée en **rayons**, accessibles à tout moment par les onglets en haut de la fenêtre. Tu peux aussi ouvrir un rayon directement, par exemple <mark style="color:yellow;">`/boutique vol`</mark>.
 
@@ -107,6 +107,8 @@ Le rayon **Commandes** te permet de débloquer à l'unité une commande que ton 
 | <mark style="color:yellow;">`/pweather`</mark> | Choisis la météo **pour toi seul** : soleil ou pluie |
 | <mark style="color:yellow;">`/armor`</mark> | Cache ton armure aux yeux des autres joueurs |
 | <mark style="color:yellow;">`/walkspeed`</mark> | Marche 1,5 fois plus vite |
+
+Certaines de ces nouveautés sont aussi **incluses dans des prestiges et des grades** : <mark style="color:yellow;">`/compact`</mark> avec le prestige **Expert** et le grade **VIP**, <mark style="color:yellow;">`/nightvision`</mark> avec le prestige **Maître** et le grade **VIPMax**. Si tu les as déjà, elles apparaissent comme possédées dans la boutique.
 
 {% hint style="info" %}
 L'heure et la météo personnelles sont **purement visuelles** : les monstres et la pluie, eux, suivent la véritable heure et la véritable météo du serveur.
