@@ -131,11 +131,4 @@ Tes objets achetés et tes ventes expirées t'attendent <mark style="color:red;"
 
 <a href="#commandes" id="commandes"></a>
 
-<mark style="color:yellow;">`/hdv`</mark> : Ouvrir l'Hôtel des Ventes.\
-<mark style="color:yellow;">`/hdv vendre`</mark> : Mettre un objet en vente.\
-<mark style="color:yellow;">`/hdv ventes`</mark> : Voir tes ventes en ligne.\
-<mark style="color:yellow;">`/hdv achats`</mark> : Récupérer tes objets achetés.\
-<mark style="color:yellow;">`/hdv expirees`</mark> : Récupérer tes ventes expirées.\
-<mark style="color:yellow;">`/hdv offres`</mark> : Voir les offres reçues sur tes ventes.\
-<mark style="color:yellow;">`/hdv historique`</mark> : Voir l'historique de tes ventes.\
-<mark style="color:yellow;">`/hdv help`</mark> : Afficher la liste des commandes.
+<mark style="color:yellow;">`/hdv`</mark> : Ouvrir l'Hôtel des Ventes.
