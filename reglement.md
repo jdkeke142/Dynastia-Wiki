@@ -102,6 +102,8 @@ Dans tout le règlement, ces termes ont le sens défini ici :
 * **R37** · **Le don de têtes décoratives (/hdb) ne se substitue pas à l'achat de la commande** : le commerce et les dons répétés vers un joueur n'y ayant pas accès sont <mark style="color:red;">**interdits**</mark> ; le don occasionnel, notamment aux joueurs aidant le donateur sur une construction, est <mark style="color:green;">**toléré**</mark>. La modération apprécie au cas par cas selon ce principe.
 * **R38** · **Louer un objet légendaire** (lot légendaire ou exceptionnel des lootboxes) est <mark style="color:red;">**interdit**</mark> ; le vendre est <mark style="color:green;">**autorisé**</mark>.
 * **R39** · **Le propriétaire d'un objet légendaire reste seul responsable** de sa casse ou de sa perte, même prêté gratuitement.
+* **R39-2** · **La richesse d'un joueur se trouve sur son compte bancaire** : dissimuler de grosses sommes, quelle que soit la monnaie, dans tout autre stock que le serveur propose est <mark style="color:red;">**strictement interdit**</mark>.
+* **R39-3** · **Stocker son argent sur le compte bancaire d'un autre compte** est <mark style="color:red;">**strictement interdit**</mark>, qu'il s'agisse d'un double-compte ou du compte d'un proche, y compris lorsque ce proche joue avec l'accord de la modération (R11).
 
 <p align="center"><img src=".gitbook/assets/sep-dynastia.png" alt=""></p>
 
