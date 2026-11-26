@@ -19,6 +19,7 @@
 * [🛡️ Claims](fonctionnalites/claims.md)
 * [🌎 Monde survie](fonctionnalites/monde-survie.md)
 * [🎲 Téléportation aléatoire](fonctionnalites/rtp.md)
+* [🧭 Warps joueurs](fonctionnalites/warps-joueurs.md)
 * [⌨️ Zone AFK](fonctionnalites/zone-afk.md)
 * [🌌 Ender](fonctionnalites/ender.md)
 * [🎨 Mettre en forme le chat](fonctionnalites/formatage-chat.md)
